@@ -24,3 +24,6 @@ The Christmas Gift Purchases Dashboard provides a comprehensive overview of fest
 The dashboard supports data-driven decision-making for inventory planning, marketing strategies, and festive promotions.
 
 Overall, it demonstrates effective use of Power BI visuals, DAX measures, and business insights in festive sales analysis.
+
+<img width="904" height="508" alt="image" src="https://github.com/user-attachments/assets/dfd7dab9-f973-441b-9418-693c2cefe5a7" />
+
