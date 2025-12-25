@@ -1,0 +1,1201 @@
+Purchase_ID,Purchase_Date,Customer_ID,Age_Group,Gender,City,Country,Gift_Category,Gift_Item,Recipient,Unit_Price,Quantity,Total_Revenue,Unit_Cost,Profit,Profit_Margin_%,Payment_Mode,Purchase_Channel,Discount_Percent,Satisfaction_Rating
+P0001,2025-12-05,C854,18-25,Male,Surat,India,Accessories,Perfume,Sibling,704,2,1408,448.26,511.48,36.33,UPI,Online,0,3
+P0002,2025-12-23,C658,46-55,Male,Kolkata,India,Electronics,Bluetooth Speaker,Spouse,717,1,717,507.21,209.79,29.26,Card,Online,5,5
+P0003,2025-12-11,C204,18-25,Female,Mumbai,India,Home Decor,Wall Candles,Family,2776,1,2776,1755.26,1020.74,36.77,Card,Offline,0,5
+P0004,2025-12-10,C949,36-45,Male,Lucknow,India,Home Decor,Decor Tree,Self,1522,2,3044,931.19,1181.62,38.82,UPI,Online,10,3
+P0005,2025-12-21,C954,36-45,Male,Pune,India,Books,Novel Set,Family,1327,2,2654,851.53,950.94,35.83,UPI,Offline,0,5
+P0006,2025-12-13,C376,26-35,Female,Delhi,India,Accessories,Perfume,Friend,4875,1,4875,3044.49,1830.51,37.55,UPI,Offline,15,4
+P0007,2025-12-13,C758,46-55,Male,Hyderabad,India,Toys,Teddy Bear,Friend,3077,1,3077,2148.72,928.28,30.17,UPI,Offline,20,4
+P0008,2025-12-05,C621,46-55,Male,Delhi,India,Food & Sweets,Plum Cake,Self,3465,1,3465,2597.36,867.64,25.04,UPI,Online,15,5
+P0009,2025-12-18,C981,18-25,Male,Indore,India,Toys,Remote Car,Spouse,3626,2,7252,2463.39,2325.22,32.06,Card,Offline,0,4
+P0010,2025-12-24,C369,26-35,Male,Indore,India,Home Decor,Christmas Lights,Family,4216,1,4216,3132.79,1083.21,25.69,Cash,Online,5,4
+P0011,2025-12-16,C119,18-25,Female,Hyderabad,India,Books,Novel Set,Friend,4918,1,4918,3392.64,1525.36,31.02,UPI,Online,20,3
+P0012,2025-12-18,C884,26-35,Male,Indore,India,Toys,Puzzle Game,Sibling,4481,1,4481,3345.95,1135.05,25.33,Cash,Online,10,5
+P0013,2025-12-24,C806,26-35,Female,Jaipur,India,Books,Inspirational Book,Family,3966,1,3966,2932.21,1033.79,26.07,Card,Offline,0,3
+P0014,2025-12-08,C702,26-35,Male,Mumbai,India,Electronics,Smart Watch,Self,3269,1,3269,2249.88,1019.12,31.18,UPI,Online,0,4
+P0015,2025-12-07,C652,26-35,Female,Chennai,India,Toys,Puzzle Game,Sibling,2449,2,4898,1715.15,1467.7,29.97,Card,Online,0,3
+P0016,2025-12-24,C155,18-25,Male,Jaipur,India,Accessories,Handbag,Family,3402,2,6804,2250.99,2302.02,33.83,UPI,Online,5,3
+P0017,2025-12-15,C355,18-25,Female,Ahmedabad,India,Food & Sweets,Plum Cake,Self,1648,2,3296,1034.16,1227.68,37.25,UPI,Online,0,3
+P0018,2025-12-13,C160,26-35,Female,Delhi,India,Electronics,Wireless Earbuds,Sibling,4478,2,8956,2830.37,3295.26,36.79,Card,Offline,10,4
+P0019,2025-12-07,C159,18-25,Female,Delhi,India,Accessories,Wallet,Self,4486,1,4486,2819.38,1666.62,37.15,Cash,Offline,20,5
+P0020,2025-12-03,C709,18-25,Male,Jaipur,India,Electronics,Smart Watch,Self,4660,1,4660,3391.09,1268.91,27.23,Cash,Online,20,5
+P0021,2025-12-19,C635,36-45,Female,Chennai,India,Toys,Puzzle Game,Family,1171,2,2342,818.07,705.86,30.14,UPI,Offline,15,3
+P0022,2025-12-03,C109,46-55,Male,Mumbai,India,Accessories,Wallet,Spouse,2957,2,5914,1914.44,2085.12,35.26,UPI,Offline,5,4
+P0023,2025-12-18,C820,36-45,Male,Indore,India,Toys,Teddy Bear,Spouse,3527,2,7054,2199.66,2654.68,37.63,Card,Online,5,4
+P0024,2025-12-07,C834,36-45,Male,Indore,India,Toys,Teddy Bear,Family,1773,2,3546,1138.73,1268.54,35.77,Cash,Offline,10,3
+P0025,2025-12-11,C889,26-35,Female,Bangalore,India,Toys,Puzzle Game,Sibling,3969,2,7938,2407.65,3122.7,39.34,Cash,Offline,20,3
+P0026,2025-12-19,C665,26-35,Female,Bangalore,India,Toys,Teddy Bear,Self,1721,1,1721,1248.05,472.95,27.48,Card,Offline,0,4
+P0027,2025-12-18,C995,46-55,Male,Chennai,India,Electronics,Bluetooth Speaker,Friend,2544,1,2544,1661.36,882.64,34.69,UPI,Offline,0,3
+P0028,2025-12-23,C210,46-55,Male,Kolkata,India,Accessories,Handbag,Friend,3872,1,3872,2478.16,1393.84,36.0,UPI,Offline,10,4
+P0029,2025-12-13,C436,36-45,Male,Hyderabad,India,Books,Novel Set,Family,2326,1,2326,1625.89,700.11,30.1,Cash,Offline,20,4
+P0030,2025-12-09,C139,18-25,Female,Pune,India,Toys,Teddy Bear,Family,2639,1,2639,1813.23,825.77,31.29,Card,Online,15,5
+P0031,2025-12-18,C803,26-35,Female,Jaipur,India,Electronics,Wireless Earbuds,Self,863,2,1726,518.02,689.96,39.97,Cash,Offline,20,4
+P0032,2025-12-11,C512,36-45,Male,Chennai,India,Accessories,Perfume,Sibling,2960,2,5920,2072.1,1775.8,30.0,Cash,Offline,5,5
+P0033,2025-12-07,C540,36-45,Female,Kolkata,India,Food & Sweets,Plum Cake,Sibling,3826,1,3826,2469.99,1356.01,35.44,Cash,Online,20,4
+P0034,2025-12-22,C748,36-45,Male,Chennai,India,Books,Inspirational Book,Family,1890,1,1890,1214.45,675.55,35.74,UPI,Online,5,3
+P0035,2025-12-21,C689,26-35,Female,Kolkata,India,Toys,Teddy Bear,Sibling,4392,1,4392,2935.23,1456.77,33.17,UPI,Online,0,3
+P0036,2025-12-23,C630,46-55,Male,Ahmedabad,India,Books,Diary,Friend,2292,1,2292,1651.65,640.35,27.94,UPI,Offline,5,4
+P0037,2025-12-24,C616,46-55,Female,Bangalore,India,Accessories,Wallet,Sibling,3099,2,6198,2144.19,1909.62,30.81,Card,Offline,5,5
+P0038,2025-12-03,C830,36-45,Male,Hyderabad,India,Clothing,Scarf,Family,4469,1,4469,2865.48,1603.52,35.88,Card,Online,5,3
+P0039,2025-12-14,C438,46-55,Female,Delhi,India,Electronics,Wireless Earbuds,Friend,1751,1,1751,1067.47,683.53,39.04,Card,Offline,20,5
+P0040,2025-12-12,C405,46-55,Female,Ahmedabad,India,Toys,Puzzle Game,Spouse,3616,2,7232,2172.8,2886.4,39.91,Cash,Online,15,3
+P0041,2025-12-22,C795,46-55,Male,Kolkata,India,Clothing,Winter Jacket,Friend,4478,1,4478,2948.0,1530.0,34.17,Cash,Online,15,5
+P0042,2025-12-05,C987,46-55,Male,Delhi,India,Food & Sweets,Dry Fruits Box,Family,722,1,722,502.81,219.19,30.36,Card,Offline,5,4
+P0043,2025-12-14,C358,18-25,Female,Delhi,India,Clothing,Winter Jacket,Spouse,3605,2,7210,2569.65,2070.7,28.72,UPI,Offline,5,5
+P0044,2025-12-07,C959,18-25,Male,Chennai,India,Toys,Puzzle Game,Friend,829,1,829,615.48,213.52,25.76,Card,Online,20,3
+P0045,2025-12-20,C865,18-25,Male,Hyderabad,India,Home Decor,Decor Tree,Self,2599,2,5198,1624.81,1948.38,37.48,Cash,Online,10,5
+P0046,2025-12-23,C950,26-35,Male,Lucknow,India,Accessories,Handbag,Family,3749,1,3749,2292.14,1456.86,38.86,Cash,Online,20,3
+P0047,2025-12-21,C449,18-25,Female,Kolkata,India,Clothing,Scarf,Self,4009,2,8018,2446.87,3124.26,38.97,Card,Offline,15,5
+P0048,2025-12-18,C893,46-55,Female,Jaipur,India,Electronics,Wireless Earbuds,Spouse,1942,2,3884,1344.62,1194.76,30.76,Card,Offline,5,3
+P0049,2025-12-22,C488,36-45,Male,Kolkata,India,Clothing,Winter Jacket,Family,2497,2,4994,1711.64,1570.72,31.45,UPI,Offline,5,4
+P0050,2025-12-23,C382,18-25,Male,Mumbai,India,Books,Diary,Friend,3288,2,6576,2406.97,1762.06,26.8,Cash,Offline,15,5
+P0051,2025-12-01,C195,36-45,Male,Jaipur,India,Books,Novel Set,Friend,4400,2,8800,2935.8,2928.4,33.28,Card,Offline,15,5
+P0052,2025-12-15,C377,36-45,Female,Chennai,India,Food & Sweets,Plum Cake,Self,3985,2,7970,2601.29,2767.42,34.72,Cash,Online,10,3
+P0053,2025-12-16,C383,36-45,Male,Chennai,India,Accessories,Wallet,Family,2016,1,2016,1275.03,740.97,36.75,UPI,Offline,5,4
+P0054,2025-12-02,C666,36-45,Male,Indore,India,Toys,Puzzle Game,Sibling,4875,1,4875,3125.59,1749.41,35.89,UPI,Online,20,4
+P0055,2025-12-02,C358,46-55,Male,Mumbai,India,Home Decor,Wall Candles,Sibling,4108,2,8216,2578.4,3059.2,37.23,Card,Online,20,5
+P0056,2025-12-10,C187,26-35,Male,Ahmedabad,India,Accessories,Perfume,Sibling,1742,1,1742,1257.15,484.85,27.83,Cash,Online,20,4
+P0057,2025-12-20,C161,18-25,Male,Indore,India,Home Decor,Wall Candles,Friend,2935,2,5870,1895.44,2079.12,35.42,Card,Online,5,3
+P0058,2025-12-15,C805,46-55,Female,Delhi,India,Electronics,Bluetooth Speaker,Friend,1114,1,1114,668.85,445.15,39.96,Card,Offline,15,3
+P0059,2025-12-18,C330,26-35,Female,Bangalore,India,Accessories,Perfume,Self,2667,1,2667,1770.28,896.72,33.62,UPI,Online,10,5
+P0060,2025-12-23,C411,46-55,Female,Ahmedabad,India,Accessories,Wallet,Spouse,2864,2,5728,1771.82,2184.36,38.13,Card,Offline,0,5
+P0061,2025-12-08,C790,18-25,Female,Surat,India,Toys,Remote Car,Self,3140,2,6280,1896.18,2487.64,39.61,UPI,Offline,20,5
+P0062,2025-12-16,C193,46-55,Female,Jaipur,India,Home Decor,Wall Candles,Family,1986,2,3972,1380.7,1210.6,30.48,Card,Online,5,4
+P0063,2025-12-13,C933,18-25,Female,Mumbai,India,Home Decor,Decor Tree,Family,4558,2,9116,3187.81,2740.38,30.06,Card,Offline,0,4
+P0064,2025-12-07,C630,36-45,Female,Indore,India,Books,Inspirational Book,Sibling,509,2,1018,336.95,344.1,33.8,UPI,Online,10,5
+P0065,2025-12-21,C723,26-35,Male,Hyderabad,India,Electronics,Wireless Earbuds,Spouse,4089,2,8178,2527.88,3122.24,38.18,UPI,Offline,0,3
+P0066,2025-12-05,C610,36-45,Female,Jaipur,India,Books,Novel Set,Sibling,4280,1,4280,2983.83,1296.17,30.28,Card,Online,15,5
+P0067,2025-12-09,C891,46-55,Female,Ahmedabad,India,Electronics,Wireless Earbuds,Family,2061,1,2061,1503.71,557.29,27.04,UPI,Offline,10,5
+P0068,2025-12-16,C453,36-45,Female,Kolkata,India,Food & Sweets,Dry Fruits Box,Family,4511,1,4511,3008.76,1502.24,33.3,UPI,Online,20,4
+P0069,2025-12-23,C930,46-55,Female,Indore,India,Electronics,Wireless Earbuds,Friend,857,2,1714,609.93,494.14,28.83,Card,Online,5,5
+P0070,2025-12-15,C115,26-35,Female,Indore,India,Food & Sweets,Plum Cake,Friend,1322,2,2644,812.97,1018.06,38.5,UPI,Offline,10,4
+P0071,2025-12-22,C979,46-55,Female,Indore,India,Food & Sweets,Dry Fruits Box,Sibling,3756,1,3756,2733.48,1022.52,27.22,Cash,Online,20,3
+P0072,2025-12-14,C200,18-25,Female,Bangalore,India,Electronics,Bluetooth Speaker,Family,2854,1,2854,2032.09,821.91,28.8,UPI,Online,10,3
+P0073,2025-12-17,C521,26-35,Male,Bangalore,India,Clothing,Winter Jacket,Self,3570,2,7140,2219.95,2700.1,37.82,Cash,Offline,20,5
+P0074,2025-12-09,C570,36-45,Male,Kolkata,India,Electronics,Wireless Earbuds,Family,1672,1,1672,1118.86,553.14,33.08,Cash,Online,0,4
+P0075,2025-12-15,C965,36-45,Male,Jaipur,India,Clothing,Scarf,Sibling,2950,2,5900,2075.46,1749.08,29.65,UPI,Online,15,5
+P0076,2025-12-22,C505,36-45,Male,Surat,India,Clothing,Scarf,Self,2923,2,5846,1763.42,2319.16,39.67,Cash,Offline,10,3
+P0077,2025-12-22,C873,26-35,Male,Indore,India,Food & Sweets,Plum Cake,Self,2294,1,2294,1590.05,703.95,30.69,Card,Offline,0,5
+P0078,2025-12-11,C865,46-55,Male,Chennai,India,Clothing,Scarf,Friend,1576,1,1576,1160.64,415.36,26.36,Cash,Offline,20,5
+P0079,2025-12-10,C864,36-45,Male,Kolkata,India,Clothing,Sweater,Self,2605,2,5210,1941.01,1327.98,25.49,UPI,Online,15,5
+P0080,2025-12-04,C565,36-45,Female,Surat,India,Clothing,Sweater,Sibling,3732,1,3732,2387.24,1344.76,36.03,Cash,Offline,0,5
+P0081,2025-12-08,C763,18-25,Female,Lucknow,India,Electronics,Wireless Earbuds,Family,705,2,1410,519.79,370.42,26.27,Cash,Offline,0,3
+P0082,2025-12-08,C650,26-35,Female,Kolkata,India,Toys,Teddy Bear,Family,2993,2,5986,1847.93,2290.14,38.26,Cash,Offline,20,5
+P0083,2025-12-20,C517,36-45,Male,Lucknow,India,Accessories,Perfume,Family,3898,1,3898,2826.26,1071.74,27.49,UPI,Offline,15,3
+P0084,2025-12-21,C467,18-25,Female,Hyderabad,India,Books,Diary,Friend,1313,2,2626,895.03,835.94,31.83,UPI,Offline,0,5
+P0085,2025-12-08,C228,26-35,Male,Ahmedabad,India,Electronics,Bluetooth Speaker,Friend,674,1,674,483.94,190.06,28.2,Cash,Online,5,4
+P0086,2025-12-05,C233,36-45,Male,Mumbai,India,Books,Novel Set,Self,523,2,1046,381.14,283.72,27.12,UPI,Online,10,3
+P0087,2025-12-05,C859,46-55,Male,Lucknow,India,Food & Sweets,Plum Cake,Self,629,1,629,402.44,226.56,36.02,Card,Offline,10,5
+P0088,2025-12-02,C844,36-45,Female,Indore,India,Food & Sweets,Chocolate Hamper,Self,4202,1,4202,3117.1,1084.9,25.82,UPI,Offline,15,4
+P0089,2025-12-03,C429,26-35,Male,Bangalore,India,Accessories,Perfume,Family,4516,2,9032,2759.38,3513.24,38.9,Cash,Offline,15,5
+P0090,2025-12-23,C217,26-35,Female,Kolkata,India,Food & Sweets,Plum Cake,Friend,4216,2,8432,2592.32,3247.36,38.51,Card,Offline,15,4
+P0091,2025-12-22,C361,36-45,Male,Indore,India,Home Decor,Decor Tree,Sibling,1278,2,2556,848.61,858.78,33.6,UPI,Online,0,3
+P0092,2025-12-19,C675,36-45,Male,Jaipur,India,Home Decor,Christmas Lights,Family,3552,1,3552,2427.63,1124.37,31.65,Cash,Offline,0,4
+P0093,2025-12-07,C258,46-55,Male,Mumbai,India,Food & Sweets,Plum Cake,Family,3380,1,3380,2321.0,1059.0,31.33,Cash,Offline,0,4
+P0094,2025-12-22,C949,36-45,Male,Bangalore,India,Food & Sweets,Chocolate Hamper,Family,4015,1,4015,2775.77,1239.23,30.87,Cash,Offline,10,4
+P0095,2025-12-24,C748,18-25,Male,Lucknow,India,Toys,Teddy Bear,Spouse,1673,2,3346,1021.26,1303.48,38.96,UPI,Offline,15,4
+P0096,2025-12-19,C710,18-25,Male,Bangalore,India,Clothing,Sweater,Friend,3531,2,7062,2500.79,2060.42,29.18,Cash,Online,0,4
+P0097,2025-12-14,C379,26-35,Male,Pune,India,Home Decor,Decor Tree,Sibling,3973,2,7946,2745.59,2454.82,30.89,UPI,Offline,20,4
+P0098,2025-12-20,C156,18-25,Male,Hyderabad,India,Food & Sweets,Dry Fruits Box,Friend,3026,1,3026,1915.69,1110.31,36.69,UPI,Offline,10,4
+P0099,2025-12-13,C645,26-35,Female,Mumbai,India,Toys,Teddy Bear,Sibling,4574,2,9148,2864.94,3418.12,37.36,Cash,Online,15,3
+P0100,2025-12-23,C755,46-55,Female,Mumbai,India,Home Decor,Christmas Lights,Sibling,3064,2,6128,2101.93,1924.14,31.4,UPI,Offline,5,5
+P0101,2025-12-04,C349,46-55,Female,Ahmedabad,India,Home Decor,Decor Tree,Self,3464,1,3464,2305.32,1158.68,33.45,Card,Offline,10,3
+P0102,2025-12-07,C894,36-45,Female,Lucknow,India,Clothing,Sweater,Friend,1125,1,1125,764.54,360.46,32.04,UPI,Online,5,4
+P0103,2025-12-21,C605,46-55,Female,Indore,India,Electronics,Smart Watch,Spouse,1752,1,1752,1097.75,654.25,37.34,Cash,Offline,10,3
+P0104,2025-12-09,C705,18-25,Female,Ahmedabad,India,Home Decor,Christmas Lights,Self,4341,2,8682,3015.73,2650.54,30.53,Card,Offline,15,3
+P0105,2025-12-03,C729,46-55,Female,Surat,India,Toys,Remote Car,Spouse,2851,1,2851,1986.29,864.71,30.33,Cash,Online,15,5
+P0106,2025-12-02,C561,18-25,Female,Lucknow,India,Accessories,Perfume,Self,3133,2,6266,2115.42,2035.16,32.48,Cash,Online,0,3
+P0107,2025-12-10,C496,46-55,Female,Indore,India,Accessories,Handbag,Spouse,4099,1,4099,2683.14,1415.86,34.54,UPI,Offline,0,4
+P0108,2025-12-22,C717,26-35,Female,Mumbai,India,Toys,Puzzle Game,Spouse,3666,2,7332,2338.17,2655.66,36.22,Cash,Online,10,4
+P0109,2025-12-03,C417,46-55,Female,Bangalore,India,Accessories,Wallet,Spouse,3710,1,3710,2557.14,1152.86,31.07,UPI,Offline,20,4
+P0110,2025-12-11,C884,46-55,Male,Chennai,India,Toys,Remote Car,Friend,3030,1,3030,2250.31,779.69,25.73,UPI,Online,10,3
+P0111,2025-12-20,C234,46-55,Male,Bangalore,India,Food & Sweets,Dry Fruits Box,Friend,4813,1,4813,3365.68,1447.32,30.07,Cash,Online,15,3
+P0112,2025-12-24,C902,46-55,Male,Ahmedabad,India,Home Decor,Wall Candles,Friend,2445,2,4890,1690.94,1508.12,30.84,Card,Offline,5,4
+P0113,2025-12-13,C614,46-55,Male,Chennai,India,Accessories,Wallet,Spouse,4109,2,8218,2939.64,2338.72,28.46,UPI,Offline,0,5
+P0114,2025-12-06,C379,46-55,Male,Jaipur,India,Home Decor,Wall Candles,Self,1340,1,1340,861.3,478.7,35.72,UPI,Offline,10,3
+P0115,2025-12-03,C483,26-35,Male,Pune,India,Home Decor,Christmas Lights,Self,3747,2,7494,2380.72,2732.56,36.46,Cash,Offline,5,3
+P0116,2025-12-16,C559,18-25,Male,Delhi,India,Toys,Remote Car,Family,4370,1,4370,3119.42,1250.58,28.62,UPI,Online,20,5
+P0117,2025-12-08,C408,18-25,Male,Chennai,India,Food & Sweets,Dry Fruits Box,Sibling,3967,1,3967,2842.06,1124.94,28.36,Cash,Offline,0,3
+P0118,2025-12-19,C347,26-35,Female,Jaipur,India,Books,Diary,Self,4891,1,4891,3398.23,1492.77,30.52,Cash,Offline,5,5
+P0119,2025-12-17,C657,18-25,Female,Kolkata,India,Home Decor,Christmas Lights,Self,1201,2,2402,732.79,936.42,38.99,Cash,Offline,10,4
+P0120,2025-12-24,C772,18-25,Female,Bangalore,India,Accessories,Perfume,Self,3425,1,3425,2232.14,1192.86,34.83,Card,Offline,5,5
+P0121,2025-12-03,C833,46-55,Male,Hyderabad,India,Home Decor,Decor Tree,Friend,4420,1,4420,3190.02,1229.98,27.83,UPI,Online,0,4
+P0122,2025-12-21,C295,36-45,Female,Delhi,India,Clothing,Scarf,Family,3762,2,7524,2400.14,2723.72,36.2,Card,Online,10,4
+P0123,2025-12-06,C608,46-55,Female,Ahmedabad,India,Home Decor,Decor Tree,Family,4102,2,8204,2669.81,2864.38,34.91,UPI,Offline,0,4
+P0124,2025-12-03,C435,36-45,Female,Kolkata,India,Food & Sweets,Chocolate Hamper,Spouse,4968,2,9936,3220.17,3495.66,35.18,Cash,Offline,5,5
+P0125,2025-12-12,C729,46-55,Female,Indore,India,Home Decor,Wall Candles,Self,4162,1,4162,2950.95,1211.05,29.1,UPI,Offline,10,5
+P0126,2025-12-20,C794,46-55,Male,Bangalore,India,Books,Inspirational Book,Self,1810,1,1810,1124.76,685.24,37.86,UPI,Offline,10,4
+P0127,2025-12-12,C554,18-25,Male,Ahmedabad,India,Food & Sweets,Chocolate Hamper,Family,1756,2,3512,1303.52,904.96,25.77,Card,Offline,10,3
+P0128,2025-12-18,C220,36-45,Female,Lucknow,India,Toys,Teddy Bear,Sibling,2024,2,4048,1371.59,1304.82,32.23,UPI,Offline,15,3
+P0129,2025-12-23,C555,18-25,Female,Indore,India,Toys,Teddy Bear,Family,1106,2,2212,692.24,827.52,37.41,Cash,Online,20,5
+P0130,2025-12-17,C329,18-25,Male,Bangalore,India,Clothing,Winter Jacket,Friend,1790,1,1790,1287.11,502.89,28.09,Card,Online,10,5
+P0131,2025-12-03,C167,36-45,Female,Lucknow,India,Food & Sweets,Plum Cake,Sibling,4328,1,4328,2994.08,1333.92,30.82,Cash,Offline,15,5
+P0132,2025-12-22,C629,36-45,Male,Ahmedabad,India,Toys,Teddy Bear,Spouse,3097,1,3097,2067.24,1029.76,33.25,UPI,Online,15,5
+P0133,2025-12-06,C430,26-35,Female,Ahmedabad,India,Books,Novel Set,Family,1517,1,1517,979.4,537.6,35.44,UPI,Offline,5,5
+P0134,2025-12-03,C614,26-35,Male,Bangalore,India,Food & Sweets,Plum Cake,Spouse,1525,2,3050,1055.55,938.9,30.78,Cash,Offline,20,3
+P0135,2025-12-19,C371,26-35,Female,Surat,India,Books,Novel Set,Self,1165,1,1165,864.76,300.24,25.77,Card,Offline,10,4
+P0136,2025-12-23,C161,26-35,Female,Jaipur,India,Electronics,Bluetooth Speaker,Sibling,3826,2,7652,2555.89,2540.22,33.2,Card,Online,10,5
+P0137,2025-12-05,C878,36-45,Male,Pune,India,Electronics,Wireless Earbuds,Friend,3115,2,6230,2324.74,1580.52,25.37,Card,Online,10,4
+P0138,2025-12-13,C984,46-55,Male,Bangalore,India,Electronics,Smart Watch,Family,1293,1,1293,832.09,460.91,35.65,Cash,Offline,5,3
+P0139,2025-12-16,C123,18-25,Female,Ahmedabad,India,Home Decor,Decor Tree,Sibling,4324,2,8648,3164.57,2318.86,26.81,UPI,Online,20,4
+P0140,2025-12-21,C788,46-55,Female,Ahmedabad,India,Toys,Teddy Bear,Self,2804,2,5608,1933.72,1740.56,31.04,UPI,Offline,5,4
+P0141,2025-12-02,C683,26-35,Female,Ahmedabad,India,Accessories,Handbag,Family,3803,2,7606,2307.61,2990.78,39.32,UPI,Offline,20,4
+P0142,2025-12-04,C503,36-45,Female,Ahmedabad,India,Books,Inspirational Book,Family,2791,1,2791,1728.46,1062.54,38.07,UPI,Online,20,5
+P0143,2025-12-23,C441,46-55,Female,Bangalore,India,Home Decor,Decor Tree,Spouse,829,1,829,502.24,326.76,39.42,Cash,Online,10,5
+P0144,2025-12-17,C948,46-55,Female,Kolkata,India,Clothing,Sweater,Self,3719,2,7438,2562.61,2312.78,31.09,Card,Offline,0,4
+P0145,2025-12-21,C901,26-35,Male,Surat,India,Food & Sweets,Plum Cake,Sibling,718,2,1436,459.4,517.2,36.02,UPI,Offline,5,5
+P0146,2025-12-11,C528,26-35,Female,Lucknow,India,Electronics,Smart Watch,Friend,1400,1,1400,843.98,556.02,39.72,Card,Offline,0,5
+P0147,2025-12-16,C638,46-55,Female,Bangalore,India,Electronics,Bluetooth Speaker,Sibling,2198,2,4396,1647.88,1100.24,25.03,Cash,Offline,20,4
+P0148,2025-12-08,C385,36-45,Male,Hyderabad,India,Accessories,Wallet,Family,2665,2,5330,1675.86,1978.28,37.12,Cash,Online,15,4
+P0149,2025-12-22,C656,46-55,Female,Pune,India,Home Decor,Wall Candles,Friend,2740,2,5480,1694.09,2091.82,38.17,Card,Online,10,5
+P0150,2025-12-07,C306,36-45,Female,Bangalore,India,Toys,Remote Car,Self,4123,2,8246,2935.99,2374.02,28.79,Cash,Online,5,3
+P0151,2025-12-14,C438,46-55,Male,Indore,India,Accessories,Wallet,Friend,2348,1,2348,1427.29,920.71,39.21,UPI,Online,15,5
+P0152,2025-12-21,C160,18-25,Male,Ahmedabad,India,Home Decor,Wall Candles,Self,2133,2,4266,1382.56,1500.88,35.18,UPI,Offline,5,3
+P0153,2025-12-10,C997,18-25,Male,Hyderabad,India,Books,Diary,Spouse,4558,1,4558,3375.16,1182.84,25.95,Cash,Online,10,4
+P0154,2025-12-05,C971,46-55,Female,Chennai,India,Home Decor,Decor Tree,Self,4950,2,9900,3630.28,2639.44,26.66,Card,Online,15,5
+P0155,2025-12-10,C681,26-35,Male,Surat,India,Clothing,Scarf,Sibling,2025,1,2025,1438.75,586.25,28.95,Card,Offline,0,4
+P0156,2025-12-08,C106,36-45,Female,Chennai,India,Accessories,Perfume,Sibling,2013,1,2013,1351.97,661.03,32.84,Card,Offline,10,5
+P0157,2025-12-23,C341,18-25,Male,Kolkata,India,Accessories,Wallet,Family,593,2,1186,413.95,358.1,30.19,UPI,Offline,20,5
+P0158,2025-12-08,C324,26-35,Female,Bangalore,India,Books,Diary,Sibling,1461,2,2922,957.15,1007.7,34.49,Cash,Offline,15,5
+P0159,2025-12-22,C872,18-25,Female,Ahmedabad,India,Food & Sweets,Plum Cake,Family,4903,1,4903,3502.11,1400.89,28.57,UPI,Online,0,5
+P0160,2025-12-17,C552,18-25,Male,Lucknow,India,Food & Sweets,Chocolate Hamper,Spouse,4896,1,4896,3058.44,1837.56,37.53,Card,Online,20,4
+P0161,2025-12-15,C677,18-25,Female,Indore,India,Books,Novel Set,Family,4214,1,4214,2852.82,1361.18,32.3,Cash,Online,15,4
+P0162,2025-12-12,C817,18-25,Male,Mumbai,India,Books,Novel Set,Sibling,2285,1,2285,1386.52,898.48,39.32,UPI,Offline,15,3
+P0163,2025-12-13,C559,46-55,Female,Mumbai,India,Books,Novel Set,Spouse,3943,2,7886,2953.03,1979.94,25.11,UPI,Offline,0,3
+P0164,2025-12-08,C954,18-25,Male,Hyderabad,India,Food & Sweets,Plum Cake,Sibling,4832,1,4832,3426.75,1405.25,29.08,Cash,Offline,20,4
+P0165,2025-12-09,C293,18-25,Male,Indore,India,Books,Novel Set,Sibling,2527,2,5054,1647.41,1759.18,34.81,Cash,Online,5,3
+P0166,2025-12-23,C993,18-25,Male,Lucknow,India,Toys,Teddy Bear,Self,775,2,1550,534.49,481.02,31.03,Card,Offline,5,5
+P0167,2025-12-24,C689,36-45,Female,Chennai,India,Electronics,Smart Watch,Family,1647,2,3294,1046.05,1201.9,36.49,UPI,Online,15,4
+P0168,2025-12-02,C452,46-55,Female,Lucknow,India,Clothing,Sweater,Sibling,1934,2,3868,1321.65,1224.7,31.66,Card,Online,10,4
+P0169,2025-12-10,C978,26-35,Female,Delhi,India,Electronics,Bluetooth Speaker,Spouse,4379,1,4379,3185.29,1193.71,27.26,Card,Offline,20,5
+P0170,2025-12-21,C180,46-55,Female,Mumbai,India,Electronics,Wireless Earbuds,Spouse,2489,2,4978,1569.32,1839.36,36.95,Cash,Online,0,4
+P0171,2025-12-19,C841,26-35,Female,Chennai,India,Home Decor,Decor Tree,Family,823,1,823,517.03,305.97,37.18,Card,Online,5,3
+P0172,2025-12-23,C309,46-55,Male,Ahmedabad,India,Accessories,Perfume,Family,4423,1,4423,3115.31,1307.69,29.57,Card,Offline,15,5
+P0173,2025-12-16,C577,18-25,Female,Pune,India,Accessories,Handbag,Friend,3026,2,6052,1978.84,2094.32,34.61,Card,Offline,15,3
+P0174,2025-12-19,C693,46-55,Female,Bangalore,India,Food & Sweets,Chocolate Hamper,Friend,1695,1,1695,1083.3,611.7,36.09,Card,Online,15,5
+P0175,2025-12-16,C840,46-55,Female,Bangalore,India,Books,Novel Set,Family,4590,2,9180,2931.17,3317.66,36.14,UPI,Online,20,4
+P0176,2025-12-03,C937,18-25,Male,Jaipur,India,Electronics,Bluetooth Speaker,Friend,981,1,981,712.07,268.93,27.41,Cash,Online,0,5
+P0177,2025-12-20,C753,46-55,Female,Delhi,India,Electronics,Smart Watch,Self,2291,2,4582,1502.85,1576.3,34.4,Cash,Offline,0,3
+P0178,2025-12-23,C790,46-55,Male,Mumbai,India,Food & Sweets,Dry Fruits Box,Self,2750,2,5500,1657.07,2185.86,39.74,Cash,Online,5,3
+P0179,2025-12-13,C180,36-45,Female,Kolkata,India,Food & Sweets,Dry Fruits Box,Spouse,2567,2,5134,1643.13,1847.74,35.99,UPI,Online,10,5
+P0180,2025-12-13,C665,46-55,Male,Indore,India,Books,Novel Set,Self,759,1,759,501.54,257.46,33.92,Cash,Online,0,4
+P0181,2025-12-02,C335,26-35,Female,Hyderabad,India,Books,Diary,Self,3213,1,3213,2359.04,853.96,26.58,UPI,Offline,20,5
+P0182,2025-12-07,C701,26-35,Female,Mumbai,India,Accessories,Perfume,Family,1969,2,3938,1186.02,1565.96,39.77,UPI,Online,20,4
+P0183,2025-12-05,C909,18-25,Female,Delhi,India,Accessories,Wallet,Self,3217,2,6434,2294.82,1844.36,28.67,Card,Online,0,4
+P0184,2025-12-09,C902,46-55,Female,Chennai,India,Food & Sweets,Dry Fruits Box,Family,3749,2,7498,2266.06,2965.88,39.56,Cash,Offline,15,3
+P0185,2025-12-10,C917,26-35,Male,Mumbai,India,Accessories,Wallet,Family,3613,1,3613,2586.28,1026.72,28.42,UPI,Offline,5,5
+P0186,2025-12-10,C555,36-45,Female,Mumbai,India,Home Decor,Wall Candles,Friend,3454,1,3454,2119.82,1334.18,38.63,UPI,Online,15,4
+P0187,2025-12-03,C462,18-25,Female,Jaipur,India,Food & Sweets,Dry Fruits Box,Self,4697,2,9394,2890.98,3612.04,38.45,Card,Offline,15,3
+P0188,2025-12-06,C242,36-45,Female,Hyderabad,India,Accessories,Wallet,Sibling,2488,1,2488,1748.56,739.44,29.72,UPI,Online,5,4
+P0189,2025-12-12,C357,26-35,Female,Surat,India,Clothing,Winter Jacket,Spouse,2955,2,5910,2119.92,1670.16,28.26,UPI,Offline,0,3
+P0190,2025-12-13,C923,36-45,Female,Pune,India,Clothing,Sweater,Sibling,3741,2,7482,2716.87,2048.26,27.38,Cash,Online,10,4
+P0191,2025-12-13,C426,36-45,Female,Surat,India,Food & Sweets,Dry Fruits Box,Friend,2145,2,4290,1388.09,1513.82,35.29,Card,Offline,10,4
+P0192,2025-12-18,C127,46-55,Male,Kolkata,India,Clothing,Sweater,Family,2136,1,2136,1500.02,635.98,29.77,Cash,Online,15,5
+P0193,2025-12-05,C832,46-55,Female,Mumbai,India,Home Decor,Christmas Lights,Sibling,2980,1,2980,1900.95,1079.05,36.21,Cash,Offline,20,4
+P0194,2025-12-12,C818,18-25,Male,Chennai,India,Food & Sweets,Dry Fruits Box,Family,3926,1,3926,2821.26,1104.74,28.14,UPI,Online,20,5
+P0195,2025-12-14,C208,18-25,Male,Hyderabad,India,Accessories,Wallet,Friend,3773,2,7546,2810.35,1925.3,25.51,Cash,Online,15,4
+P0196,2025-12-01,C594,18-25,Female,Jaipur,India,Home Decor,Wall Candles,Self,4599,1,4599,2997.38,1601.62,34.83,UPI,Online,10,4
+P0197,2025-12-04,C548,46-55,Female,Mumbai,India,Clothing,Winter Jacket,Family,2194,2,4388,1431.03,1525.94,34.78,UPI,Online,0,4
+P0198,2025-12-18,C263,36-45,Female,Kolkata,India,Accessories,Perfume,Friend,1846,1,1846,1250.48,595.52,32.26,Card,Online,5,5
+P0199,2025-12-07,C560,46-55,Female,Delhi,India,Accessories,Handbag,Friend,3740,1,3740,2657.67,1082.33,28.94,UPI,Offline,0,5
+P0200,2025-12-15,C216,36-45,Female,Ahmedabad,India,Toys,Puzzle Game,Family,2031,2,4062,1317.91,1426.18,35.11,Cash,Offline,20,4
+P0201,2025-12-20,C276,36-45,Male,Indore,India,Food & Sweets,Chocolate Hamper,Friend,3350,2,6700,2434.87,1830.26,27.32,Card,Online,5,4
+P0202,2025-12-14,C710,26-35,Female,Jaipur,India,Toys,Teddy Bear,Friend,3558,1,3558,2407.43,1150.57,32.34,Card,Online,20,3
+P0203,2025-12-15,C734,18-25,Female,Delhi,India,Home Decor,Wall Candles,Sibling,1649,1,1649,1067.21,581.79,35.28,UPI,Online,15,5
+P0204,2025-12-14,C827,46-55,Female,Bangalore,India,Food & Sweets,Dry Fruits Box,Self,4554,2,9108,3200.12,2707.76,29.73,Cash,Online,5,4
+P0205,2025-12-15,C679,46-55,Male,Surat,India,Toys,Remote Car,Self,2341,2,4682,1463.67,1754.66,37.48,Card,Offline,20,3
+P0206,2025-12-04,C853,26-35,Female,Delhi,India,Books,Inspirational Book,Sibling,4115,1,4115,3079.94,1035.06,25.15,Card,Offline,0,4
+P0207,2025-12-19,C805,36-45,Female,Bangalore,India,Books,Novel Set,Spouse,2441,1,2441,1761.44,679.56,27.84,UPI,Online,5,3
+P0208,2025-12-06,C431,36-45,Female,Surat,India,Food & Sweets,Plum Cake,Family,4860,2,9720,3351.11,3017.78,31.05,Cash,Online,5,4
+P0209,2025-12-23,C429,26-35,Female,Kolkata,India,Toys,Remote Car,Friend,1539,1,1539,981.04,557.96,36.25,Cash,Offline,15,4
+P0210,2025-12-09,C811,36-45,Female,Kolkata,India,Home Decor,Christmas Lights,Family,1262,2,2524,854.81,814.38,32.27,Cash,Online,0,5
+P0211,2025-12-13,C323,46-55,Male,Kolkata,India,Home Decor,Decor Tree,Family,3434,1,3434,2470.25,963.75,28.06,Card,Offline,10,5
+P0212,2025-12-02,C147,18-25,Female,Delhi,India,Food & Sweets,Chocolate Hamper,Self,4475,2,8950,3285.2,2379.6,26.59,UPI,Offline,15,3
+P0213,2025-12-09,C195,36-45,Female,Mumbai,India,Home Decor,Christmas Lights,Family,1580,2,3160,985.68,1188.64,37.62,Cash,Online,0,4
+P0214,2025-12-23,C197,18-25,Male,Kolkata,India,Accessories,Handbag,Self,2418,2,4836,1688.54,1458.92,30.17,UPI,Online,20,5
+P0215,2025-12-14,C810,26-35,Female,Mumbai,India,Home Decor,Christmas Lights,Friend,566,2,1132,408.97,314.06,27.74,Card,Online,0,3
+P0216,2025-12-05,C756,26-35,Male,Ahmedabad,India,Clothing,Winter Jacket,Spouse,2951,1,2951,1940.01,1010.99,34.26,UPI,Online,15,4
+P0217,2025-12-15,C980,26-35,Male,Mumbai,India,Accessories,Perfume,Friend,1740,2,3480,1204.8,1070.4,30.76,UPI,Offline,10,4
+P0218,2025-12-08,C666,36-45,Male,Indore,India,Clothing,Sweater,Family,2529,2,5058,1761.94,1534.12,30.33,UPI,Online,15,4
+P0219,2025-12-08,C611,18-25,Male,Pune,India,Accessories,Perfume,Family,2460,2,4920,1618.39,1683.22,34.21,UPI,Offline,20,4
+P0220,2025-12-03,C117,18-25,Male,Hyderabad,India,Clothing,Scarf,Friend,1915,2,3830,1423.17,983.66,25.68,UPI,Online,15,5
+P0221,2025-12-13,C184,26-35,Female,Mumbai,India,Clothing,Scarf,Family,4604,2,9208,3054.92,3098.16,33.65,UPI,Online,5,5
+P0222,2025-12-24,C966,26-35,Male,Chennai,India,Clothing,Winter Jacket,Self,1041,2,2082,733.7,614.6,29.52,Card,Online,15,5
+P0223,2025-12-23,C240,18-25,Male,Kolkata,India,Food & Sweets,Chocolate Hamper,Family,3033,1,3033,1874.14,1158.86,38.21,Cash,Offline,5,4
+P0224,2025-12-01,C443,46-55,Female,Ahmedabad,India,Electronics,Bluetooth Speaker,Self,2701,1,2701,1933.14,767.86,28.43,Card,Online,15,4
+P0225,2025-12-06,C476,26-35,Female,Mumbai,India,Food & Sweets,Plum Cake,Spouse,954,2,1908,695.37,517.26,27.11,Cash,Online,5,5
+P0226,2025-12-16,C472,46-55,Male,Bangalore,India,Food & Sweets,Chocolate Hamper,Self,860,1,860,547.55,312.45,36.33,Cash,Offline,5,4
+P0227,2025-12-19,C481,18-25,Male,Bangalore,India,Electronics,Wireless Earbuds,Friend,3120,2,6240,2258.57,1722.86,27.61,Cash,Online,15,3
+P0228,2025-12-15,C108,36-45,Male,Hyderabad,India,Home Decor,Wall Candles,Spouse,3045,2,6090,1866.46,2357.08,38.7,Card,Online,15,4
+P0229,2025-12-14,C124,26-35,Female,Indore,India,Food & Sweets,Plum Cake,Self,2100,1,2100,1307.43,792.57,37.74,Card,Online,15,5
+P0230,2025-12-08,C529,46-55,Male,Bangalore,India,Accessories,Handbag,Family,1351,1,1351,917.97,433.03,32.05,UPI,Online,5,5
+P0231,2025-12-03,C694,18-25,Male,Indore,India,Home Decor,Decor Tree,Sibling,3551,2,7102,2649.7,1802.6,25.38,UPI,Online,15,5
+P0232,2025-12-13,C817,36-45,Female,Kolkata,India,Electronics,Smart Watch,Family,2889,2,5778,2102.14,1573.72,27.24,UPI,Online,5,3
+P0233,2025-12-15,C577,36-45,Female,Mumbai,India,Books,Inspirational Book,Spouse,1392,1,1392,857.26,534.74,38.42,Card,Online,15,4
+P0234,2025-12-22,C411,18-25,Male,Pune,India,Home Decor,Wall Candles,Friend,1482,1,1482,924.24,557.76,37.64,UPI,Online,10,4
+P0235,2025-12-06,C131,46-55,Female,Ahmedabad,India,Food & Sweets,Chocolate Hamper,Spouse,2948,2,5896,2131.44,1633.12,27.7,UPI,Online,15,3
+P0236,2025-12-08,C233,26-35,Female,Pune,India,Books,Novel Set,Self,1494,1,1494,910.22,583.78,39.07,Cash,Offline,0,3
+P0237,2025-12-11,C225,18-25,Female,Delhi,India,Toys,Teddy Bear,Friend,4132,1,4132,2536.21,1595.79,38.62,Cash,Offline,15,4
+P0238,2025-12-06,C381,36-45,Female,Bangalore,India,Toys,Remote Car,Self,3995,1,3995,2609.1,1385.9,34.69,Cash,Online,10,4
+P0239,2025-12-13,C240,46-55,Male,Indore,India,Home Decor,Decor Tree,Spouse,4424,1,4424,2712.61,1711.39,38.68,UPI,Online,15,5
+P0240,2025-12-19,C614,36-45,Female,Hyderabad,India,Clothing,Winter Jacket,Friend,4960,2,9920,3231.96,3456.08,34.84,UPI,Offline,20,3
+P0241,2025-12-19,C338,26-35,Male,Chennai,India,Toys,Remote Car,Friend,979,2,1958,665.15,627.7,32.06,Card,Online,5,5
+P0242,2025-12-19,C425,36-45,Male,Lucknow,India,Books,Diary,Family,3406,1,3406,2133.57,1272.43,37.36,Cash,Online,20,3
+P0243,2025-12-02,C192,18-25,Male,Surat,India,Books,Diary,Friend,4941,2,9882,3094.71,3692.58,37.37,UPI,Offline,0,4
+P0244,2025-12-11,C160,18-25,Male,Surat,India,Food & Sweets,Chocolate Hamper,Friend,1568,2,3136,1109.42,917.16,29.25,UPI,Offline,0,4
+P0245,2025-12-11,C239,26-35,Female,Indore,India,Accessories,Wallet,Sibling,3740,1,3740,2432.81,1307.19,34.95,Cash,Offline,5,5
+P0246,2025-12-06,C487,36-45,Female,Bangalore,India,Food & Sweets,Dry Fruits Box,Friend,3423,1,3423,2395.52,1027.48,30.02,Cash,Online,20,4
+P0247,2025-12-20,C326,18-25,Female,Bangalore,India,Books,Inspirational Book,Family,765,1,765,528.12,236.88,30.96,Cash,Online,5,4
+P0248,2025-12-09,C314,26-35,Male,Pune,India,Clothing,Sweater,Family,1226,2,2452,817.74,816.52,33.3,UPI,Online,0,4
+P0249,2025-12-16,C487,36-45,Female,Mumbai,India,Home Decor,Decor Tree,Sibling,3937,1,3937,2884.57,1052.43,26.73,Cash,Online,5,4
+P0250,2025-12-04,C175,36-45,Male,Jaipur,India,Toys,Teddy Bear,Friend,2915,1,2915,1888.36,1026.64,35.22,Cash,Online,20,3
+P0251,2025-12-21,C268,46-55,Male,Delhi,India,Clothing,Scarf,Self,4454,1,4454,2960.57,1493.43,33.53,Card,Online,5,4
+P0252,2025-12-10,C343,18-25,Male,Jaipur,India,Accessories,Wallet,Spouse,4924,2,9848,3442.32,2963.36,30.09,Cash,Offline,5,3
+P0253,2025-12-22,C740,46-55,Male,Mumbai,India,Clothing,Sweater,Self,4002,1,4002,2578.02,1423.98,35.58,UPI,Online,10,3
+P0254,2025-12-22,C371,18-25,Female,Bangalore,India,Home Decor,Christmas Lights,Family,3026,2,6052,2029.36,1993.28,32.94,Card,Offline,5,4
+P0255,2025-12-09,C677,18-25,Male,Lucknow,India,Toys,Remote Car,Self,4102,2,8204,2623.27,2957.46,36.05,UPI,Offline,20,4
+P0256,2025-12-17,C528,46-55,Male,Kolkata,India,Books,Inspirational Book,Family,2363,1,2363,1715.82,647.18,27.39,UPI,Offline,0,5
+P0257,2025-12-15,C277,26-35,Male,Chennai,India,Food & Sweets,Dry Fruits Box,Friend,1707,1,1707,1267.26,439.74,25.76,UPI,Offline,0,5
+P0258,2025-12-24,C926,18-25,Male,Jaipur,India,Home Decor,Christmas Lights,Spouse,1711,2,3422,1108.66,1204.68,35.2,Card,Offline,10,5
+P0259,2025-12-05,C251,18-25,Male,Surat,India,Home Decor,Christmas Lights,Self,4780,2,9560,2948.68,3662.64,38.31,Card,Offline,15,4
+P0260,2025-12-09,C512,26-35,Female,Delhi,India,Home Decor,Decor Tree,Sibling,4477,2,8954,2711.36,3531.28,39.44,Card,Online,0,5
+P0261,2025-12-10,C418,36-45,Female,Lucknow,India,Home Decor,Wall Candles,Self,3551,1,3551,2310.56,1240.44,34.93,UPI,Online,10,5
+P0262,2025-12-03,C292,46-55,Male,Jaipur,India,Home Decor,Wall Candles,Sibling,2707,2,5414,1869.85,1674.3,30.93,Cash,Offline,0,5
+P0263,2025-12-13,C238,18-25,Male,Chennai,India,Books,Novel Set,Friend,1037,2,2074,732.57,608.86,29.36,UPI,Online,0,4
+P0264,2025-12-15,C617,46-55,Male,Indore,India,Toys,Remote Car,Self,2131,2,4262,1396.34,1469.32,34.47,UPI,Offline,15,5
+P0265,2025-12-09,C866,18-25,Female,Delhi,India,Home Decor,Christmas Lights,Sibling,4387,2,8774,2858.73,3056.54,34.84,UPI,Online,20,3
+P0266,2025-12-14,C625,18-25,Male,Kolkata,India,Books,Novel Set,Friend,2344,1,2344,1501.01,842.99,35.96,Cash,Online,20,3
+P0267,2025-12-13,C972,36-45,Female,Hyderabad,India,Electronics,Wireless Earbuds,Friend,3002,2,6004,1992.04,2019.92,33.64,Card,Offline,20,5
+P0268,2025-12-22,C963,36-45,Female,Hyderabad,India,Home Decor,Decor Tree,Self,1338,1,1338,905.46,432.54,32.33,Card,Online,10,4
+P0269,2025-12-21,C405,26-35,Male,Ahmedabad,India,Accessories,Handbag,Friend,2768,2,5536,1933.22,1669.56,30.16,UPI,Offline,10,5
+P0270,2025-12-09,C528,46-55,Female,Lucknow,India,Electronics,Bluetooth Speaker,Self,708,2,1416,530.73,354.54,25.04,Cash,Online,10,5
+P0271,2025-12-22,C467,36-45,Male,Indore,India,Accessories,Perfume,Spouse,4879,2,9758,3590.84,2576.32,26.4,UPI,Offline,0,4
+P0272,2025-12-11,C770,18-25,Male,Pune,India,Electronics,Bluetooth Speaker,Friend,2618,1,2618,1942.66,675.34,25.8,Cash,Offline,15,4
+P0273,2025-12-16,C154,18-25,Female,Chennai,India,Clothing,Winter Jacket,Spouse,2908,2,5816,2116.1,1583.8,27.23,UPI,Offline,20,4
+P0274,2025-12-11,C519,46-55,Male,Pune,India,Home Decor,Christmas Lights,Friend,1735,1,1735,1299.26,435.74,25.11,UPI,Offline,10,5
+P0275,2025-12-07,C879,26-35,Male,Kolkata,India,Electronics,Wireless Earbuds,Self,975,1,975,651.11,323.89,33.22,UPI,Offline,15,4
+P0276,2025-12-07,C848,36-45,Male,Pune,India,Home Decor,Wall Candles,Spouse,3640,1,3640,2204.6,1435.4,39.43,UPI,Online,0,5
+P0277,2025-12-04,C492,36-45,Male,Mumbai,India,Accessories,Perfume,Self,2353,2,4706,1521.95,1662.1,35.32,Card,Offline,15,5
+P0278,2025-12-22,C237,36-45,Female,Pune,India,Food & Sweets,Dry Fruits Box,Friend,4793,2,9586,3187.58,3210.84,33.5,UPI,Offline,0,3
+P0279,2025-12-19,C616,26-35,Male,Pune,India,Electronics,Bluetooth Speaker,Self,1574,1,1574,1117.72,456.28,28.99,Card,Offline,20,5
+P0280,2025-12-01,C149,18-25,Female,Kolkata,India,Toys,Puzzle Game,Sibling,892,1,892,622.65,269.35,30.2,UPI,Offline,15,5
+P0281,2025-12-04,C778,36-45,Male,Jaipur,India,Electronics,Smart Watch,Self,576,2,1152,381.96,388.08,33.69,Cash,Online,10,3
+P0282,2025-12-09,C951,26-35,Female,Lucknow,India,Books,Novel Set,Sibling,4577,1,4577,3164.31,1412.69,30.86,Card,Online,0,5
+P0283,2025-12-01,C787,18-25,Male,Surat,India,Home Decor,Christmas Lights,Sibling,4437,2,8874,2818.27,3237.46,36.48,UPI,Online,20,3
+P0284,2025-12-15,C403,36-45,Female,Delhi,India,Accessories,Wallet,Self,1329,2,2658,925.85,806.3,30.33,UPI,Online,10,4
+P0285,2025-12-04,C971,18-25,Male,Bangalore,India,Books,Inspirational Book,Friend,3061,2,6122,2175.7,1770.6,28.92,Card,Offline,15,5
+P0286,2025-12-06,C216,46-55,Female,Kolkata,India,Clothing,Scarf,Family,1261,2,2522,910.75,700.5,27.78,Card,Offline,15,5
+P0287,2025-12-02,C964,26-35,Male,Jaipur,India,Books,Novel Set,Spouse,1426,1,1426,1004.51,421.49,29.56,Card,Offline,5,5
+P0288,2025-12-16,C215,46-55,Female,Delhi,India,Home Decor,Wall Candles,Self,736,1,736,494.93,241.07,32.75,Card,Offline,0,5
+P0289,2025-12-22,C994,36-45,Male,Jaipur,India,Books,Inspirational Book,Friend,4799,1,4799,3583.34,1215.66,25.33,Card,Offline,15,3
+P0290,2025-12-06,C617,46-55,Female,Bangalore,India,Books,Inspirational Book,Self,947,1,947,659.59,287.41,30.35,Card,Offline,5,4
+P0291,2025-12-13,C512,26-35,Male,Kolkata,India,Clothing,Sweater,Sibling,4652,1,4652,3175.34,1476.66,31.74,Cash,Offline,0,4
+P0292,2025-12-01,C205,46-55,Female,Delhi,India,Home Decor,Wall Candles,Spouse,1472,2,2944,1047.75,848.5,28.82,Cash,Online,0,5
+P0293,2025-12-15,C449,36-45,Male,Chennai,India,Food & Sweets,Dry Fruits Box,Sibling,2995,1,2995,2091.08,903.92,30.18,Card,Offline,10,5
+P0294,2025-12-12,C949,36-45,Female,Lucknow,India,Home Decor,Christmas Lights,Self,1298,1,1298,779.23,518.77,39.97,UPI,Online,15,3
+P0295,2025-12-07,C292,18-25,Female,Chennai,India,Books,Inspirational Book,Sibling,3852,1,3852,2458.13,1393.87,36.19,UPI,Offline,0,4
+P0296,2025-12-19,C616,26-35,Female,Delhi,India,Toys,Puzzle Game,Spouse,1509,2,3018,1008.93,1000.14,33.14,Cash,Online,20,4
+P0297,2025-12-06,C848,26-35,Male,Jaipur,India,Books,Inspirational Book,Spouse,4456,1,4456,3136.01,1319.99,29.62,Cash,Offline,20,4
+P0298,2025-12-11,C401,46-55,Male,Bangalore,India,Home Decor,Decor Tree,Sibling,2533,2,5066,1670.97,1724.06,34.03,Cash,Offline,20,4
+P0299,2025-12-23,C397,36-45,Male,Lucknow,India,Accessories,Wallet,Friend,2280,1,2280,1439.72,840.28,36.85,Cash,Offline,0,4
+P0300,2025-12-14,C927,18-25,Male,Delhi,India,Food & Sweets,Plum Cake,Sibling,3919,2,7838,2867.22,2103.56,26.84,UPI,Online,0,3
+P0301,2025-12-02,C807,36-45,Male,Ahmedabad,India,Clothing,Sweater,Self,2847,2,5694,1770.73,2152.54,37.8,Card,Offline,0,5
+P0302,2025-12-23,C394,18-25,Female,Jaipur,India,Books,Inspirational Book,Sibling,2337,2,4674,1485.49,1703.02,36.44,Cash,Offline,20,3
+P0303,2025-12-15,C949,26-35,Female,Surat,India,Toys,Puzzle Game,Spouse,2558,1,2558,1772.91,785.09,30.69,Cash,Online,5,4
+P0304,2025-12-24,C626,18-25,Female,Delhi,India,Home Decor,Christmas Lights,Sibling,1110,1,1110,826.25,283.75,25.56,Card,Offline,5,3
+P0305,2025-12-05,C140,26-35,Female,Surat,India,Food & Sweets,Plum Cake,Self,546,2,1092,365.79,360.42,33.01,Cash,Offline,15,5
+P0306,2025-12-06,C633,18-25,Male,Jaipur,India,Food & Sweets,Plum Cake,Spouse,1097,2,2194,744.65,704.7,32.12,Cash,Offline,0,4
+P0307,2025-12-07,C870,46-55,Male,Mumbai,India,Electronics,Smart Watch,Family,3218,2,6436,2104.96,2226.08,34.59,Card,Online,20,5
+P0308,2025-12-04,C495,36-45,Female,Delhi,India,Electronics,Smart Watch,Spouse,3129,2,6258,2307.29,1643.42,26.26,Card,Offline,15,3
+P0309,2025-12-04,C271,18-25,Male,Chennai,India,Clothing,Scarf,Friend,2077,2,4154,1406.3,1341.4,32.29,Cash,Offline,0,3
+P0310,2025-12-05,C124,46-55,Female,Delhi,India,Food & Sweets,Dry Fruits Box,Self,4065,1,4065,2894.42,1170.58,28.8,UPI,Online,5,4
+P0311,2025-12-15,C745,46-55,Female,Pune,India,Food & Sweets,Chocolate Hamper,Self,2364,2,4728,1562.95,1602.1,33.89,Card,Online,20,3
+P0312,2025-12-03,C466,18-25,Female,Indore,India,Accessories,Wallet,Family,1018,1,1018,717.82,300.18,29.49,Cash,Online,10,4
+P0313,2025-12-08,C239,46-55,Female,Indore,India,Home Decor,Wall Candles,Friend,752,2,1504,468.83,566.34,37.66,Card,Offline,0,5
+P0314,2025-12-19,C710,46-55,Male,Hyderabad,India,Books,Inspirational Book,Friend,1658,1,1658,1005.19,652.81,39.37,Cash,Offline,5,4
+P0315,2025-12-20,C954,36-45,Male,Mumbai,India,Accessories,Wallet,Friend,1666,1,1666,1045.58,620.42,37.24,Cash,Online,20,4
+P0316,2025-12-09,C200,26-35,Female,Pune,India,Accessories,Wallet,Family,1099,2,2198,770.13,657.74,29.92,UPI,Online,0,4
+P0317,2025-12-11,C731,36-45,Male,Surat,India,Food & Sweets,Chocolate Hamper,Spouse,2085,2,4170,1402.95,1364.1,32.71,Card,Offline,15,3
+P0318,2025-12-21,C546,36-45,Female,Bangalore,India,Toys,Remote Car,Family,2516,1,2516,1778.38,737.62,29.32,Card,Offline,15,4
+P0319,2025-12-20,C183,36-45,Male,Ahmedabad,India,Books,Diary,Friend,4489,1,4489,2811.75,1677.25,37.36,Card,Online,0,3
+P0320,2025-12-07,C137,36-45,Female,Indore,India,Books,Inspirational Book,Friend,755,2,1510,540.11,429.78,28.46,Card,Offline,5,5
+P0321,2025-12-03,C506,36-45,Male,Indore,India,Accessories,Handbag,Friend,1596,2,3192,1077.57,1036.86,32.48,Cash,Online,20,3
+P0322,2025-12-16,C467,18-25,Male,Kolkata,India,Home Decor,Christmas Lights,Friend,1967,1,1967,1397.33,569.67,28.96,UPI,Offline,10,3
+P0323,2025-12-15,C147,18-25,Female,Mumbai,India,Toys,Puzzle Game,Spouse,2193,2,4386,1443.46,1499.08,34.18,Cash,Offline,10,5
+P0324,2025-12-12,C701,18-25,Female,Jaipur,India,Food & Sweets,Dry Fruits Box,Friend,1924,2,3848,1343.05,1161.9,30.19,Cash,Offline,10,4
+P0325,2025-12-08,C178,36-45,Male,Bangalore,India,Home Decor,Wall Candles,Friend,554,1,554,368.96,185.04,33.4,UPI,Offline,20,5
+P0326,2025-12-24,C216,46-55,Female,Kolkata,India,Books,Novel Set,Friend,2386,2,4772,1721.92,1328.16,27.83,Cash,Online,15,3
+P0327,2025-12-17,C140,26-35,Male,Bangalore,India,Electronics,Smart Watch,Family,1547,1,1547,959.46,587.54,37.98,UPI,Offline,20,5
+P0328,2025-12-20,C582,46-55,Male,Chennai,India,Accessories,Perfume,Sibling,2822,1,2822,1784.88,1037.12,36.75,Cash,Online,20,3
+P0329,2025-12-22,C450,46-55,Male,Chennai,India,Food & Sweets,Dry Fruits Box,Sibling,4684,2,9368,2928.24,3511.52,37.48,Card,Online,0,3
+P0330,2025-12-20,C198,26-35,Female,Surat,India,Electronics,Bluetooth Speaker,Spouse,4631,2,9262,3352.74,2556.52,27.6,UPI,Online,0,4
+P0331,2025-12-22,C764,46-55,Female,Pune,India,Accessories,Perfume,Self,4917,1,4917,3611.76,1305.24,26.55,Cash,Offline,5,4
+P0332,2025-12-09,C588,26-35,Male,Hyderabad,India,Books,Diary,Spouse,3371,1,3371,2237.75,1133.25,33.62,Cash,Offline,10,3
+P0333,2025-12-13,C770,26-35,Female,Jaipur,India,Toys,Puzzle Game,Family,558,1,558,378.3,179.7,32.2,UPI,Online,15,5
+P0334,2025-12-20,C382,46-55,Male,Jaipur,India,Food & Sweets,Plum Cake,Spouse,2640,2,5280,1807.61,1664.78,31.53,Cash,Offline,5,4
+P0335,2025-12-19,C452,46-55,Male,Indore,India,Food & Sweets,Dry Fruits Box,Self,4462,2,8924,3338.81,2246.38,25.17,Cash,Online,15,5
+P0336,2025-12-18,C728,18-25,Male,Jaipur,India,Electronics,Smart Watch,Self,2256,2,4512,1619.61,1272.78,28.21,UPI,Online,15,5
+P0337,2025-12-03,C723,18-25,Female,Jaipur,India,Home Decor,Christmas Lights,Spouse,1024,2,2048,648.46,751.08,36.67,Cash,Offline,20,3
+P0338,2025-12-22,C923,36-45,Male,Delhi,India,Books,Novel Set,Spouse,4549,2,9098,2736.71,3624.58,39.84,Cash,Online,20,3
+P0339,2025-12-06,C188,36-45,Female,Pune,India,Accessories,Perfume,Sibling,3446,1,3446,2406.18,1039.82,30.17,Card,Online,20,3
+P0340,2025-12-24,C949,36-45,Female,Hyderabad,India,Accessories,Wallet,Friend,1062,1,1062,724.75,337.25,31.76,Cash,Online,15,4
+P0341,2025-12-04,C672,18-25,Female,Pune,India,Food & Sweets,Chocolate Hamper,Self,2638,1,2638,1743.9,894.1,33.89,Cash,Offline,20,5
+P0342,2025-12-08,C875,36-45,Female,Indore,India,Clothing,Scarf,Sibling,4127,2,8254,2824.83,2604.34,31.55,Cash,Online,15,3
+P0343,2025-12-08,C919,36-45,Female,Pune,India,Clothing,Sweater,Spouse,3634,1,3634,2549.39,1084.61,29.85,Cash,Online,10,3
+P0344,2025-12-06,C587,36-45,Female,Chennai,India,Clothing,Sweater,Spouse,3768,2,7536,2303.77,2928.46,38.86,Card,Online,5,4
+P0345,2025-12-07,C334,26-35,Male,Surat,India,Accessories,Perfume,Family,2423,1,2423,1771.0,652.0,26.91,UPI,Online,0,3
+P0346,2025-12-18,C143,46-55,Female,Surat,India,Accessories,Wallet,Family,4535,1,4535,3240.88,1294.12,28.54,Card,Offline,15,3
+P0347,2025-12-19,C231,18-25,Female,Kolkata,India,Books,Inspirational Book,Spouse,2795,2,5590,1770.11,2049.78,36.67,UPI,Offline,15,5
+P0348,2025-12-15,C423,18-25,Male,Indore,India,Books,Novel Set,Friend,4245,1,4245,2991.61,1253.39,29.53,Card,Online,10,4
+P0349,2025-12-16,C727,36-45,Female,Bangalore,India,Food & Sweets,Plum Cake,Sibling,2033,2,4066,1292.12,1481.76,36.44,Card,Online,15,5
+P0350,2025-12-06,C685,26-35,Male,Mumbai,India,Books,Diary,Family,3490,2,6980,2240.39,2499.22,35.81,UPI,Offline,15,3
+P0351,2025-12-06,C531,46-55,Male,Indore,India,Electronics,Bluetooth Speaker,Spouse,1725,2,3450,1243.47,963.06,27.91,Cash,Offline,15,4
+P0352,2025-12-06,C161,26-35,Female,Kolkata,India,Clothing,Scarf,Self,890,2,1780,547.21,685.58,38.52,Card,Offline,10,4
+P0353,2025-12-04,C459,26-35,Male,Hyderabad,India,Clothing,Scarf,Family,2611,2,5222,1574.37,2073.26,39.7,Card,Offline,15,3
+P0354,2025-12-05,C989,26-35,Female,Jaipur,India,Home Decor,Decor Tree,Spouse,2847,2,5694,1977.97,1738.06,30.52,Cash,Offline,0,3
+P0355,2025-12-10,C827,36-45,Female,Hyderabad,India,Electronics,Wireless Earbuds,Sibling,2369,2,4738,1534.0,1670.0,35.25,Card,Offline,15,3
+P0356,2025-12-24,C817,18-25,Male,Bangalore,India,Electronics,Smart Watch,Sibling,1524,1,1524,1065.74,458.26,30.07,UPI,Online,0,4
+P0357,2025-12-03,C206,36-45,Male,Mumbai,India,Food & Sweets,Chocolate Hamper,Sibling,715,2,1430,485.2,459.6,32.14,Card,Online,5,5
+P0358,2025-12-06,C129,18-25,Female,Pune,India,Clothing,Winter Jacket,Sibling,1535,1,1535,1042.28,492.72,32.1,Card,Offline,20,4
+P0359,2025-12-15,C746,46-55,Female,Pune,India,Electronics,Bluetooth Speaker,Sibling,4917,1,4917,3385.97,1531.03,31.14,Cash,Online,0,4
+P0360,2025-12-01,C100,26-35,Female,Hyderabad,India,Clothing,Winter Jacket,Sibling,3876,2,7752,2416.13,2919.74,37.66,Cash,Online,15,4
+P0361,2025-12-01,C661,36-45,Male,Jaipur,India,Clothing,Sweater,Spouse,4026,2,8052,2776.13,2499.74,31.04,Card,Offline,5,3
+P0362,2025-12-03,C532,26-35,Female,Hyderabad,India,Accessories,Wallet,Spouse,3692,2,7384,2337.36,2709.28,36.69,Card,Offline,5,3
+P0363,2025-12-20,C563,36-45,Female,Chennai,India,Electronics,Smart Watch,Family,2872,1,2872,1997.57,874.43,30.45,UPI,Online,0,5
+P0364,2025-12-23,C548,18-25,Male,Mumbai,India,Toys,Teddy Bear,Friend,1337,2,2674,856.19,961.62,35.96,UPI,Offline,5,4
+P0365,2025-12-02,C438,18-25,Male,Delhi,India,Home Decor,Wall Candles,Family,4582,2,9164,3067.89,3028.22,33.04,Card,Online,20,4
+P0366,2025-12-04,C886,26-35,Female,Kolkata,India,Electronics,Smart Watch,Friend,2548,2,5096,1845.36,1405.28,27.58,Cash,Online,5,4
+P0367,2025-12-22,C419,36-45,Male,Indore,India,Accessories,Perfume,Self,4769,1,4769,3199.64,1569.36,32.91,Cash,Online,10,4
+P0368,2025-12-22,C323,18-25,Male,Indore,India,Accessories,Handbag,Sibling,2127,2,4254,1559.36,1135.28,26.69,Card,Online,5,4
+P0369,2025-12-02,C695,46-55,Male,Pune,India,Food & Sweets,Chocolate Hamper,Self,3742,1,3742,2250.21,1491.79,39.87,UPI,Online,15,3
+P0370,2025-12-21,C257,18-25,Male,Kolkata,India,Accessories,Wallet,Friend,3272,1,3272,1992.54,1279.46,39.1,Card,Offline,15,5
+P0371,2025-12-09,C140,46-55,Female,Ahmedabad,India,Electronics,Smart Watch,Family,3594,2,7188,2546.92,2094.16,29.13,Cash,Offline,5,5
+P0372,2025-12-09,C988,26-35,Male,Ahmedabad,India,Electronics,Bluetooth Speaker,Friend,3348,2,6696,2376.61,1942.78,29.01,Card,Offline,10,5
+P0373,2025-12-01,C734,36-45,Male,Pune,India,Clothing,Winter Jacket,Self,505,2,1010,358.57,292.86,29.0,Cash,Offline,5,5
+P0374,2025-12-21,C429,18-25,Male,Ahmedabad,India,Accessories,Handbag,Self,1762,2,3524,1142.46,1239.08,35.16,UPI,Online,5,3
+P0375,2025-12-19,C757,46-55,Female,Ahmedabad,India,Electronics,Smart Watch,Spouse,4476,1,4476,2751.9,1724.1,38.52,Cash,Offline,0,4
+P0376,2025-12-07,C771,46-55,Male,Kolkata,India,Electronics,Bluetooth Speaker,Self,1080,1,1080,798.69,281.31,26.05,Card,Offline,10,5
+P0377,2025-12-10,C179,26-35,Male,Mumbai,India,Toys,Puzzle Game,Friend,2677,1,2677,1901.06,775.94,28.99,Cash,Offline,5,3
+P0378,2025-12-18,C525,18-25,Female,Indore,India,Food & Sweets,Dry Fruits Box,Sibling,2537,1,2537,1734.71,802.29,31.62,Cash,Offline,0,3
+P0379,2025-12-18,C714,46-55,Female,Pune,India,Books,Novel Set,Spouse,3789,2,7578,2647.11,2283.78,30.14,Card,Offline,15,5
+P0380,2025-12-07,C484,36-45,Female,Kolkata,India,Home Decor,Decor Tree,Sibling,3149,1,3149,2155.4,993.6,31.55,Card,Online,0,4
+P0381,2025-12-10,C106,36-45,Male,Chennai,India,Food & Sweets,Chocolate Hamper,Family,4740,1,4740,3550.32,1189.68,25.1,UPI,Offline,20,5
+P0382,2025-12-12,C259,26-35,Female,Pune,India,Food & Sweets,Dry Fruits Box,Spouse,1767,1,1767,1070.2,696.8,39.43,UPI,Online,10,4
+P0383,2025-12-24,C432,46-55,Male,Kolkata,India,Toys,Puzzle Game,Spouse,3775,1,3775,2680.78,1094.22,28.99,UPI,Offline,0,5
+P0384,2025-12-11,C456,46-55,Female,Mumbai,India,Books,Inspirational Book,Friend,3625,1,3625,2599.19,1025.81,28.3,Cash,Online,15,3
+P0385,2025-12-05,C434,26-35,Male,Delhi,India,Clothing,Scarf,Sibling,837,2,1674,569.99,534.02,31.9,Card,Online,5,4
+P0386,2025-12-16,C685,18-25,Female,Hyderabad,India,Clothing,Winter Jacket,Self,1712,1,1712,1113.53,598.47,34.96,Card,Offline,5,3
+P0387,2025-12-19,C300,26-35,Male,Mumbai,India,Home Decor,Decor Tree,Family,2122,2,4244,1399.03,1445.94,34.07,Card,Offline,20,3
+P0388,2025-12-07,C428,36-45,Male,Hyderabad,India,Toys,Puzzle Game,Friend,3888,2,7776,2545.82,2684.36,34.52,Card,Offline,20,3
+P0389,2025-12-05,C875,18-25,Male,Lucknow,India,Home Decor,Christmas Lights,Self,2412,1,2412,1695.16,716.84,29.72,UPI,Online,10,3
+P0390,2025-12-01,C439,26-35,Male,Chennai,India,Clothing,Scarf,Spouse,1411,2,2822,941.86,938.28,33.25,Cash,Offline,20,4
+P0391,2025-12-22,C639,18-25,Female,Bangalore,India,Food & Sweets,Dry Fruits Box,Self,1657,1,1657,1087.81,569.19,34.35,Card,Online,20,4
+P0392,2025-12-09,C778,36-45,Male,Delhi,India,Toys,Remote Car,Family,568,1,568,373.91,194.09,34.17,Cash,Offline,5,4
+P0393,2025-12-20,C644,18-25,Male,Chennai,India,Food & Sweets,Dry Fruits Box,Spouse,1315,2,2630,884.6,860.8,32.73,Card,Online,0,3
+P0394,2025-12-06,C118,36-45,Female,Pune,India,Food & Sweets,Plum Cake,Family,3232,2,6464,2129.92,2204.16,34.1,UPI,Offline,0,5
+P0395,2025-12-11,C502,26-35,Male,Lucknow,India,Clothing,Winter Jacket,Sibling,741,2,1482,469.67,542.66,36.62,Cash,Online,15,3
+P0396,2025-12-11,C559,26-35,Male,Indore,India,Food & Sweets,Chocolate Hamper,Friend,3993,2,7986,2940.69,2104.62,26.35,Cash,Online,5,4
+P0397,2025-12-05,C771,26-35,Female,Mumbai,India,Accessories,Wallet,Spouse,4791,1,4791,3183.67,1607.33,33.55,Cash,Online,5,4
+P0398,2025-12-14,C521,36-45,Female,Lucknow,India,Books,Novel Set,Family,741,2,1482,542.43,397.14,26.8,UPI,Online,0,3
+P0399,2025-12-08,C803,18-25,Female,Mumbai,India,Electronics,Smart Watch,Sibling,2686,1,2686,1851.87,834.13,31.05,UPI,Offline,10,3
+P0400,2025-12-07,C331,18-25,Female,Delhi,India,Books,Diary,Family,4525,2,9050,2808.34,3433.32,37.94,Card,Online,5,3
+P0401,2025-12-15,C352,46-55,Female,Delhi,India,Toys,Teddy Bear,Spouse,4098,2,8196,2881.63,2432.74,29.68,Cash,Offline,10,4
+P0402,2025-12-15,C567,18-25,Male,Ahmedabad,India,Food & Sweets,Dry Fruits Box,Spouse,4892,1,4892,3317.25,1574.75,32.19,Card,Online,20,4
+P0403,2025-12-13,C411,36-45,Female,Bangalore,India,Food & Sweets,Dry Fruits Box,Sibling,903,1,903,581.24,321.76,35.63,Card,Online,20,3
+P0404,2025-12-04,C284,26-35,Female,Jaipur,India,Home Decor,Decor Tree,Family,4200,1,4200,2975.27,1224.73,29.16,Card,Online,5,4
+P0405,2025-12-11,C808,26-35,Male,Mumbai,India,Food & Sweets,Dry Fruits Box,Self,2154,2,4308,1321.54,1664.92,38.65,Cash,Offline,10,3
+P0406,2025-12-13,C144,26-35,Female,Surat,India,Food & Sweets,Dry Fruits Box,Friend,3646,1,3646,2394.7,1251.3,34.32,UPI,Online,5,5
+P0407,2025-12-15,C395,26-35,Male,Bangalore,India,Toys,Remote Car,Friend,3023,2,6046,2144.89,1756.22,29.05,UPI,Offline,0,4
+P0408,2025-12-16,C343,26-35,Female,Kolkata,India,Home Decor,Wall Candles,Sibling,4952,1,4952,3422.81,1529.19,30.88,Card,Online,20,5
+P0409,2025-12-18,C939,26-35,Male,Bangalore,India,Toys,Teddy Bear,Friend,4983,2,9966,3453.04,3059.92,30.7,UPI,Offline,0,3
+P0410,2025-12-02,C211,46-55,Male,Bangalore,India,Books,Novel Set,Family,2944,2,5888,2172.84,1542.32,26.19,Cash,Online,15,5
+P0411,2025-12-11,C477,46-55,Male,Jaipur,India,Food & Sweets,Plum Cake,Spouse,793,1,793,567.21,225.79,28.47,UPI,Offline,15,3
+P0412,2025-12-17,C314,26-35,Male,Mumbai,India,Toys,Puzzle Game,Spouse,2748,2,5496,1866.05,1763.9,32.09,Cash,Online,15,5
+P0413,2025-12-11,C365,36-45,Male,Surat,India,Accessories,Wallet,Spouse,2852,2,5704,1971.66,1760.68,30.87,Card,Offline,15,3
+P0414,2025-12-01,C576,18-25,Male,Surat,India,Food & Sweets,Chocolate Hamper,Sibling,2879,1,2879,1728.08,1150.92,39.98,Card,Online,10,4
+P0415,2025-12-23,C388,36-45,Male,Hyderabad,India,Food & Sweets,Dry Fruits Box,Family,2239,1,2239,1558.55,680.45,30.39,Cash,Offline,0,3
+P0416,2025-12-20,C129,26-35,Male,Pune,India,Accessories,Handbag,Family,3296,2,6592,2335.74,1920.52,29.13,Cash,Offline,15,3
+P0417,2025-12-18,C443,46-55,Female,Lucknow,India,Accessories,Perfume,Self,4444,1,4444,3084.49,1359.51,30.59,Cash,Offline,20,5
+P0418,2025-12-22,C439,36-45,Male,Bangalore,India,Accessories,Handbag,Family,4889,1,4889,3086.13,1802.87,36.88,UPI,Offline,15,5
+P0419,2025-12-10,C822,36-45,Male,Hyderabad,India,Food & Sweets,Chocolate Hamper,Sibling,3691,1,3691,2544.13,1146.87,31.07,UPI,Offline,5,4
+P0420,2025-12-12,C903,18-25,Male,Mumbai,India,Home Decor,Wall Candles,Sibling,2270,2,4540,1421.59,1696.82,37.37,Cash,Online,15,5
+P0421,2025-12-17,C417,36-45,Male,Mumbai,India,Electronics,Smart Watch,Spouse,3286,2,6572,2332.62,1906.76,29.01,Cash,Online,5,5
+P0422,2025-12-02,C803,18-25,Female,Kolkata,India,Toys,Remote Car,Self,3675,1,3675,2207.27,1467.73,39.94,UPI,Offline,0,5
+P0423,2025-12-10,C383,36-45,Female,Indore,India,Books,Diary,Self,2219,2,4438,1398.15,1641.7,36.99,Card,Online,5,4
+P0424,2025-12-12,C662,36-45,Female,Bangalore,India,Toys,Teddy Bear,Family,4711,1,4711,2972.58,1738.42,36.9,Cash,Online,5,3
+P0425,2025-12-01,C582,18-25,Male,Jaipur,India,Clothing,Scarf,Self,3274,2,6548,1989.31,2569.38,39.24,UPI,Offline,15,3
+P0426,2025-12-07,C830,18-25,Female,Surat,India,Accessories,Wallet,Friend,4152,2,8304,2685.79,2932.42,35.31,UPI,Offline,0,4
+P0427,2025-12-08,C247,36-45,Female,Jaipur,India,Clothing,Scarf,Friend,4312,2,8624,2737.06,3149.88,36.52,Cash,Offline,10,4
+P0428,2025-12-16,C572,26-35,Female,Pune,India,Home Decor,Christmas Lights,Spouse,1035,2,2070,638.53,792.94,38.31,Cash,Online,20,3
+P0429,2025-12-03,C911,36-45,Female,Jaipur,India,Home Decor,Decor Tree,Spouse,1376,2,2752,940.39,871.22,31.66,Card,Online,20,3
+P0430,2025-12-07,C933,46-55,Female,Surat,India,Food & Sweets,Chocolate Hamper,Family,4451,2,8902,2714.7,3472.6,39.01,Cash,Online,5,5
+P0431,2025-12-15,C433,18-25,Female,Bangalore,India,Accessories,Perfume,Family,4486,1,4486,3090.07,1395.93,31.12,Card,Online,20,3
+P0432,2025-12-22,C162,18-25,Male,Bangalore,India,Accessories,Wallet,Spouse,3604,2,7208,2429.62,2348.76,32.59,Cash,Online,5,5
+P0433,2025-12-19,C557,26-35,Male,Indore,India,Electronics,Wireless Earbuds,Family,4852,2,9704,3195.03,3313.94,34.15,Card,Offline,15,5
+P0434,2025-12-10,C163,36-45,Male,Delhi,India,Clothing,Sweater,Spouse,566,2,1132,411.56,308.88,27.29,Card,Online,10,3
+P0435,2025-12-13,C490,46-55,Male,Indore,India,Electronics,Wireless Earbuds,Friend,3729,2,7458,2635.53,2186.94,29.32,Card,Online,5,5
+P0436,2025-12-22,C228,26-35,Male,Mumbai,India,Home Decor,Wall Candles,Self,3917,1,3917,2519.69,1397.31,35.67,UPI,Offline,15,3
+P0437,2025-12-23,C718,46-55,Male,Kolkata,India,Toys,Teddy Bear,Spouse,3906,2,7812,2867.15,2077.7,26.6,Card,Offline,15,4
+P0438,2025-12-24,C342,36-45,Female,Ahmedabad,India,Electronics,Smart Watch,Spouse,3979,1,3979,2732.34,1246.66,31.33,Card,Online,0,5
+P0439,2025-12-23,C181,26-35,Female,Kolkata,India,Home Decor,Decor Tree,Spouse,3519,1,3519,2417.69,1101.31,31.3,UPI,Online,5,4
+P0440,2025-12-11,C647,18-25,Female,Kolkata,India,Accessories,Wallet,Spouse,1139,2,2278,788.14,701.72,30.8,Card,Offline,15,4
+P0441,2025-12-20,C867,36-45,Female,Delhi,India,Books,Diary,Sibling,2869,1,2869,1736.6,1132.4,39.47,Cash,Online,20,3
+P0442,2025-12-05,C617,18-25,Female,Hyderabad,India,Accessories,Handbag,Friend,723,2,1446,486.37,473.26,32.73,Cash,Offline,10,4
+P0443,2025-12-24,C254,46-55,Female,Bangalore,India,Toys,Puzzle Game,Family,1413,1,1413,1040.7,372.3,26.35,Cash,Online,15,3
+P0444,2025-12-05,C709,26-35,Female,Jaipur,India,Books,Inspirational Book,Sibling,771,2,1542,576.41,389.18,25.24,UPI,Offline,5,3
+P0445,2025-12-04,C153,26-35,Female,Jaipur,India,Food & Sweets,Dry Fruits Box,Sibling,3326,1,3326,2316.02,1009.98,30.37,Card,Offline,20,3
+P0446,2025-12-17,C991,46-55,Male,Hyderabad,India,Home Decor,Decor Tree,Sibling,3695,2,7390,2362.56,2664.88,36.06,Card,Offline,20,5
+P0447,2025-12-14,C725,36-45,Female,Hyderabad,India,Toys,Teddy Bear,Family,4852,2,9704,3607.11,2489.78,25.66,UPI,Offline,20,4
+P0448,2025-12-22,C806,26-35,Female,Ahmedabad,India,Home Decor,Decor Tree,Self,2480,1,2480,1681.42,798.58,32.2,Cash,Online,0,3
+P0449,2025-12-12,C324,36-45,Female,Chennai,India,Home Decor,Christmas Lights,Self,4802,1,4802,3374.97,1427.03,29.72,UPI,Online,0,5
+P0450,2025-12-20,C233,46-55,Male,Mumbai,India,Accessories,Perfume,Friend,1497,1,1497,917.6,579.4,38.7,Card,Offline,15,5
+P0451,2025-12-23,C783,36-45,Female,Bangalore,India,Toys,Puzzle Game,Self,4214,2,8428,3014.71,2398.58,28.46,Card,Online,15,4
+P0452,2025-12-03,C603,26-35,Female,Bangalore,India,Clothing,Sweater,Sibling,2615,2,5230,1638.79,1952.42,37.33,UPI,Online,20,4
+P0453,2025-12-04,C135,18-25,Male,Surat,India,Electronics,Bluetooth Speaker,Family,1370,2,2740,969.01,801.98,29.27,Card,Online,15,3
+P0454,2025-12-09,C255,36-45,Female,Surat,India,Accessories,Wallet,Self,507,1,507,354.74,152.26,30.03,Cash,Offline,15,4
+P0455,2025-12-23,C937,46-55,Male,Surat,India,Home Decor,Decor Tree,Spouse,1074,1,1074,644.93,429.07,39.95,Card,Offline,10,4
+P0456,2025-12-11,C182,46-55,Female,Indore,India,Toys,Puzzle Game,Friend,1242,2,2484,844.8,794.4,31.98,UPI,Online,15,5
+P0457,2025-12-12,C598,18-25,Female,Lucknow,India,Electronics,Wireless Earbuds,Friend,3695,1,3695,2566.52,1128.48,30.54,UPI,Online,5,3
+P0458,2025-12-18,C758,36-45,Female,Ahmedabad,India,Accessories,Wallet,Sibling,2453,2,4906,1614.85,1676.3,34.17,UPI,Online,10,3
+P0459,2025-12-21,C783,46-55,Male,Lucknow,India,Clothing,Scarf,Spouse,850,2,1700,525.07,649.86,38.23,UPI,Online,0,5
+P0460,2025-12-20,C146,26-35,Male,Delhi,India,Electronics,Wireless Earbuds,Friend,656,2,1312,482.87,346.26,26.39,Cash,Online,10,3
+P0461,2025-12-04,C216,46-55,Male,Mumbai,India,Home Decor,Decor Tree,Friend,1898,1,1898,1371.63,526.37,27.73,Card,Offline,15,4
+P0462,2025-12-07,C882,18-25,Male,Pune,India,Toys,Puzzle Game,Self,4971,1,4971,3222.39,1748.61,35.18,UPI,Offline,5,4
+P0463,2025-12-19,C141,26-35,Male,Indore,India,Electronics,Bluetooth Speaker,Spouse,3530,1,3530,2350.27,1179.73,33.42,Card,Online,0,4
+P0464,2025-12-23,C767,36-45,Female,Lucknow,India,Toys,Teddy Bear,Sibling,559,1,559,413.06,145.94,26.11,Cash,Online,5,3
+P0465,2025-12-06,C725,18-25,Male,Lucknow,India,Accessories,Handbag,Sibling,4785,2,9570,3166.74,3236.52,33.82,Cash,Online,10,4
+P0466,2025-12-17,C197,36-45,Male,Kolkata,India,Home Decor,Christmas Lights,Friend,2430,1,2430,1500.83,929.17,38.24,Card,Online,5,3
+P0467,2025-12-22,C144,18-25,Female,Hyderabad,India,Books,Novel Set,Friend,4386,2,8772,2747.6,3276.8,37.36,Card,Offline,10,5
+P0468,2025-12-18,C280,26-35,Male,Kolkata,India,Books,Diary,Spouse,854,1,854,607.25,246.75,28.89,UPI,Online,5,5
+P0469,2025-12-22,C433,26-35,Male,Pune,India,Home Decor,Decor Tree,Friend,3170,2,6340,1996.51,2346.98,37.02,UPI,Online,15,3
+P0470,2025-12-02,C546,26-35,Male,Surat,India,Home Decor,Christmas Lights,Sibling,1102,2,2204,757.92,688.16,31.22,UPI,Offline,10,3
+P0471,2025-12-07,C443,26-35,Male,Lucknow,India,Home Decor,Decor Tree,Spouse,2090,2,4180,1559.84,1060.32,25.37,UPI,Offline,5,3
+P0472,2025-12-11,C325,36-45,Male,Indore,India,Books,Diary,Spouse,4256,2,8512,2662.89,3186.22,37.43,UPI,Online,0,4
+P0473,2025-12-15,C385,18-25,Female,Lucknow,India,Books,Inspirational Book,Friend,4507,1,4507,3104.14,1402.86,31.13,UPI,Offline,15,5
+P0474,2025-12-02,C141,46-55,Male,Jaipur,India,Electronics,Bluetooth Speaker,Spouse,1720,1,1720,1139.79,580.21,33.73,Card,Offline,0,4
+P0475,2025-12-14,C323,26-35,Female,Hyderabad,India,Home Decor,Christmas Lights,Friend,1180,1,1180,830.69,349.31,29.6,Cash,Online,0,4
+P0476,2025-12-24,C697,18-25,Female,Kolkata,India,Accessories,Handbag,Friend,1825,2,3650,1329.86,990.28,27.13,Cash,Offline,5,4
+P0477,2025-12-23,C440,18-25,Female,Jaipur,India,Accessories,Handbag,Family,511,1,511,336.1,174.9,34.23,Cash,Online,0,5
+P0478,2025-12-04,C492,36-45,Female,Surat,India,Clothing,Scarf,Self,949,2,1898,695.8,506.4,26.68,Card,Offline,5,5
+P0479,2025-12-11,C344,18-25,Female,Lucknow,India,Food & Sweets,Dry Fruits Box,Spouse,1048,1,1048,650.56,397.44,37.92,Cash,Online,5,4
+P0480,2025-12-03,C481,36-45,Female,Kolkata,India,Clothing,Winter Jacket,Spouse,4625,2,9250,2967.27,3315.46,35.84,Cash,Online,15,5
+P0481,2025-12-12,C919,18-25,Male,Kolkata,India,Food & Sweets,Dry Fruits Box,Self,4865,2,9730,3248.83,3232.34,33.22,UPI,Offline,5,4
+P0482,2025-12-05,C608,26-35,Male,Ahmedabad,India,Toys,Teddy Bear,Self,1849,2,3698,1140.47,1417.06,38.32,Card,Offline,20,3
+P0483,2025-12-01,C398,26-35,Male,Delhi,India,Home Decor,Wall Candles,Friend,3941,2,7882,2800.7,2280.6,28.93,Cash,Offline,15,5
+P0484,2025-12-23,C642,46-55,Female,Hyderabad,India,Clothing,Scarf,Spouse,3173,2,6346,2186.21,1973.58,31.1,UPI,Offline,5,4
+P0485,2025-12-02,C251,36-45,Female,Kolkata,India,Electronics,Wireless Earbuds,Friend,3546,2,7092,2537.03,2017.94,28.45,Cash,Online,20,4
+P0486,2025-12-02,C424,26-35,Female,Hyderabad,India,Electronics,Smart Watch,Family,1757,1,1757,1116.9,640.1,36.43,UPI,Online,20,5
+P0487,2025-12-15,C652,26-35,Female,Mumbai,India,Toys,Puzzle Game,Self,3096,2,6192,1926.31,2339.38,37.78,Card,Offline,5,4
+P0488,2025-12-10,C585,36-45,Male,Surat,India,Clothing,Sweater,Sibling,535,2,1070,372.94,324.12,30.29,Card,Online,15,3
+P0489,2025-12-20,C961,26-35,Female,Pune,India,Electronics,Bluetooth Speaker,Self,1457,2,2914,879.62,1154.76,39.63,Card,Online,20,5
+P0490,2025-12-09,C300,18-25,Male,Ahmedabad,India,Electronics,Bluetooth Speaker,Sibling,4812,1,4812,3451.13,1360.87,28.28,Cash,Online,20,4
+P0491,2025-12-12,C507,26-35,Female,Pune,India,Electronics,Wireless Earbuds,Sibling,3103,1,3103,2284.64,818.36,26.37,Card,Online,10,4
+P0492,2025-12-15,C859,46-55,Female,Hyderabad,India,Clothing,Winter Jacket,Friend,4150,1,4150,2624.27,1525.73,36.76,Cash,Offline,15,3
+P0493,2025-12-16,C988,36-45,Male,Surat,India,Books,Inspirational Book,Sibling,1205,1,1205,760.56,444.44,36.88,UPI,Online,15,5
+P0494,2025-12-05,C304,26-35,Female,Hyderabad,India,Clothing,Winter Jacket,Spouse,1932,2,3864,1365.03,1133.94,29.35,Card,Online,10,5
+P0495,2025-12-01,C257,36-45,Female,Indore,India,Clothing,Winter Jacket,Sibling,4296,1,4296,2594.9,1701.1,39.6,UPI,Offline,15,3
+P0496,2025-12-09,C604,18-25,Female,Surat,India,Home Decor,Decor Tree,Sibling,2504,1,2504,1547.23,956.77,38.21,Cash,Offline,10,5
+P0497,2025-12-19,C117,36-45,Male,Surat,India,Accessories,Handbag,Self,1479,2,2958,1001.1,955.8,32.31,UPI,Offline,15,5
+P0498,2025-12-14,C751,36-45,Male,Hyderabad,India,Electronics,Wireless Earbuds,Family,1837,1,1837,1177.33,659.67,35.91,Cash,Online,20,3
+P0499,2025-12-06,C656,36-45,Female,Indore,India,Books,Inspirational Book,Family,2001,1,2001,1380.32,620.68,31.02,Card,Offline,0,5
+P0500,2025-12-10,C481,46-55,Female,Pune,India,Food & Sweets,Plum Cake,Friend,1677,1,1677,1040.65,636.35,37.95,UPI,Online,5,5
+P0501,2025-12-03,C219,26-35,Male,Kolkata,India,Electronics,Smart Watch,Family,4806,1,4806,3184.46,1621.54,33.74,Card,Offline,5,4
+P0502,2025-12-01,C862,18-25,Male,Bangalore,India,Food & Sweets,Dry Fruits Box,Friend,3302,1,3302,2332.81,969.19,29.35,Cash,Online,10,3
+P0503,2025-12-04,C179,18-25,Female,Jaipur,India,Electronics,Smart Watch,Self,1143,2,2286,804.24,677.52,29.64,UPI,Online,0,5
+P0504,2025-12-09,C144,18-25,Female,Indore,India,Food & Sweets,Dry Fruits Box,Self,985,2,1970,608.57,752.86,38.22,UPI,Online,20,3
+P0505,2025-12-05,C966,36-45,Female,Pune,India,Food & Sweets,Chocolate Hamper,Friend,2013,2,4026,1216.63,1592.74,39.56,Cash,Online,20,5
+P0506,2025-12-10,C275,18-25,Male,Chennai,India,Toys,Teddy Bear,Spouse,614,1,614,434.33,179.67,29.26,Cash,Offline,10,5
+P0507,2025-12-12,C488,46-55,Male,Ahmedabad,India,Food & Sweets,Chocolate Hamper,Friend,4101,1,4101,2571.85,1529.15,37.29,Card,Online,10,3
+P0508,2025-12-12,C821,36-45,Male,Mumbai,India,Home Decor,Christmas Lights,Family,4757,1,4757,3207.99,1549.01,32.56,Card,Online,15,4
+P0509,2025-12-14,C397,46-55,Male,Mumbai,India,Home Decor,Decor Tree,Sibling,3055,2,6110,1936.51,2236.98,36.61,Cash,Offline,5,3
+P0510,2025-12-22,C792,18-25,Male,Bangalore,India,Accessories,Handbag,Sibling,1361,2,2722,906.03,909.94,33.43,Card,Online,5,3
+P0511,2025-12-13,C225,26-35,Female,Lucknow,India,Clothing,Sweater,Sibling,3274,1,3274,2256.59,1017.41,31.08,Card,Offline,15,4
+P0512,2025-12-05,C886,46-55,Male,Mumbai,India,Home Decor,Decor Tree,Family,3813,2,7626,2580.3,2465.4,32.33,Card,Offline,5,5
+P0513,2025-12-16,C794,18-25,Male,Jaipur,India,Electronics,Smart Watch,Spouse,1315,1,1315,952.78,362.22,27.55,Cash,Offline,5,4
+P0514,2025-12-17,C885,46-55,Female,Chennai,India,Food & Sweets,Dry Fruits Box,Family,1289,1,1289,901.22,387.78,30.08,Cash,Offline,15,5
+P0515,2025-12-02,C540,18-25,Female,Kolkata,India,Clothing,Scarf,Family,3314,1,3314,2461.93,852.07,25.71,Card,Offline,15,3
+P0516,2025-12-05,C419,46-55,Female,Mumbai,India,Toys,Teddy Bear,Spouse,2982,1,2982,2009.04,972.96,32.63,Cash,Offline,20,5
+P0517,2025-12-06,C618,18-25,Female,Hyderabad,India,Food & Sweets,Dry Fruits Box,Sibling,4348,2,8696,2975.5,2745.0,31.57,Cash,Offline,20,5
+P0518,2025-12-02,C231,36-45,Female,Lucknow,India,Clothing,Winter Jacket,Spouse,3125,1,3125,1888.19,1236.81,39.58,UPI,Offline,15,3
+P0519,2025-12-22,C350,26-35,Male,Indore,India,Home Decor,Wall Candles,Family,3427,2,6854,2236.77,2380.46,34.73,Cash,Online,0,4
+P0520,2025-12-02,C571,46-55,Female,Hyderabad,India,Toys,Remote Car,Self,1890,1,1890,1286.64,603.36,31.92,Cash,Offline,20,3
+P0521,2025-12-16,C202,26-35,Female,Kolkata,India,Clothing,Winter Jacket,Spouse,3697,2,7394,2535.7,2322.6,31.41,Cash,Offline,5,5
+P0522,2025-12-03,C960,26-35,Female,Hyderabad,India,Clothing,Winter Jacket,Self,4071,1,4071,2746.06,1324.94,32.55,Card,Offline,5,5
+P0523,2025-12-19,C920,46-55,Female,Chennai,India,Accessories,Perfume,Family,1276,2,2552,817.92,916.16,35.9,UPI,Offline,20,4
+P0524,2025-12-13,C357,46-55,Male,Delhi,India,Home Decor,Decor Tree,Spouse,4923,2,9846,3101.55,3642.9,37.0,UPI,Offline,5,5
+P0525,2025-12-18,C928,46-55,Male,Ahmedabad,India,Books,Inspirational Book,Friend,4328,2,8656,3205.21,2245.58,25.94,Card,Offline,5,3
+P0526,2025-12-03,C749,26-35,Female,Hyderabad,India,Electronics,Bluetooth Speaker,Family,2959,2,5918,1957.49,2003.02,33.85,Cash,Online,10,5
+P0527,2025-12-07,C128,26-35,Female,Kolkata,India,Food & Sweets,Chocolate Hamper,Sibling,3824,1,3824,2359.54,1464.46,38.3,Cash,Offline,15,5
+P0528,2025-12-09,C908,36-45,Male,Indore,India,Toys,Teddy Bear,Self,1805,2,3610,1119.94,1370.12,37.95,Cash,Offline,0,3
+P0529,2025-12-14,C472,18-25,Female,Lucknow,India,Books,Novel Set,Friend,3071,2,6142,2242.06,1657.88,26.99,UPI,Online,20,5
+P0530,2025-12-03,C343,18-25,Female,Pune,India,Food & Sweets,Chocolate Hamper,Spouse,4775,2,9550,3220.58,3108.84,32.55,Cash,Offline,5,4
+P0531,2025-12-09,C550,46-55,Female,Surat,India,Electronics,Smart Watch,Self,1375,1,1375,869.16,505.84,36.79,Card,Offline,0,4
+P0532,2025-12-05,C471,46-55,Female,Hyderabad,India,Food & Sweets,Plum Cake,Self,4390,1,4390,3268.34,1121.66,25.55,Cash,Online,0,5
+P0533,2025-12-10,C754,36-45,Male,Ahmedabad,India,Books,Inspirational Book,Friend,2463,2,4926,1682.01,1561.98,31.71,Card,Offline,0,4
+P0534,2025-12-06,C549,36-45,Female,Delhi,India,Clothing,Winter Jacket,Family,1239,1,1239,798.68,440.32,35.54,UPI,Offline,15,5
+P0535,2025-12-23,C367,18-25,Female,Jaipur,India,Home Decor,Wall Candles,Spouse,3960,1,3960,2865.69,1094.31,27.63,Cash,Offline,15,5
+P0536,2025-12-05,C103,46-55,Male,Indore,India,Toys,Teddy Bear,Family,2005,2,4010,1440.9,1128.2,28.13,Card,Online,0,3
+P0537,2025-12-11,C562,46-55,Male,Hyderabad,India,Electronics,Bluetooth Speaker,Friend,1565,2,3130,1125.07,879.86,28.11,Cash,Offline,10,3
+P0538,2025-12-13,C954,26-35,Male,Delhi,India,Toys,Remote Car,Spouse,3511,1,3511,2313.83,1197.17,34.1,Cash,Online,0,4
+P0539,2025-12-14,C714,36-45,Male,Mumbai,India,Electronics,Wireless Earbuds,Family,1882,1,1882,1242.41,639.59,33.98,UPI,Online,0,5
+P0540,2025-12-23,C308,26-35,Female,Hyderabad,India,Food & Sweets,Plum Cake,Sibling,4216,2,8432,2604.55,3222.9,38.22,Card,Online,15,3
+P0541,2025-12-14,C911,26-35,Male,Hyderabad,India,Food & Sweets,Chocolate Hamper,Family,2818,1,2818,1867.63,950.37,33.72,UPI,Offline,5,4
+P0542,2025-12-05,C992,36-45,Female,Indore,India,Food & Sweets,Dry Fruits Box,Friend,4253,1,4253,2558.38,1694.62,39.85,Cash,Offline,15,5
+P0543,2025-12-02,C440,26-35,Female,Pune,India,Food & Sweets,Plum Cake,Spouse,1098,1,1098,750.54,347.46,31.64,Cash,Online,0,4
+P0544,2025-12-22,C479,26-35,Male,Surat,India,Food & Sweets,Dry Fruits Box,Friend,3620,2,7240,2702.8,1834.4,25.34,Card,Online,20,4
+P0545,2025-12-17,C543,26-35,Female,Mumbai,India,Clothing,Winter Jacket,Family,1580,1,1580,1023.2,556.8,35.24,UPI,Online,15,4
+P0546,2025-12-09,C727,36-45,Female,Jaipur,India,Accessories,Handbag,Friend,4023,2,8046,2958.59,2128.82,26.46,Card,Offline,5,5
+P0547,2025-12-02,C335,26-35,Male,Kolkata,India,Books,Inspirational Book,Family,4104,1,4104,2578.7,1525.3,37.17,UPI,Offline,15,3
+P0548,2025-12-18,C596,46-55,Female,Mumbai,India,Home Decor,Christmas Lights,Friend,4116,2,8232,3080.1,2071.8,25.17,UPI,Offline,0,3
+P0549,2025-12-09,C676,26-35,Male,Ahmedabad,India,Books,Diary,Spouse,1979,1,1979,1410.02,568.98,28.75,UPI,Offline,0,3
+P0550,2025-12-22,C796,18-25,Female,Pune,India,Books,Diary,Spouse,1272,2,2544,768.15,1007.7,39.61,UPI,Offline,5,3
+P0551,2025-12-09,C708,18-25,Female,Delhi,India,Toys,Remote Car,Spouse,4430,2,8860,3075.54,2708.92,30.57,Card,Offline,20,3
+P0552,2025-12-24,C172,46-55,Male,Jaipur,India,Electronics,Smart Watch,Family,2817,2,5634,2027.46,1579.08,28.03,UPI,Online,15,3
+P0553,2025-12-10,C762,26-35,Male,Hyderabad,India,Toys,Teddy Bear,Sibling,1834,2,3668,1314.84,1038.32,28.31,Card,Offline,20,3
+P0554,2025-12-16,C556,46-55,Female,Hyderabad,India,Clothing,Scarf,Spouse,1287,2,2574,871.17,831.66,32.31,Cash,Offline,0,4
+P0555,2025-12-03,C141,36-45,Female,Indore,India,Books,Diary,Friend,2026,2,4052,1407.27,1237.46,30.54,Cash,Online,15,5
+P0556,2025-12-14,C181,46-55,Female,Bangalore,India,Accessories,Wallet,Friend,4798,1,4798,3088.02,1709.98,35.64,Cash,Offline,5,5
+P0557,2025-12-17,C210,46-55,Female,Mumbai,India,Home Decor,Wall Candles,Sibling,890,1,890,656.46,233.54,26.24,Cash,Offline,10,4
+P0558,2025-12-22,C573,26-35,Male,Jaipur,India,Food & Sweets,Chocolate Hamper,Self,4624,1,4624,2853.43,1770.57,38.29,UPI,Offline,10,4
+P0559,2025-12-09,C449,26-35,Male,Bangalore,India,Food & Sweets,Dry Fruits Box,Self,4227,2,8454,2931.73,2590.54,30.64,Cash,Offline,0,4
+P0560,2025-12-06,C771,46-55,Female,Lucknow,India,Food & Sweets,Chocolate Hamper,Sibling,547,2,1094,337.77,418.46,38.25,Cash,Offline,10,5
+P0561,2025-12-03,C228,26-35,Male,Chennai,India,Books,Inspirational Book,Self,3455,2,6910,2490.01,1929.98,27.93,UPI,Online,0,3
+P0562,2025-12-21,C978,26-35,Male,Hyderabad,India,Home Decor,Decor Tree,Sibling,1689,1,1689,1123.81,565.19,33.46,UPI,Offline,15,3
+P0563,2025-12-16,C120,46-55,Male,Chennai,India,Toys,Teddy Bear,Family,1748,2,3496,1301.53,892.94,25.54,Cash,Offline,0,4
+P0564,2025-12-24,C692,36-45,Male,Kolkata,India,Toys,Teddy Bear,Sibling,4037,2,8074,2936.08,2201.84,27.27,Card,Offline,5,5
+P0565,2025-12-18,C165,36-45,Female,Kolkata,India,Toys,Puzzle Game,Self,655,2,1310,449.63,410.74,31.35,Card,Offline,15,5
+P0566,2025-12-16,C452,46-55,Male,Ahmedabad,India,Home Decor,Christmas Lights,Friend,1821,2,3642,1290.96,1060.08,29.11,Cash,Offline,20,5
+P0567,2025-12-13,C526,36-45,Female,Bangalore,India,Accessories,Handbag,Spouse,1574,2,3148,1115.1,917.8,29.16,UPI,Offline,0,5
+P0568,2025-12-16,C203,46-55,Female,Hyderabad,India,Home Decor,Christmas Lights,Friend,1919,1,1919,1196.4,722.6,37.66,UPI,Online,0,4
+P0569,2025-12-17,C132,18-25,Female,Jaipur,India,Clothing,Winter Jacket,Self,1799,1,1799,1302.82,496.18,27.58,Cash,Online,0,5
+P0570,2025-12-02,C888,36-45,Male,Lucknow,India,Electronics,Wireless Earbuds,Spouse,2612,2,5224,1874.72,1474.56,28.23,Cash,Online,0,4
+P0571,2025-12-20,C900,18-25,Male,Ahmedabad,India,Books,Diary,Self,1408,1,1408,1009.88,398.12,28.28,UPI,Online,5,4
+P0572,2025-12-16,C850,18-25,Male,Indore,India,Electronics,Bluetooth Speaker,Family,2893,2,5786,2066.45,1653.1,28.57,Card,Online,0,3
+P0573,2025-12-16,C449,36-45,Male,Mumbai,India,Home Decor,Wall Candles,Family,553,1,553,401.05,151.95,27.48,Card,Offline,10,5
+P0574,2025-12-05,C921,46-55,Female,Jaipur,India,Accessories,Perfume,Sibling,1741,2,3482,1250.18,981.64,28.19,Cash,Offline,0,4
+P0575,2025-12-11,C511,26-35,Female,Delhi,India,Electronics,Smart Watch,Sibling,4738,1,4738,2903.05,1834.95,38.73,UPI,Online,20,3
+P0576,2025-12-22,C817,36-45,Female,Pune,India,Accessories,Wallet,Self,4758,2,9516,3154.06,3207.88,33.71,Card,Online,15,4
+P0577,2025-12-21,C514,26-35,Female,Mumbai,India,Accessories,Perfume,Self,4959,2,9918,3494.21,2929.58,29.54,Cash,Offline,15,5
+P0578,2025-12-17,C665,36-45,Female,Indore,India,Accessories,Wallet,Friend,1532,2,3064,968.32,1127.36,36.79,UPI,Online,20,5
+P0579,2025-12-04,C849,18-25,Female,Hyderabad,India,Clothing,Sweater,Spouse,2989,2,5978,2235.9,1506.2,25.2,Card,Online,0,5
+P0580,2025-12-08,C924,26-35,Female,Hyderabad,India,Toys,Remote Car,Family,2940,1,2940,1963.84,976.16,33.2,Cash,Online,15,5
+P0581,2025-12-07,C942,36-45,Female,Mumbai,India,Accessories,Perfume,Friend,1362,2,2724,922.71,878.58,32.25,Cash,Offline,15,3
+P0582,2025-12-15,C179,36-45,Female,Surat,India,Toys,Teddy Bear,Spouse,3980,1,3980,2672.32,1307.68,32.86,Cash,Offline,10,5
+P0583,2025-12-16,C849,46-55,Male,Bangalore,India,Home Decor,Decor Tree,Spouse,3968,2,7936,2790.9,2354.2,29.66,UPI,Offline,15,3
+P0584,2025-12-15,C584,18-25,Male,Ahmedabad,India,Accessories,Wallet,Family,4834,1,4834,3403.96,1430.04,29.58,UPI,Offline,0,3
+P0585,2025-12-04,C480,36-45,Female,Hyderabad,India,Clothing,Scarf,Family,2872,1,2872,1948.41,923.59,32.16,Card,Online,5,3
+P0586,2025-12-10,C390,26-35,Male,Lucknow,India,Books,Inspirational Book,Sibling,3955,1,3955,2928.77,1026.23,25.95,UPI,Online,20,4
+P0587,2025-12-19,C563,36-45,Female,Kolkata,India,Toys,Teddy Bear,Spouse,3920,2,7840,2688.96,2462.08,31.4,UPI,Online,20,5
+P0588,2025-12-11,C191,46-55,Female,Chennai,India,Home Decor,Wall Candles,Sibling,4178,1,4178,3049.74,1128.26,27.0,Card,Online,15,5
+P0589,2025-12-19,C745,36-45,Male,Indore,India,Clothing,Scarf,Spouse,1225,1,1225,864.95,360.05,29.39,UPI,Online,20,5
+P0590,2025-12-17,C119,18-25,Male,Delhi,India,Food & Sweets,Chocolate Hamper,Family,4774,1,4774,3401.87,1372.13,28.74,UPI,Online,20,4
+P0591,2025-12-16,C982,18-25,Female,Jaipur,India,Toys,Puzzle Game,Friend,3124,2,6248,2150.36,1947.28,31.17,Card,Online,20,4
+P0592,2025-12-18,C272,36-45,Male,Bangalore,India,Home Decor,Wall Candles,Family,1245,1,1245,929.98,315.02,25.3,UPI,Online,10,4
+P0593,2025-12-23,C159,36-45,Female,Mumbai,India,Accessories,Perfume,Family,982,2,1964,615.93,732.14,37.28,UPI,Offline,10,4
+P0594,2025-12-20,C700,26-35,Female,Ahmedabad,India,Home Decor,Christmas Lights,Spouse,924,1,924,587.61,336.39,36.41,Card,Online,10,3
+P0595,2025-12-14,C748,26-35,Male,Hyderabad,India,Clothing,Winter Jacket,Spouse,3834,1,3834,2578.85,1255.15,32.74,Cash,Online,5,5
+P0596,2025-12-21,C612,26-35,Male,Pune,India,Accessories,Perfume,Spouse,2995,2,5990,1997.36,1995.28,33.31,UPI,Online,20,4
+P0597,2025-12-20,C396,26-35,Male,Delhi,India,Food & Sweets,Plum Cake,Sibling,842,1,842,607.84,234.16,27.81,Card,Offline,15,4
+P0598,2025-12-24,C646,18-25,Female,Mumbai,India,Books,Inspirational Book,Sibling,2242,2,4484,1360.5,1763.0,39.32,Cash,Online,5,5
+P0599,2025-12-11,C798,36-45,Female,Lucknow,India,Food & Sweets,Plum Cake,Sibling,4038,1,4038,2792.55,1245.45,30.84,Card,Online,10,4
+P0600,2025-12-05,C761,18-25,Female,Delhi,India,Electronics,Wireless Earbuds,Self,3190,1,3190,2351.36,838.64,26.29,Cash,Online,15,5
+P0601,2025-12-21,C766,18-25,Male,Indore,India,Accessories,Wallet,Sibling,4505,2,9010,3066.64,2876.72,31.93,Cash,Online,10,4
+P0602,2025-12-23,C108,18-25,Female,Pune,India,Books,Inspirational Book,Friend,3432,2,6864,2150.42,2563.16,37.34,Card,Online,5,5
+P0603,2025-12-20,C740,36-45,Male,Chennai,India,Toys,Remote Car,Sibling,3431,1,3431,2104.9,1326.1,38.65,Card,Online,10,4
+P0604,2025-12-21,C505,18-25,Female,Surat,India,Accessories,Wallet,Spouse,2212,1,2212,1392.26,819.74,37.06,Card,Online,20,3
+P0605,2025-12-24,C166,26-35,Female,Surat,India,Accessories,Wallet,Friend,1937,1,1937,1333.09,603.91,31.18,Cash,Offline,5,5
+P0606,2025-12-15,C102,46-55,Male,Pune,India,Toys,Puzzle Game,Sibling,4865,2,9730,3415.73,2898.54,29.79,Card,Offline,0,5
+P0607,2025-12-02,C838,26-35,Male,Hyderabad,India,Food & Sweets,Plum Cake,Sibling,4559,2,9118,3089.13,2939.74,32.24,Cash,Offline,10,3
+P0608,2025-12-01,C855,26-35,Female,Mumbai,India,Home Decor,Christmas Lights,Friend,3241,1,3241,2372.46,868.54,26.8,UPI,Online,10,4
+P0609,2025-12-01,C706,36-45,Female,Chennai,India,Toys,Puzzle Game,Self,1292,1,1292,868.22,423.78,32.8,Card,Online,10,3
+P0610,2025-12-20,C734,46-55,Male,Indore,India,Books,Diary,Sibling,4757,1,4757,3527.47,1229.53,25.85,Cash,Online,0,3
+P0611,2025-12-02,C921,46-55,Male,Hyderabad,India,Toys,Remote Car,Spouse,3066,1,3066,2199.54,866.46,28.26,Cash,Offline,0,3
+P0612,2025-12-13,C198,46-55,Male,Surat,India,Accessories,Perfume,Spouse,927,2,1854,674.38,505.24,27.25,UPI,Offline,15,4
+P0613,2025-12-22,C901,18-25,Female,Ahmedabad,India,Books,Diary,Family,1329,2,2658,927.16,803.68,30.24,Cash,Online,0,3
+P0614,2025-12-05,C752,36-45,Female,Jaipur,India,Toys,Puzzle Game,Sibling,1053,1,1053,774.65,278.35,26.43,Cash,Offline,5,3
+P0615,2025-12-14,C625,36-45,Female,Surat,India,Electronics,Smart Watch,Spouse,995,1,995,643.52,351.48,35.32,UPI,Online,15,4
+P0616,2025-12-17,C700,26-35,Male,Chennai,India,Food & Sweets,Plum Cake,Spouse,2884,2,5768,2150.14,1467.72,25.45,Cash,Online,15,4
+P0617,2025-12-22,C587,46-55,Female,Surat,India,Electronics,Smart Watch,Spouse,2148,1,2148,1398.85,749.15,34.88,Card,Offline,15,4
+P0618,2025-12-01,C754,26-35,Male,Kolkata,India,Electronics,Smart Watch,Spouse,4221,1,4221,2846.6,1374.4,32.56,UPI,Online,15,5
+P0619,2025-12-01,C471,18-25,Male,Pune,India,Books,Diary,Self,3579,1,3579,2362.31,1216.69,34.0,Cash,Online,5,4
+P0620,2025-12-07,C302,36-45,Male,Chennai,India,Home Decor,Christmas Lights,Family,3448,1,3448,2573.23,874.77,25.37,Cash,Online,10,5
+P0621,2025-12-09,C203,18-25,Male,Jaipur,India,Electronics,Smart Watch,Self,2105,1,2105,1318.6,786.4,37.36,Card,Online,10,4
+P0622,2025-12-20,C544,18-25,Male,Bangalore,India,Electronics,Wireless Earbuds,Friend,3550,1,3550,2631.17,918.83,25.88,UPI,Online,20,4
+P0623,2025-12-08,C147,26-35,Female,Bangalore,India,Accessories,Handbag,Family,3104,2,6208,2317.28,1573.44,25.35,UPI,Online,10,3
+P0624,2025-12-16,C909,18-25,Male,Ahmedabad,India,Books,Inspirational Book,Sibling,4505,1,4505,3194.47,1310.53,29.09,Cash,Offline,15,5
+P0625,2025-12-16,C832,46-55,Female,Hyderabad,India,Home Decor,Christmas Lights,Spouse,3136,2,6272,2128.78,2014.44,32.12,Card,Online,5,3
+P0626,2025-12-14,C486,26-35,Female,Hyderabad,India,Electronics,Wireless Earbuds,Spouse,2420,2,4840,1531.35,1777.3,36.72,UPI,Online,0,4
+P0627,2025-12-15,C624,36-45,Female,Kolkata,India,Home Decor,Decor Tree,Sibling,3380,1,3380,2324.07,1055.93,31.24,Card,Offline,10,4
+P0628,2025-12-08,C371,18-25,Female,Mumbai,India,Clothing,Winter Jacket,Family,3632,1,3632,2277.03,1354.97,37.31,Cash,Online,10,3
+P0629,2025-12-07,C441,26-35,Female,Hyderabad,India,Toys,Teddy Bear,Family,1084,2,2168,656.62,854.76,39.43,Cash,Offline,5,5
+P0630,2025-12-10,C388,36-45,Female,Jaipur,India,Food & Sweets,Chocolate Hamper,Spouse,4949,2,9898,2975.74,3946.52,39.87,Cash,Online,15,5
+P0631,2025-12-24,C314,46-55,Male,Ahmedabad,India,Food & Sweets,Chocolate Hamper,Spouse,3756,1,3756,2381.45,1374.55,36.6,Cash,Offline,15,4
+P0632,2025-12-23,C527,26-35,Female,Kolkata,India,Books,Novel Set,Spouse,3064,1,3064,2035.47,1028.53,33.57,UPI,Offline,5,5
+P0633,2025-12-22,C954,36-45,Female,Chennai,India,Books,Novel Set,Sibling,3003,1,3003,2026.94,976.06,32.5,Card,Offline,20,4
+P0634,2025-12-05,C438,46-55,Female,Chennai,India,Clothing,Scarf,Sibling,690,1,690,509.44,180.56,26.17,UPI,Offline,5,4
+P0635,2025-12-04,C791,26-35,Male,Lucknow,India,Toys,Remote Car,Spouse,4198,2,8396,2577.51,3240.98,38.6,Card,Online,5,3
+P0636,2025-12-22,C636,18-25,Female,Delhi,India,Toys,Remote Car,Family,2825,1,2825,1793.75,1031.25,36.5,Cash,Online,5,4
+P0637,2025-12-05,C649,46-55,Female,Lucknow,India,Books,Diary,Self,3703,1,3703,2771.47,931.53,25.16,Card,Online,5,3
+P0638,2025-12-10,C701,26-35,Female,Hyderabad,India,Clothing,Winter Jacket,Friend,4389,1,4389,3030.85,1358.15,30.94,UPI,Online,15,3
+P0639,2025-12-16,C571,46-55,Male,Lucknow,India,Books,Diary,Self,2522,2,5044,1857.57,1328.86,26.35,Card,Offline,10,5
+P0640,2025-12-06,C525,26-35,Male,Surat,India,Books,Inspirational Book,Sibling,2936,2,5872,2031.58,1808.84,30.8,Card,Offline,5,5
+P0641,2025-12-06,C380,36-45,Male,Lucknow,India,Food & Sweets,Chocolate Hamper,Friend,3723,1,3723,2367.66,1355.34,36.4,Card,Offline,20,3
+P0642,2025-12-06,C358,26-35,Male,Kolkata,India,Clothing,Sweater,Self,1361,2,2722,900.32,921.36,33.85,UPI,Offline,15,4
+P0643,2025-12-09,C217,26-35,Female,Indore,India,Accessories,Handbag,Sibling,2092,2,4184,1267.05,1649.9,39.43,Card,Offline,0,3
+P0644,2025-12-09,C961,26-35,Male,Delhi,India,Food & Sweets,Dry Fruits Box,Spouse,2484,2,4968,1542.66,1882.68,37.9,UPI,Online,10,3
+P0645,2025-12-01,C793,36-45,Male,Kolkata,India,Food & Sweets,Dry Fruits Box,Family,3701,1,3701,2263.67,1437.33,38.84,UPI,Online,0,5
+P0646,2025-12-17,C756,18-25,Female,Lucknow,India,Food & Sweets,Chocolate Hamper,Family,4121,1,4121,2989.68,1131.32,27.45,Card,Online,20,3
+P0647,2025-12-08,C304,18-25,Male,Jaipur,India,Toys,Remote Car,Self,2152,1,2152,1412.14,739.86,34.38,UPI,Offline,5,5
+P0648,2025-12-22,C271,26-35,Male,Jaipur,India,Accessories,Perfume,Spouse,2306,1,2306,1659.26,646.74,28.05,UPI,Offline,10,5
+P0649,2025-12-04,C337,26-35,Male,Pune,India,Accessories,Perfume,Family,2196,2,4392,1626.88,1138.24,25.92,UPI,Online,15,5
+P0650,2025-12-03,C773,36-45,Female,Delhi,India,Clothing,Sweater,Self,3688,1,3688,2466.59,1221.41,33.12,UPI,Offline,10,5
+P0651,2025-12-04,C714,36-45,Female,Indore,India,Home Decor,Christmas Lights,Friend,4892,1,4892,3120.07,1771.93,36.22,Card,Online,10,5
+P0652,2025-12-19,C559,46-55,Male,Ahmedabad,India,Home Decor,Christmas Lights,Spouse,3245,1,3245,2243.2,1001.8,30.87,Cash,Online,5,3
+P0653,2025-12-08,C734,18-25,Male,Bangalore,India,Food & Sweets,Chocolate Hamper,Family,3030,1,3030,2153.38,876.62,28.93,Card,Offline,5,3
+P0654,2025-12-20,C554,36-45,Male,Hyderabad,India,Home Decor,Christmas Lights,Family,810,1,810,598.19,211.81,26.15,Cash,Online,20,4
+P0655,2025-12-11,C450,26-35,Male,Ahmedabad,India,Accessories,Handbag,Self,694,1,694,504.57,189.43,27.3,Cash,Online,5,5
+P0656,2025-12-21,C106,18-25,Female,Mumbai,India,Books,Diary,Friend,4771,2,9542,2993.95,3554.1,37.25,UPI,Online,5,3
+P0657,2025-12-03,C536,46-55,Female,Bangalore,India,Toys,Teddy Bear,Friend,4996,1,4996,3174.69,1821.31,36.46,UPI,Offline,5,5
+P0658,2025-12-07,C378,46-55,Male,Pune,India,Electronics,Wireless Earbuds,Sibling,2837,2,5674,2114.02,1445.96,25.48,Card,Online,15,4
+P0659,2025-12-16,C120,46-55,Female,Mumbai,India,Home Decor,Decor Tree,Family,4050,1,4050,2927.91,1122.09,27.71,Cash,Online,20,5
+P0660,2025-12-10,C484,46-55,Male,Pune,India,Electronics,Wireless Earbuds,Friend,3616,2,7232,2335.49,2561.02,35.41,Cash,Offline,5,3
+P0661,2025-12-14,C504,36-45,Female,Kolkata,India,Electronics,Smart Watch,Family,605,2,1210,407.6,394.8,32.63,Cash,Online,15,3
+P0662,2025-12-09,C889,36-45,Female,Indore,India,Toys,Remote Car,Family,1830,1,1830,1307.43,522.57,28.56,Cash,Online,15,4
+P0663,2025-12-12,C746,18-25,Male,Hyderabad,India,Accessories,Perfume,Spouse,2485,2,4970,1503.86,1962.28,39.48,Card,Online,10,3
+P0664,2025-12-03,C759,46-55,Female,Lucknow,India,Food & Sweets,Dry Fruits Box,Spouse,1822,1,1822,1125.1,696.9,38.25,UPI,Online,15,3
+P0665,2025-12-18,C774,46-55,Female,Lucknow,India,Books,Diary,Sibling,2571,2,5142,1735.67,1670.66,32.49,Cash,Online,0,5
+P0666,2025-12-24,C507,36-45,Male,Bangalore,India,Food & Sweets,Plum Cake,Sibling,1669,2,3338,1188.84,960.32,28.77,UPI,Online,0,5
+P0667,2025-12-06,C280,36-45,Male,Lucknow,India,Home Decor,Decor Tree,Friend,3914,2,7828,2778.77,2270.46,29.0,UPI,Offline,5,5
+P0668,2025-12-24,C287,26-35,Female,Jaipur,India,Toys,Remote Car,Sibling,2241,1,2241,1412.15,828.85,36.99,Cash,Online,5,3
+P0669,2025-12-11,C130,26-35,Female,Kolkata,India,Clothing,Sweater,Self,3594,1,3594,2305.6,1288.4,35.85,UPI,Online,10,3
+P0670,2025-12-01,C484,36-45,Female,Kolkata,India,Accessories,Wallet,Family,842,1,842,531.86,310.14,36.83,Cash,Offline,10,4
+P0671,2025-12-22,C508,46-55,Male,Pune,India,Accessories,Handbag,Family,3082,1,3082,2284.22,797.78,25.89,UPI,Online,15,5
+P0672,2025-12-17,C386,26-35,Female,Kolkata,India,Home Decor,Decor Tree,Spouse,1637,1,1637,1130.0,507.0,30.97,Cash,Offline,20,4
+P0673,2025-12-12,C994,18-25,Female,Indore,India,Accessories,Perfume,Sibling,525,2,1050,316.31,417.38,39.75,UPI,Offline,15,5
+P0674,2025-12-16,C774,18-25,Female,Hyderabad,India,Food & Sweets,Chocolate Hamper,Spouse,3353,2,6706,2484.11,1737.78,25.91,UPI,Online,20,5
+P0675,2025-12-03,C408,46-55,Male,Kolkata,India,Books,Inspirational Book,Self,4633,1,4633,2868.66,1764.34,38.08,Card,Online,5,3
+P0676,2025-12-23,C129,26-35,Female,Jaipur,India,Electronics,Bluetooth Speaker,Family,1232,1,1232,819.57,412.43,33.48,UPI,Offline,15,5
+P0677,2025-12-23,C440,26-35,Male,Indore,India,Toys,Puzzle Game,Family,1612,2,3224,989.07,1245.86,38.64,Card,Offline,20,4
+P0678,2025-12-03,C214,18-25,Female,Lucknow,India,Books,Novel Set,Spouse,2331,2,4662,1439.05,1783.9,38.26,UPI,Online,20,4
+P0679,2025-12-19,C648,26-35,Female,Jaipur,India,Electronics,Wireless Earbuds,Family,3614,1,3614,2336.88,1277.12,35.34,Card,Online,20,5
+P0680,2025-12-18,C972,46-55,Female,Bangalore,India,Food & Sweets,Dry Fruits Box,Family,2319,1,2319,1528.91,790.09,34.07,UPI,Offline,15,3
+P0681,2025-12-10,C614,18-25,Female,Lucknow,India,Food & Sweets,Plum Cake,Spouse,1694,1,1694,1168.58,525.42,31.02,Card,Online,15,4
+P0682,2025-12-23,C315,26-35,Male,Bangalore,India,Accessories,Handbag,Sibling,981,2,1962,611.07,739.86,37.71,Cash,Offline,10,5
+P0683,2025-12-22,C584,36-45,Female,Jaipur,India,Books,Novel Set,Self,676,2,1352,439.81,472.38,34.94,Cash,Offline,10,5
+P0684,2025-12-11,C870,18-25,Female,Kolkata,India,Electronics,Bluetooth Speaker,Friend,4989,2,9978,3066.23,3845.54,38.54,Cash,Online,15,5
+P0685,2025-12-24,C300,18-25,Female,Lucknow,India,Home Decor,Wall Candles,Spouse,1686,1,1686,1066.77,619.23,36.73,UPI,Online,15,4
+P0686,2025-12-16,C283,18-25,Male,Ahmedabad,India,Accessories,Perfume,Family,961,1,961,627.86,333.14,34.67,Cash,Offline,5,5
+P0687,2025-12-13,C600,36-45,Male,Indore,India,Accessories,Handbag,Sibling,2507,1,2507,1548.88,958.12,38.22,Cash,Online,15,5
+P0688,2025-12-04,C184,18-25,Female,Indore,India,Home Decor,Wall Candles,Spouse,4146,2,8292,2494.82,3302.36,39.83,UPI,Online,20,5
+P0689,2025-12-06,C493,46-55,Female,Hyderabad,India,Food & Sweets,Plum Cake,Spouse,2742,1,2742,1971.91,770.09,28.08,UPI,Online,10,3
+P0690,2025-12-01,C503,46-55,Male,Ahmedabad,India,Accessories,Wallet,Spouse,2014,2,4028,1453.97,1120.06,27.81,Cash,Online,5,5
+P0691,2025-12-11,C225,18-25,Male,Surat,India,Toys,Teddy Bear,Friend,1974,1,1974,1348.65,625.35,31.68,Cash,Online,0,5
+P0692,2025-12-12,C657,26-35,Female,Indore,India,Clothing,Sweater,Self,1193,1,1193,806.38,386.62,32.41,UPI,Offline,0,5
+P0693,2025-12-16,C811,36-45,Female,Surat,India,Books,Diary,Spouse,4875,2,9750,3027.27,3695.46,37.9,Cash,Online,0,5
+P0694,2025-12-10,C976,26-35,Male,Surat,India,Books,Novel Set,Spouse,2442,1,2442,1534.09,907.91,37.18,UPI,Offline,10,3
+P0695,2025-12-09,C490,26-35,Female,Kolkata,India,Accessories,Wallet,Self,3957,1,3957,2700.56,1256.44,31.75,Card,Offline,5,5
+P0696,2025-12-19,C773,26-35,Female,Bangalore,India,Electronics,Smart Watch,Family,2706,1,2706,1913.59,792.41,29.28,Card,Offline,0,5
+P0697,2025-12-22,C661,46-55,Male,Pune,India,Electronics,Smart Watch,Self,2712,1,2712,1843.4,868.6,32.03,Card,Offline,10,3
+P0698,2025-12-08,C487,18-25,Male,Bangalore,India,Books,Novel Set,Spouse,2741,1,2741,1684.87,1056.13,38.53,Cash,Offline,20,4
+P0699,2025-12-20,C201,18-25,Male,Pune,India,Toys,Puzzle Game,Sibling,3358,2,6716,2292.61,2130.78,31.73,UPI,Offline,20,5
+P0700,2025-12-22,C625,26-35,Male,Bangalore,India,Food & Sweets,Plum Cake,Sibling,4406,1,4406,2814.81,1591.19,36.11,Cash,Offline,0,5
+P0701,2025-12-06,C549,36-45,Female,Ahmedabad,India,Accessories,Handbag,Family,2540,2,5080,1793.29,1493.42,29.4,Card,Offline,20,5
+P0702,2025-12-14,C889,36-45,Male,Indore,India,Books,Novel Set,Self,3000,1,3000,2226.35,773.65,25.79,UPI,Online,0,3
+P0703,2025-12-16,C927,18-25,Female,Indore,India,Food & Sweets,Chocolate Hamper,Spouse,1192,2,2384,814.28,755.44,31.69,Cash,Online,15,4
+P0704,2025-12-20,C294,18-25,Female,Lucknow,India,Food & Sweets,Dry Fruits Box,Spouse,4861,1,4861,3212.25,1648.75,33.92,Cash,Offline,5,5
+P0705,2025-12-22,C882,26-35,Male,Mumbai,India,Accessories,Wallet,Family,846,2,1692,630.01,431.98,25.53,UPI,Offline,0,4
+P0706,2025-12-11,C795,26-35,Male,Hyderabad,India,Home Decor,Wall Candles,Family,1896,2,3792,1413.39,965.22,25.45,Card,Offline,10,3
+P0707,2025-12-21,C627,18-25,Female,Surat,India,Toys,Puzzle Game,Sibling,3724,1,3724,2750.02,973.98,26.15,UPI,Offline,0,5
+P0708,2025-12-12,C839,26-35,Female,Pune,India,Home Decor,Wall Candles,Self,2944,2,5888,1813.72,2260.56,38.39,UPI,Offline,15,3
+P0709,2025-12-16,C107,26-35,Female,Chennai,India,Toys,Puzzle Game,Sibling,4713,1,4713,3118.16,1594.84,33.84,Card,Offline,10,4
+P0710,2025-12-15,C772,46-55,Male,Bangalore,India,Home Decor,Christmas Lights,Family,4894,2,9788,3016.19,3755.62,38.37,Cash,Offline,0,4
+P0711,2025-12-02,C236,46-55,Female,Lucknow,India,Books,Inspirational Book,Family,2125,1,2125,1335.42,789.58,37.16,UPI,Online,5,4
+P0712,2025-12-16,C919,26-35,Female,Jaipur,India,Accessories,Handbag,Spouse,1473,2,2946,991.86,962.28,32.66,Cash,Offline,5,3
+P0713,2025-12-01,C885,26-35,Male,Indore,India,Toys,Teddy Bear,Family,1533,1,1533,998.93,534.07,34.84,Card,Online,15,4
+P0714,2025-12-08,C732,26-35,Male,Chennai,India,Clothing,Winter Jacket,Family,4480,1,4480,3199.32,1280.68,28.59,UPI,Offline,5,5
+P0715,2025-12-04,C817,26-35,Male,Surat,India,Books,Diary,Friend,2125,2,4250,1500.18,1249.64,29.4,UPI,Online,5,4
+P0716,2025-12-20,C304,18-25,Male,Jaipur,India,Toys,Remote Car,Sibling,2074,1,2074,1377.02,696.98,33.61,Cash,Offline,5,3
+P0717,2025-12-21,C152,36-45,Male,Hyderabad,India,Clothing,Winter Jacket,Family,4425,1,4425,2993.42,1431.58,32.35,Card,Offline,15,3
+P0718,2025-12-22,C862,36-45,Male,Hyderabad,India,Clothing,Sweater,Sibling,1988,1,1988,1192.96,795.04,39.99,Card,Online,15,3
+P0719,2025-12-04,C785,18-25,Male,Pune,India,Clothing,Winter Jacket,Family,3478,2,6956,2245.58,2464.84,35.43,Cash,Offline,20,5
+P0720,2025-12-13,C189,18-25,Male,Indore,India,Food & Sweets,Plum Cake,Spouse,2451,2,4902,1547.82,1806.36,36.85,UPI,Online,20,5
+P0721,2025-12-03,C659,36-45,Female,Lucknow,India,Books,Novel Set,Sibling,2080,2,4160,1536.76,1086.48,26.12,UPI,Online,0,3
+P0722,2025-12-15,C744,18-25,Female,Mumbai,India,Electronics,Wireless Earbuds,Sibling,2568,2,5136,1885.52,1364.96,26.58,Card,Online,5,5
+P0723,2025-12-19,C162,26-35,Female,Kolkata,India,Clothing,Scarf,Spouse,1556,2,3112,944.21,1223.58,39.32,Cash,Online,5,4
+P0724,2025-12-09,C311,26-35,Male,Bangalore,India,Books,Inspirational Book,Spouse,3646,2,7292,2406.82,2478.36,33.99,UPI,Online,20,4
+P0725,2025-12-08,C403,36-45,Male,Bangalore,India,Food & Sweets,Dry Fruits Box,Friend,4801,2,9602,3099.1,3403.8,35.45,UPI,Online,10,3
+P0726,2025-12-02,C757,26-35,Male,Ahmedabad,India,Accessories,Perfume,Self,2775,1,2775,1777.57,997.43,35.94,UPI,Offline,20,4
+P0727,2025-12-14,C726,36-45,Female,Delhi,India,Clothing,Sweater,Self,4999,2,9998,3540.85,2916.3,29.17,Card,Online,10,3
+P0728,2025-12-23,C491,36-45,Male,Kolkata,India,Clothing,Sweater,Friend,4902,1,4902,3472.53,1429.47,29.16,Card,Offline,5,5
+P0729,2025-12-24,C544,36-45,Male,Kolkata,India,Accessories,Handbag,Self,1775,2,3550,1126.7,1296.6,36.52,Card,Online,15,3
+P0730,2025-12-06,C763,36-45,Male,Hyderabad,India,Books,Novel Set,Friend,2047,2,4094,1517.86,1058.28,25.85,UPI,Offline,20,3
+P0731,2025-12-21,C512,18-25,Male,Lucknow,India,Toys,Teddy Bear,Self,1090,2,2180,694.1,791.8,36.32,Cash,Online,15,4
+P0732,2025-12-03,C374,26-35,Male,Delhi,India,Toys,Teddy Bear,Self,611,1,611,378.71,232.29,38.02,Cash,Offline,0,3
+P0733,2025-12-16,C258,26-35,Male,Ahmedabad,India,Electronics,Wireless Earbuds,Family,4139,1,4139,2674.24,1464.76,35.39,Cash,Online,0,3
+P0734,2025-12-14,C245,18-25,Male,Delhi,India,Toys,Puzzle Game,Friend,2930,1,2930,1982.82,947.18,32.33,Card,Offline,5,4
+P0735,2025-12-23,C942,18-25,Female,Bangalore,India,Accessories,Handbag,Self,2350,2,4700,1652.09,1395.82,29.7,UPI,Online,10,4
+P0736,2025-12-03,C144,26-35,Male,Jaipur,India,Toys,Puzzle Game,Spouse,3233,1,3233,2114.62,1118.38,34.59,Card,Online,15,3
+P0737,2025-12-04,C377,46-55,Female,Hyderabad,India,Accessories,Wallet,Self,2970,2,5940,1937.21,2065.58,34.77,UPI,Online,5,4
+P0738,2025-12-04,C691,46-55,Female,Bangalore,India,Electronics,Wireless Earbuds,Self,4159,2,8318,3003.62,2310.76,27.78,Card,Online,5,4
+P0739,2025-12-14,C716,36-45,Male,Indore,India,Clothing,Winter Jacket,Friend,4548,2,9096,3057.14,2981.72,32.78,Card,Offline,20,4
+P0740,2025-12-19,C832,46-55,Male,Lucknow,India,Food & Sweets,Dry Fruits Box,Self,4535,1,4535,2982.64,1552.36,34.23,UPI,Offline,0,3
+P0741,2025-12-04,C161,36-45,Female,Bangalore,India,Books,Novel Set,Family,3468,2,6936,2578.95,1778.1,25.64,Card,Online,20,4
+P0742,2025-12-04,C812,26-35,Female,Lucknow,India,Electronics,Smart Watch,Self,2339,1,2339,1665.48,673.52,28.8,Cash,Offline,10,3
+P0743,2025-12-06,C130,26-35,Female,Bangalore,India,Accessories,Perfume,Self,1104,2,2208,801.08,605.84,27.44,UPI,Online,0,5
+P0744,2025-12-05,C866,36-45,Female,Jaipur,India,Books,Diary,Family,1726,1,1726,1157.22,568.78,32.95,Card,Online,10,3
+P0745,2025-12-01,C505,46-55,Female,Ahmedabad,India,Electronics,Smart Watch,Family,763,1,763,515.4,247.6,32.45,Cash,Offline,5,4
+P0746,2025-12-05,C860,26-35,Female,Surat,India,Electronics,Wireless Earbuds,Self,1253,2,2506,935.6,634.8,25.33,UPI,Offline,5,5
+P0747,2025-12-21,C757,46-55,Female,Bangalore,India,Food & Sweets,Dry Fruits Box,Self,1132,2,2264,760.27,743.46,32.84,Card,Offline,5,4
+P0748,2025-12-11,C128,26-35,Female,Bangalore,India,Toys,Teddy Bear,Spouse,1137,2,2274,785.07,703.86,30.95,UPI,Online,5,5
+P0749,2025-12-02,C346,36-45,Male,Surat,India,Toys,Remote Car,Spouse,2037,1,2037,1417.26,619.74,30.42,UPI,Offline,0,3
+P0750,2025-12-10,C507,26-35,Female,Jaipur,India,Clothing,Sweater,Family,3028,1,3028,2262.16,765.84,25.29,UPI,Online,10,4
+P0751,2025-12-13,C588,18-25,Female,Bangalore,India,Accessories,Wallet,Friend,1327,1,1327,800.91,526.09,39.65,Cash,Offline,0,5
+P0752,2025-12-21,C244,26-35,Female,Kolkata,India,Toys,Puzzle Game,Friend,2397,1,2397,1728.53,668.47,27.89,Card,Offline,10,5
+P0753,2025-12-20,C721,18-25,Male,Surat,India,Books,Diary,Sibling,827,2,1654,525.86,602.28,36.41,UPI,Online,5,4
+P0754,2025-12-06,C402,26-35,Male,Hyderabad,India,Food & Sweets,Chocolate Hamper,Spouse,4587,1,4587,3065.13,1521.87,33.18,Card,Offline,0,3
+P0755,2025-12-09,C881,46-55,Male,Mumbai,India,Electronics,Bluetooth Speaker,Spouse,4274,2,8548,3196.62,2154.76,25.21,Card,Online,10,4
+P0756,2025-12-20,C421,36-45,Male,Indore,India,Home Decor,Wall Candles,Sibling,1556,2,3112,1019.2,1073.6,34.5,Cash,Offline,10,5
+P0757,2025-12-18,C108,26-35,Male,Hyderabad,India,Toys,Puzzle Game,Sibling,967,1,967,681.7,285.3,29.5,UPI,Offline,0,3
+P0758,2025-12-21,C647,46-55,Male,Mumbai,India,Home Decor,Wall Candles,Friend,1265,2,2530,847.4,835.2,33.01,Cash,Online,15,4
+P0759,2025-12-20,C597,26-35,Female,Mumbai,India,Electronics,Wireless Earbuds,Family,3192,1,3192,2067.12,1124.88,35.24,Card,Online,20,3
+P0760,2025-12-20,C892,46-55,Male,Pune,India,Home Decor,Christmas Lights,Sibling,2248,2,4496,1540.4,1415.2,31.48,Card,Online,0,3
+P0761,2025-12-06,C185,26-35,Male,Hyderabad,India,Books,Novel Set,Sibling,3964,2,7928,2528.28,2871.44,36.22,UPI,Offline,15,4
+P0762,2025-12-03,C538,36-45,Female,Bangalore,India,Food & Sweets,Chocolate Hamper,Friend,2625,1,2625,1902.03,722.97,27.54,Card,Offline,15,4
+P0763,2025-12-23,C684,46-55,Male,Ahmedabad,India,Food & Sweets,Dry Fruits Box,Spouse,1816,2,3632,1186.22,1259.56,34.68,UPI,Online,20,5
+P0764,2025-12-15,C251,46-55,Female,Mumbai,India,Electronics,Wireless Earbuds,Sibling,3092,1,3092,1925.0,1167.0,37.74,Card,Online,15,3
+P0765,2025-12-07,C530,26-35,Female,Chennai,India,Accessories,Handbag,Family,1298,1,1298,821.37,476.63,36.72,UPI,Online,20,3
+P0766,2025-12-17,C938,18-25,Female,Indore,India,Clothing,Winter Jacket,Sibling,632,2,1264,464.2,335.6,26.55,Card,Offline,10,4
+P0767,2025-12-06,C569,46-55,Female,Bangalore,India,Books,Inspirational Book,Spouse,3988,2,7976,2460.62,3054.76,38.3,Cash,Online,20,4
+P0768,2025-12-04,C189,18-25,Male,Indore,India,Home Decor,Wall Candles,Self,4083,2,8166,2879.8,2406.4,29.47,Cash,Offline,0,4
+P0769,2025-12-17,C695,18-25,Female,Jaipur,India,Accessories,Wallet,Friend,4962,1,4962,3448.73,1513.27,30.5,UPI,Offline,20,4
+P0770,2025-12-15,C522,46-55,Male,Pune,India,Toys,Teddy Bear,Friend,4346,1,4346,2836.17,1509.83,34.74,Cash,Offline,10,5
+P0771,2025-12-14,C133,18-25,Male,Bangalore,India,Clothing,Winter Jacket,Family,3897,1,3897,2340.63,1556.37,39.94,Cash,Offline,10,3
+P0772,2025-12-21,C502,18-25,Female,Bangalore,India,Food & Sweets,Plum Cake,Sibling,2481,2,4962,1560.3,1841.4,37.11,Cash,Online,15,4
+P0773,2025-12-05,C616,18-25,Female,Indore,India,Food & Sweets,Chocolate Hamper,Family,4083,1,4083,2510.79,1572.21,38.51,Cash,Online,10,3
+P0774,2025-12-19,C256,18-25,Male,Surat,India,Toys,Teddy Bear,Sibling,710,2,1420,427.23,565.54,39.83,UPI,Online,15,5
+P0775,2025-12-08,C404,26-35,Male,Lucknow,India,Accessories,Handbag,Sibling,2028,1,2028,1415.3,612.7,30.21,Card,Online,10,3
+P0776,2025-12-20,C225,18-25,Male,Hyderabad,India,Electronics,Bluetooth Speaker,Family,689,1,689,424.86,264.14,38.34,UPI,Online,0,4
+P0777,2025-12-01,C523,18-25,Female,Indore,India,Books,Diary,Self,2203,2,4406,1355.07,1695.86,38.49,UPI,Offline,15,4
+P0778,2025-12-06,C775,18-25,Male,Pune,India,Accessories,Handbag,Family,1819,1,1819,1172.92,646.08,35.52,Card,Online,5,5
+P0779,2025-12-18,C123,26-35,Male,Pune,India,Accessories,Handbag,Self,1496,1,1496,1033.61,462.39,30.91,UPI,Online,10,3
+P0780,2025-12-07,C194,36-45,Female,Kolkata,India,Electronics,Smart Watch,Sibling,1536,2,3072,984.65,1102.7,35.9,Card,Offline,5,4
+P0781,2025-12-19,C419,26-35,Male,Lucknow,India,Electronics,Smart Watch,Sibling,2802,2,5604,1724.45,2155.1,38.46,Card,Offline,15,5
+P0782,2025-12-14,C304,36-45,Female,Indore,India,Accessories,Handbag,Self,3111,1,3111,2149.99,961.01,30.89,Card,Online,0,5
+P0783,2025-12-21,C643,36-45,Female,Delhi,India,Clothing,Scarf,Self,3857,2,7714,2663.58,2386.84,30.94,UPI,Offline,15,3
+P0784,2025-12-12,C248,36-45,Male,Delhi,India,Clothing,Sweater,Family,1095,1,1095,764.9,330.1,30.15,Cash,Online,10,3
+P0785,2025-12-13,C390,26-35,Male,Mumbai,India,Home Decor,Decor Tree,Spouse,3134,1,3134,2144.43,989.57,31.58,Card,Online,20,5
+P0786,2025-12-07,C301,18-25,Female,Kolkata,India,Home Decor,Decor Tree,Self,4065,2,8130,2934.97,2260.06,27.8,Card,Offline,0,3
+P0787,2025-12-01,C391,18-25,Male,Kolkata,India,Home Decor,Christmas Lights,Family,3177,2,6354,2018.87,2316.26,36.45,UPI,Offline,0,5
+P0788,2025-12-04,C949,46-55,Female,Hyderabad,India,Food & Sweets,Chocolate Hamper,Family,3263,1,3263,1991.79,1271.21,38.96,Card,Offline,0,5
+P0789,2025-12-23,C565,46-55,Male,Pune,India,Books,Diary,Spouse,4545,1,4545,2995.15,1549.85,34.1,UPI,Online,5,3
+P0790,2025-12-23,C841,46-55,Male,Bangalore,India,Books,Novel Set,Self,1636,1,1636,1225.41,410.59,25.1,UPI,Offline,20,3
+P0791,2025-12-10,C176,36-45,Female,Lucknow,India,Accessories,Perfume,Spouse,2627,1,2627,1619.86,1007.14,38.34,Card,Offline,5,3
+P0792,2025-12-05,C871,46-55,Female,Indore,India,Food & Sweets,Plum Cake,Self,1482,1,1482,960.19,521.81,35.21,Cash,Online,20,4
+P0793,2025-12-16,C331,18-25,Female,Hyderabad,India,Accessories,Handbag,Self,2798,2,5596,2003.08,1589.84,28.41,Card,Online,5,5
+P0794,2025-12-22,C321,46-55,Female,Chennai,India,Toys,Teddy Bear,Sibling,4551,1,4551,2875.65,1675.35,36.81,UPI,Offline,5,5
+P0795,2025-12-10,C825,46-55,Male,Ahmedabad,India,Books,Inspirational Book,Self,4710,2,9420,3363.28,2693.44,28.59,UPI,Online,10,4
+P0796,2025-12-07,C170,36-45,Female,Bangalore,India,Home Decor,Decor Tree,Family,4706,1,4706,3374.22,1331.78,28.3,Cash,Online,5,4
+P0797,2025-12-15,C291,36-45,Male,Kolkata,India,Toys,Puzzle Game,Spouse,1402,1,1402,844.69,557.31,39.75,Card,Offline,10,3
+P0798,2025-12-13,C614,46-55,Female,Delhi,India,Food & Sweets,Chocolate Hamper,Sibling,3403,2,6806,2150.05,2505.9,36.82,Card,Offline,0,3
+P0799,2025-12-13,C280,36-45,Female,Ahmedabad,India,Accessories,Handbag,Sibling,3961,1,3961,2551.28,1409.72,35.59,UPI,Online,5,3
+P0800,2025-12-08,C167,18-25,Female,Chennai,India,Electronics,Smart Watch,Spouse,935,1,935,641.68,293.32,31.37,Cash,Offline,15,4
+P0801,2025-12-07,C455,36-45,Female,Lucknow,India,Toys,Teddy Bear,Self,2697,2,5394,1701.42,1991.16,36.91,UPI,Online,20,5
+P0802,2025-12-22,C171,26-35,Male,Pune,India,Food & Sweets,Plum Cake,Sibling,3001,1,3001,1877.23,1123.77,37.45,UPI,Online,15,4
+P0803,2025-12-06,C795,18-25,Female,Kolkata,India,Clothing,Sweater,Spouse,1954,2,3908,1430.7,1046.6,26.78,UPI,Offline,5,4
+P0804,2025-12-17,C615,26-35,Male,Mumbai,India,Toys,Teddy Bear,Self,642,2,1284,465.65,352.7,27.47,Card,Offline,15,4
+P0805,2025-12-09,C473,46-55,Male,Pune,India,Accessories,Handbag,Family,4970,2,9940,3476.57,2986.86,30.05,Cash,Offline,20,5
+P0806,2025-12-17,C845,18-25,Male,Jaipur,India,Books,Inspirational Book,Friend,4467,1,4467,2861.07,1605.93,35.95,Cash,Online,10,4
+P0807,2025-12-03,C298,46-55,Male,Hyderabad,India,Toys,Teddy Bear,Spouse,4028,2,8056,2541.45,2973.1,36.91,Card,Online,10,5
+P0808,2025-12-09,C416,26-35,Male,Surat,India,Clothing,Winter Jacket,Spouse,3703,2,7406,2746.85,1912.3,25.82,Cash,Offline,20,3
+P0809,2025-12-01,C610,26-35,Female,Indore,India,Home Decor,Wall Candles,Friend,3342,2,6684,2060.44,2563.12,38.35,Cash,Offline,20,5
+P0810,2025-12-10,C115,46-55,Male,Chennai,India,Accessories,Perfume,Family,2987,2,5974,1921.35,2131.3,35.68,Cash,Online,0,4
+P0811,2025-12-01,C151,36-45,Male,Pune,India,Clothing,Sweater,Family,4025,2,8050,2813.63,2422.74,30.1,Cash,Online,0,5
+P0812,2025-12-03,C397,26-35,Male,Kolkata,India,Clothing,Sweater,Family,2111,2,4222,1451.91,1318.18,31.22,UPI,Offline,15,4
+P0813,2025-12-14,C795,36-45,Male,Indore,India,Toys,Remote Car,Friend,2974,2,5948,1861.71,2224.58,37.4,Card,Online,15,5
+P0814,2025-12-21,C572,26-35,Female,Jaipur,India,Electronics,Wireless Earbuds,Self,2998,1,2998,1932.51,1065.49,35.54,UPI,Offline,10,5
+P0815,2025-12-15,C530,46-55,Female,Delhi,India,Accessories,Wallet,Spouse,3429,2,6858,2239.58,2378.84,34.69,UPI,Offline,0,3
+P0816,2025-12-18,C679,36-45,Male,Jaipur,India,Food & Sweets,Plum Cake,Friend,2487,2,4974,1539.68,1894.64,38.09,Card,Online,15,5
+P0817,2025-12-21,C209,36-45,Male,Hyderabad,India,Home Decor,Christmas Lights,Spouse,1193,1,1193,764.15,428.85,35.95,Card,Offline,0,3
+P0818,2025-12-17,C247,46-55,Male,Chennai,India,Accessories,Wallet,Friend,4684,1,4684,3303.32,1380.68,29.48,Card,Offline,0,4
+P0819,2025-12-05,C718,18-25,Male,Chennai,India,Food & Sweets,Dry Fruits Box,Friend,2144,1,2144,1307.99,836.01,38.99,UPI,Offline,0,5
+P0820,2025-12-16,C288,26-35,Female,Surat,India,Home Decor,Wall Candles,Sibling,955,1,955,615.96,339.04,35.5,Cash,Online,15,3
+P0821,2025-12-22,C346,26-35,Male,Kolkata,India,Accessories,Perfume,Sibling,2013,1,2013,1454.96,558.04,27.72,Card,Offline,0,5
+P0822,2025-12-04,C575,46-55,Female,Bangalore,India,Home Decor,Wall Candles,Self,2754,2,5508,1811.78,1884.44,34.21,Card,Offline,0,5
+P0823,2025-12-22,C734,46-55,Male,Pune,India,Home Decor,Christmas Lights,Friend,2980,1,2980,2076.36,903.64,30.32,Card,Offline,10,3
+P0824,2025-12-23,C637,46-55,Male,Bangalore,India,Electronics,Wireless Earbuds,Friend,4601,1,4601,3001.35,1599.65,34.77,Card,Offline,15,5
+P0825,2025-12-03,C959,46-55,Female,Kolkata,India,Books,Novel Set,Spouse,2780,2,5560,2053.09,1453.82,26.15,Cash,Online,20,5
+P0826,2025-12-11,C702,36-45,Female,Mumbai,India,Food & Sweets,Dry Fruits Box,Self,4804,2,9608,2975.66,3656.68,38.06,UPI,Online,5,3
+P0827,2025-12-08,C890,26-35,Male,Bangalore,India,Accessories,Perfume,Sibling,4591,2,9182,2977.49,3227.02,35.15,Card,Online,0,5
+P0828,2025-12-12,C721,18-25,Male,Pune,India,Clothing,Sweater,Self,806,1,806,536.98,269.02,33.38,Cash,Offline,15,3
+P0829,2025-12-15,C795,36-45,Male,Chennai,India,Accessories,Wallet,Friend,2136,1,2136,1362.5,773.5,36.21,Card,Online,0,5
+P0830,2025-12-05,C105,36-45,Female,Surat,India,Toys,Puzzle Game,Spouse,1288,1,1288,779.22,508.78,39.5,UPI,Offline,5,5
+P0831,2025-12-07,C684,46-55,Female,Pune,India,Accessories,Wallet,Spouse,4826,2,9652,3033.24,3585.52,37.15,Cash,Online,0,4
+P0832,2025-12-05,C901,36-45,Male,Mumbai,India,Home Decor,Decor Tree,Sibling,3581,1,3581,2454.32,1126.68,31.46,UPI,Online,20,5
+P0833,2025-12-09,C499,36-45,Male,Bangalore,India,Clothing,Sweater,Family,2335,2,4670,1724.03,1221.94,26.17,UPI,Online,20,5
+P0834,2025-12-04,C696,46-55,Female,Indore,India,Food & Sweets,Plum Cake,Self,3770,1,3770,2570.73,1199.27,31.81,UPI,Offline,15,4
+P0835,2025-12-24,C437,18-25,Male,Kolkata,India,Electronics,Wireless Earbuds,Self,986,1,986,621.81,364.19,36.94,Cash,Online,10,3
+P0836,2025-12-09,C840,18-25,Male,Delhi,India,Home Decor,Decor Tree,Sibling,1160,2,2320,860.71,598.58,25.8,Cash,Online,10,4
+P0837,2025-12-01,C892,26-35,Female,Indore,India,Home Decor,Wall Candles,Self,2365,1,2365,1749.36,615.64,26.03,Cash,Offline,0,4
+P0838,2025-12-18,C241,18-25,Female,Mumbai,India,Books,Diary,Spouse,1525,2,3050,1075.43,899.14,29.48,Card,Offline,5,4
+P0839,2025-12-01,C332,46-55,Male,Delhi,India,Home Decor,Christmas Lights,Friend,2451,1,2451,1504.42,946.58,38.62,UPI,Online,0,3
+P0840,2025-12-20,C770,26-35,Female,Bangalore,India,Home Decor,Christmas Lights,Spouse,2815,1,2815,1821.64,993.36,35.29,Card,Offline,0,5
+P0841,2025-12-24,C932,36-45,Male,Kolkata,India,Toys,Teddy Bear,Family,2549,1,2549,1718.64,830.36,32.58,Card,Offline,5,5
+P0842,2025-12-14,C822,46-55,Female,Mumbai,India,Clothing,Winter Jacket,Friend,4935,1,4935,3000.97,1934.03,39.19,UPI,Online,10,5
+P0843,2025-12-05,C136,26-35,Female,Indore,India,Food & Sweets,Chocolate Hamper,Sibling,1505,2,3010,1066.65,876.7,29.13,UPI,Online,15,3
+P0844,2025-12-03,C161,36-45,Female,Kolkata,India,Clothing,Winter Jacket,Self,3647,2,7294,2640.71,2012.58,27.59,Card,Offline,15,3
+P0845,2025-12-18,C153,36-45,Male,Ahmedabad,India,Electronics,Smart Watch,Family,3607,1,3607,2521.25,1085.75,30.1,UPI,Offline,10,5
+P0846,2025-12-24,C853,18-25,Male,Ahmedabad,India,Electronics,Smart Watch,Sibling,3293,2,6586,2403.43,1779.14,27.01,Cash,Offline,20,4
+P0847,2025-12-13,C578,26-35,Male,Delhi,India,Home Decor,Decor Tree,Family,4750,2,9500,2965.82,3568.36,37.56,Cash,Offline,0,3
+P0848,2025-12-02,C730,36-45,Female,Hyderabad,India,Books,Inspirational Book,Family,2923,2,5846,2004.19,1837.62,31.43,Cash,Online,0,4
+P0849,2025-12-15,C573,18-25,Female,Delhi,India,Food & Sweets,Dry Fruits Box,Sibling,3129,2,6258,2275.22,1707.56,27.29,UPI,Offline,15,5
+P0850,2025-12-03,C383,36-45,Male,Kolkata,India,Books,Inspirational Book,Friend,2284,2,4568,1390.47,1787.06,39.12,Card,Offline,10,4
+P0851,2025-12-21,C150,26-35,Male,Indore,India,Electronics,Smart Watch,Self,1929,1,1929,1409.49,519.51,26.93,UPI,Offline,20,4
+P0852,2025-12-09,C363,18-25,Female,Ahmedabad,India,Toys,Puzzle Game,Self,2367,1,2367,1758.1,608.9,25.72,Cash,Online,10,3
+P0853,2025-12-08,C308,36-45,Female,Indore,India,Toys,Puzzle Game,Sibling,4135,1,4135,2797.97,1337.03,32.33,UPI,Offline,10,3
+P0854,2025-12-21,C483,46-55,Female,Surat,India,Toys,Remote Car,Self,3451,2,6902,2575.36,1751.28,25.37,UPI,Offline,0,4
+P0855,2025-12-11,C623,36-45,Male,Jaipur,India,Electronics,Bluetooth Speaker,Spouse,709,1,709,490.17,218.83,30.86,UPI,Online,15,5
+P0856,2025-12-04,C967,18-25,Female,Indore,India,Toys,Teddy Bear,Spouse,2339,2,4678,1592.5,1493.0,31.92,Cash,Offline,10,4
+P0857,2025-12-12,C336,46-55,Female,Lucknow,India,Electronics,Bluetooth Speaker,Self,2900,1,2900,1882.98,1017.02,35.07,Cash,Online,15,5
+P0858,2025-12-03,C470,46-55,Male,Kolkata,India,Home Decor,Wall Candles,Sibling,1152,2,2304,788.05,727.9,31.59,UPI,Online,20,3
+P0859,2025-12-11,C421,18-25,Male,Jaipur,India,Books,Diary,Sibling,1631,2,3262,1173.31,915.38,28.06,Cash,Online,20,4
+P0860,2025-12-04,C528,36-45,Female,Lucknow,India,Accessories,Perfume,Self,1973,2,3946,1188.39,1569.22,39.77,UPI,Online,15,3
+P0861,2025-12-17,C497,46-55,Female,Bangalore,India,Accessories,Perfume,Sibling,1098,1,1098,743.6,354.4,32.28,Cash,Online,10,3
+P0862,2025-12-12,C559,46-55,Female,Lucknow,India,Clothing,Winter Jacket,Sibling,1382,1,1382,844.49,537.51,38.89,Card,Offline,5,5
+P0863,2025-12-01,C707,36-45,Female,Jaipur,India,Electronics,Bluetooth Speaker,Family,4672,1,4672,2909.9,1762.1,37.72,Card,Online,20,5
+P0864,2025-12-11,C149,46-55,Female,Pune,India,Food & Sweets,Plum Cake,Sibling,1293,1,1293,833.47,459.53,35.54,Card,Online,5,3
+P0865,2025-12-19,C730,36-45,Male,Pune,India,Books,Inspirational Book,Family,2225,2,4450,1508.26,1433.48,32.21,UPI,Online,10,4
+P0866,2025-12-09,C720,18-25,Male,Indore,India,Home Decor,Wall Candles,Family,2332,1,2332,1500.11,831.89,35.67,UPI,Online,5,5
+P0867,2025-12-02,C652,26-35,Male,Kolkata,India,Books,Inspirational Book,Self,1883,1,1883,1298.82,584.18,31.02,Card,Online,10,5
+P0868,2025-12-10,C212,18-25,Female,Jaipur,India,Home Decor,Decor Tree,Sibling,4144,1,4144,3002.97,1141.03,27.53,Card,Online,5,4
+P0869,2025-12-24,C912,26-35,Male,Pune,India,Accessories,Wallet,Friend,1454,2,2908,1047.67,812.66,27.95,Cash,Offline,10,4
+P0870,2025-12-11,C139,46-55,Male,Lucknow,India,Accessories,Wallet,Spouse,4701,1,4701,3319.01,1381.99,29.4,Card,Online,20,5
+P0871,2025-12-19,C485,26-35,Male,Hyderabad,India,Books,Inspirational Book,Sibling,791,1,791,503.78,287.22,36.31,UPI,Offline,5,5
+P0872,2025-12-03,C628,26-35,Male,Jaipur,India,Home Decor,Wall Candles,Self,1579,1,1579,1097.75,481.25,30.48,Card,Online,5,3
+P0873,2025-12-08,C753,36-45,Female,Ahmedabad,India,Home Decor,Decor Tree,Friend,2655,2,5310,1844.31,1621.38,30.53,Card,Online,10,5
+P0874,2025-12-10,C198,26-35,Male,Hyderabad,India,Home Decor,Wall Candles,Sibling,3712,2,7424,2529.77,2364.46,31.85,Card,Offline,5,5
+P0875,2025-12-22,C216,36-45,Female,Lucknow,India,Home Decor,Christmas Lights,Friend,1943,2,3886,1444.52,996.96,25.66,Card,Offline,20,4
+P0876,2025-12-07,C971,46-55,Male,Ahmedabad,India,Accessories,Perfume,Family,737,2,1474,471.82,530.36,35.98,Card,Offline,15,4
+P0877,2025-12-02,C374,46-55,Male,Pune,India,Books,Diary,Self,3983,2,7966,2545.55,2874.9,36.09,Card,Offline,15,3
+P0878,2025-12-04,C728,36-45,Male,Surat,India,Food & Sweets,Chocolate Hamper,Spouse,4891,1,4891,3506.52,1384.48,28.31,UPI,Online,15,3
+P0879,2025-12-18,C164,18-25,Male,Pune,India,Books,Inspirational Book,Spouse,3230,2,6460,2309.53,1840.94,28.5,UPI,Online,20,4
+P0880,2025-12-12,C439,46-55,Male,Ahmedabad,India,Books,Inspirational Book,Friend,2378,2,4756,1712.62,1330.76,27.98,UPI,Online,0,5
+P0881,2025-12-10,C408,18-25,Male,Indore,India,Toys,Puzzle Game,Friend,3759,2,7518,2279.24,2959.52,39.37,UPI,Offline,0,4
+P0882,2025-12-03,C175,46-55,Male,Delhi,India,Accessories,Handbag,Spouse,1574,2,3148,1147.91,852.18,27.07,Cash,Online,0,5
+P0883,2025-12-14,C624,18-25,Female,Hyderabad,India,Food & Sweets,Plum Cake,Sibling,2091,2,4182,1500.74,1180.52,28.23,UPI,Online,10,5
+P0884,2025-12-08,C516,36-45,Female,Hyderabad,India,Food & Sweets,Plum Cake,Spouse,3584,2,7168,2381.32,2405.36,33.56,Cash,Online,15,3
+P0885,2025-12-23,C210,46-55,Male,Surat,India,Home Decor,Decor Tree,Self,3724,2,7448,2660.44,2127.12,28.56,Card,Online,15,4
+P0886,2025-12-21,C185,18-25,Male,Chennai,India,Home Decor,Decor Tree,Sibling,1392,2,2784,904.61,974.78,35.01,Cash,Online,0,3
+P0887,2025-12-16,C358,46-55,Female,Lucknow,India,Home Decor,Decor Tree,Family,4379,1,4379,2666.11,1712.89,39.12,UPI,Online,10,5
+P0888,2025-12-07,C873,46-55,Female,Pune,India,Food & Sweets,Dry Fruits Box,Friend,3830,1,3830,2452.05,1377.95,35.98,Card,Offline,15,5
+P0889,2025-12-03,C484,26-35,Male,Bangalore,India,Food & Sweets,Dry Fruits Box,Spouse,1167,1,1167,774.72,392.28,33.61,Cash,Online,5,3
+P0890,2025-12-21,C922,46-55,Male,Lucknow,India,Home Decor,Christmas Lights,Spouse,819,2,1638,552.23,533.54,32.57,Card,Offline,0,4
+P0891,2025-12-20,C480,26-35,Male,Hyderabad,India,Toys,Remote Car,Spouse,2910,2,5820,1974.06,1871.88,32.16,Cash,Online,20,5
+P0892,2025-12-11,C864,26-35,Male,Ahmedabad,India,Clothing,Scarf,Sibling,2558,2,5116,1712.41,1691.18,33.06,UPI,Offline,15,3
+P0893,2025-12-07,C304,18-25,Female,Pune,India,Electronics,Wireless Earbuds,Self,1049,1,1049,678.47,370.53,35.32,UPI,Offline,20,3
+P0894,2025-12-07,C381,36-45,Female,Surat,India,Toys,Remote Car,Family,2351,2,4702,1632.35,1437.3,30.57,Card,Offline,10,5
+P0895,2025-12-04,C848,26-35,Female,Bangalore,India,Food & Sweets,Dry Fruits Box,Family,2159,1,2159,1487.33,671.67,31.11,Cash,Online,5,5
+P0896,2025-12-19,C719,36-45,Female,Chennai,India,Food & Sweets,Dry Fruits Box,Friend,3637,2,7274,2496.25,2281.5,31.37,UPI,Online,5,3
+P0897,2025-12-01,C431,18-25,Male,Bangalore,India,Books,Inspirational Book,Spouse,1700,1,1700,1062.03,637.97,37.53,Card,Offline,15,4
+P0898,2025-12-13,C892,46-55,Female,Pune,India,Clothing,Scarf,Family,1460,1,1460,998.67,461.33,31.6,Cash,Offline,20,3
+P0899,2025-12-14,C673,46-55,Female,Lucknow,India,Food & Sweets,Chocolate Hamper,Family,1860,2,3720,1314.47,1091.06,29.33,Cash,Online,20,4
+P0900,2025-12-15,C889,36-45,Female,Chennai,India,Accessories,Handbag,Spouse,1958,1,1958,1429.18,528.82,27.01,Cash,Online,15,4
+P0901,2025-12-17,C299,18-25,Female,Pune,India,Electronics,Bluetooth Speaker,Self,587,1,587,391.13,195.87,33.37,Card,Offline,20,3
+P0902,2025-12-13,C144,36-45,Female,Indore,India,Food & Sweets,Plum Cake,Self,774,2,1548,538.9,470.2,30.37,Cash,Online,15,5
+P0903,2025-12-21,C868,18-25,Male,Pune,India,Accessories,Handbag,Self,4516,1,4516,3030.31,1485.69,32.9,Cash,Online,5,3
+P0904,2025-12-23,C163,36-45,Male,Ahmedabad,India,Toys,Remote Car,Family,1478,1,1478,985.1,492.9,33.35,UPI,Online,10,5
+P0905,2025-12-22,C512,46-55,Male,Mumbai,India,Books,Diary,Friend,1886,2,3772,1277.67,1216.66,32.26,Cash,Online,10,3
+P0906,2025-12-23,C617,46-55,Male,Indore,India,Electronics,Wireless Earbuds,Self,864,2,1728,597.27,533.46,30.87,Card,Offline,20,4
+P0907,2025-12-15,C190,18-25,Male,Bangalore,India,Toys,Remote Car,Self,4319,1,4319,2958.21,1360.79,31.51,UPI,Offline,20,5
+P0908,2025-12-15,C183,26-35,Female,Indore,India,Toys,Teddy Bear,Friend,585,1,585,406.98,178.02,30.43,Cash,Online,10,3
+P0909,2025-12-19,C423,46-55,Male,Chennai,India,Home Decor,Decor Tree,Family,2851,1,2851,1829.9,1021.1,35.82,UPI,Online,10,4
+P0910,2025-12-19,C472,36-45,Female,Indore,India,Accessories,Handbag,Friend,2667,1,2667,1796.18,870.82,32.65,UPI,Offline,5,5
+P0911,2025-12-22,C915,36-45,Male,Pune,India,Food & Sweets,Chocolate Hamper,Spouse,4054,2,8108,2825.24,2457.52,30.31,Cash,Offline,0,5
+P0912,2025-12-02,C218,26-35,Female,Bangalore,India,Books,Novel Set,Sibling,2615,1,2615,1752.45,862.55,32.98,Cash,Offline,10,5
+P0913,2025-12-21,C467,18-25,Male,Jaipur,India,Home Decor,Decor Tree,Sibling,777,2,1554,547.94,458.12,29.48,Card,Offline,0,3
+P0914,2025-12-01,C549,46-55,Female,Lucknow,India,Clothing,Winter Jacket,Sibling,1833,2,3666,1250.14,1165.72,31.8,Card,Online,10,5
+P0915,2025-12-10,C141,26-35,Male,Jaipur,India,Clothing,Scarf,Sibling,3267,2,6534,2292.73,1948.54,29.82,Card,Offline,20,3
+P0916,2025-12-23,C636,26-35,Male,Bangalore,India,Electronics,Bluetooth Speaker,Family,1863,2,3726,1365.56,994.88,26.7,UPI,Online,10,3
+P0917,2025-12-01,C774,26-35,Male,Bangalore,India,Books,Diary,Family,4257,2,8514,2659.78,3194.44,37.52,Card,Online,5,3
+P0918,2025-12-05,C801,36-45,Male,Kolkata,India,Books,Novel Set,Friend,4076,1,4076,2888.34,1187.66,29.14,Card,Online,15,5
+P0919,2025-12-15,C823,26-35,Male,Jaipur,India,Accessories,Handbag,Friend,2240,2,4480,1568.59,1342.82,29.97,Card,Online,15,4
+P0920,2025-12-12,C600,18-25,Male,Surat,India,Clothing,Scarf,Friend,3978,2,7956,2705.51,2544.98,31.99,UPI,Offline,10,4
+P0921,2025-12-05,C611,26-35,Male,Chennai,India,Food & Sweets,Chocolate Hamper,Family,3761,1,3761,2620.8,1140.2,30.32,Card,Online,10,4
+P0922,2025-12-13,C791,46-55,Male,Hyderabad,India,Accessories,Perfume,Sibling,3987,1,3987,2562.62,1424.38,35.73,UPI,Online,15,5
+P0923,2025-12-24,C203,46-55,Male,Bangalore,India,Food & Sweets,Chocolate Hamper,Family,4308,1,4308,2808.57,1499.43,34.81,UPI,Offline,15,3
+P0924,2025-12-10,C535,36-45,Male,Surat,India,Home Decor,Decor Tree,Sibling,3790,2,7580,2712.52,2154.96,28.43,Cash,Offline,15,5
+P0925,2025-12-14,C644,46-55,Male,Bangalore,India,Clothing,Scarf,Self,3488,1,3488,2503.77,984.23,28.22,Card,Offline,5,5
+P0926,2025-12-10,C140,18-25,Female,Kolkata,India,Books,Inspirational Book,Family,4227,2,8454,2566.98,3320.04,39.27,UPI,Offline,10,4
+P0927,2025-12-06,C400,36-45,Female,Delhi,India,Clothing,Scarf,Sibling,2926,1,2926,1993.81,932.19,31.86,Card,Offline,0,5
+P0928,2025-12-03,C647,18-25,Male,Lucknow,India,Toys,Remote Car,Friend,799,2,1598,509.2,579.6,36.27,Cash,Offline,15,4
+P0929,2025-12-11,C481,18-25,Male,Surat,India,Clothing,Winter Jacket,Self,2499,2,4998,1514.63,1968.74,39.39,Card,Online,10,5
+P0930,2025-12-24,C363,18-25,Female,Mumbai,India,Accessories,Handbag,Friend,3961,2,7922,2389.9,3142.2,39.66,Cash,Offline,10,5
+P0931,2025-12-16,C320,46-55,Female,Lucknow,India,Food & Sweets,Dry Fruits Box,Friend,2496,1,2496,1637.71,858.29,34.39,Card,Online,20,4
+P0932,2025-12-07,C119,46-55,Male,Hyderabad,India,Electronics,Bluetooth Speaker,Family,2834,2,5668,1702.55,2262.9,39.92,Card,Offline,0,3
+P0933,2025-12-10,C845,46-55,Female,Indore,India,Electronics,Smart Watch,Spouse,3159,1,3159,1925.59,1233.41,39.04,Card,Offline,15,5
+P0934,2025-12-15,C255,46-55,Female,Chennai,India,Toys,Remote Car,Spouse,3290,2,6580,2144.93,2290.14,34.8,Cash,Online,15,4
+P0935,2025-12-12,C185,26-35,Female,Hyderabad,India,Home Decor,Christmas Lights,Family,1143,2,2286,782.04,721.92,31.58,Card,Offline,15,3
+P0936,2025-12-14,C883,18-25,Female,Ahmedabad,India,Electronics,Bluetooth Speaker,Sibling,1865,2,3730,1277.03,1175.94,31.53,UPI,Offline,20,3
+P0937,2025-12-07,C213,36-45,Male,Bangalore,India,Home Decor,Decor Tree,Sibling,1511,1,1511,996.3,514.7,34.06,Cash,Offline,10,3
+P0938,2025-12-21,C208,36-45,Female,Chennai,India,Home Decor,Decor Tree,Sibling,2784,2,5568,1992.16,1583.68,28.44,Card,Offline,10,4
+P0939,2025-12-11,C881,46-55,Male,Indore,India,Electronics,Smart Watch,Self,3777,2,7554,2268.09,3017.82,39.95,Card,Offline,15,4
+P0940,2025-12-20,C615,18-25,Female,Delhi,India,Electronics,Bluetooth Speaker,Family,737,1,737,457.52,279.48,37.92,Cash,Online,5,5
+P0941,2025-12-20,C908,46-55,Male,Bangalore,India,Accessories,Handbag,Sibling,1245,2,2490,751.24,987.52,39.66,Card,Online,5,4
+P0942,2025-12-01,C311,46-55,Female,Chennai,India,Accessories,Perfume,Spouse,3143,1,3143,2023.93,1119.07,35.61,Card,Online,5,4
+P0943,2025-12-06,C350,46-55,Male,Delhi,India,Food & Sweets,Dry Fruits Box,Self,1410,2,2820,1030.45,759.1,26.92,Cash,Offline,20,4
+P0944,2025-12-23,C650,18-25,Male,Kolkata,India,Books,Diary,Sibling,1076,2,2152,800.15,551.7,25.64,Cash,Online,10,4
+P0945,2025-12-17,C744,46-55,Female,Mumbai,India,Books,Inspirational Book,Self,826,2,1652,545.09,561.82,34.01,UPI,Offline,20,3
+P0946,2025-12-05,C348,46-55,Male,Hyderabad,India,Accessories,Perfume,Self,3502,2,7004,2446.08,2111.84,30.15,Card,Online,15,5
+P0947,2025-12-15,C438,46-55,Female,Surat,India,Home Decor,Christmas Lights,Family,2629,2,5258,1693.85,1870.3,35.57,Cash,Online,5,3
+P0948,2025-12-19,C471,36-45,Female,Lucknow,India,Food & Sweets,Plum Cake,Friend,712,1,712,521.2,190.8,26.8,Cash,Offline,15,5
+P0949,2025-12-23,C231,26-35,Female,Jaipur,India,Home Decor,Decor Tree,Family,2915,1,2915,2074.2,840.8,28.84,Cash,Online,0,3
+P0950,2025-12-24,C620,46-55,Female,Surat,India,Food & Sweets,Plum Cake,Friend,1715,1,1715,1095.74,619.26,36.11,Card,Online,20,5
+P0951,2025-12-16,C763,26-35,Female,Bangalore,India,Clothing,Scarf,Sibling,3566,2,7132,2602.51,1926.98,27.02,Card,Online,0,4
+P0952,2025-12-20,C896,18-25,Male,Pune,India,Electronics,Wireless Earbuds,Sibling,2191,1,2191,1363.93,827.07,37.75,Card,Online,20,3
+P0953,2025-12-04,C437,18-25,Female,Ahmedabad,India,Accessories,Perfume,Spouse,3478,1,3478,2294.69,1183.31,34.02,Cash,Online,0,4
+P0954,2025-12-24,C287,26-35,Male,Lucknow,India,Food & Sweets,Dry Fruits Box,Sibling,2531,1,2531,1615.82,915.18,36.16,UPI,Online,20,4
+P0955,2025-12-03,C235,36-45,Male,Chennai,India,Food & Sweets,Plum Cake,Friend,1248,1,1248,886.08,361.92,29.0,UPI,Offline,15,3
+P0956,2025-12-04,C552,18-25,Female,Chennai,India,Food & Sweets,Chocolate Hamper,Self,3112,1,3112,1958.89,1153.11,37.05,Cash,Online,20,4
+P0957,2025-12-04,C837,46-55,Male,Surat,India,Clothing,Scarf,Spouse,578,2,1156,421.46,313.08,27.08,Card,Online,10,4
+P0958,2025-12-16,C626,36-45,Female,Hyderabad,India,Food & Sweets,Plum Cake,Spouse,4535,1,4535,2944.56,1590.44,35.07,UPI,Offline,10,5
+P0959,2025-12-06,C599,18-25,Female,Ahmedabad,India,Food & Sweets,Dry Fruits Box,Sibling,3029,2,6058,1868.05,2321.9,38.33,Card,Online,5,3
+P0960,2025-12-15,C450,26-35,Male,Mumbai,India,Books,Diary,Friend,2995,1,2995,2212.69,782.31,26.12,UPI,Offline,20,4
+P0961,2025-12-20,C315,26-35,Female,Bangalore,India,Clothing,Scarf,Friend,4365,1,4365,3067.34,1297.66,29.73,Card,Online,5,5
+P0962,2025-12-14,C898,36-45,Male,Hyderabad,India,Accessories,Perfume,Sibling,3167,2,6334,2210.64,1912.72,30.2,Card,Offline,5,4
+P0963,2025-12-14,C676,46-55,Female,Delhi,India,Clothing,Scarf,Sibling,3399,2,6798,2268.68,2260.64,33.25,UPI,Offline,10,5
+P0964,2025-12-23,C307,26-35,Female,Hyderabad,India,Books,Novel Set,Family,4242,2,8484,2557.59,3368.82,39.71,UPI,Offline,15,4
+P0965,2025-12-15,C976,36-45,Male,Mumbai,India,Clothing,Scarf,Friend,2133,1,2133,1477.39,655.61,30.74,UPI,Offline,15,5
+P0966,2025-12-23,C598,26-35,Female,Surat,India,Food & Sweets,Plum Cake,Spouse,876,2,1752,615.98,520.04,29.68,Card,Online,0,3
+P0967,2025-12-10,C213,46-55,Male,Lucknow,India,Accessories,Handbag,Self,2761,2,5522,1838.05,1845.9,33.43,Card,Offline,5,3
+P0968,2025-12-11,C686,36-45,Female,Lucknow,India,Food & Sweets,Plum Cake,Self,2138,1,2138,1423.35,714.65,33.43,UPI,Online,10,4
+P0969,2025-12-08,C571,36-45,Female,Chennai,India,Books,Diary,Family,2259,1,2259,1464.26,794.74,35.18,Card,Online,5,3
+P0970,2025-12-02,C951,18-25,Female,Delhi,India,Accessories,Handbag,Spouse,4000,2,8000,2883.64,2232.72,27.91,Card,Online,20,4
+P0971,2025-12-21,C168,18-25,Male,Ahmedabad,India,Books,Inspirational Book,Self,4530,2,9060,3108.59,2842.82,31.38,Cash,Online,20,3
+P0972,2025-12-14,C937,36-45,Female,Kolkata,India,Food & Sweets,Plum Cake,Friend,2063,1,2063,1475.18,587.82,28.49,Cash,Offline,0,3
+P0973,2025-12-23,C857,46-55,Male,Jaipur,India,Accessories,Wallet,Spouse,3283,2,6566,2229.67,2106.66,32.08,Card,Online,20,4
+P0974,2025-12-09,C976,26-35,Female,Ahmedabad,India,Toys,Teddy Bear,Sibling,2345,2,4690,1557.25,1575.5,33.59,Cash,Online,20,4
+P0975,2025-12-07,C415,26-35,Male,Delhi,India,Accessories,Wallet,Spouse,1750,1,1750,1252.91,497.09,28.41,Cash,Online,5,5
+P0976,2025-12-22,C313,26-35,Female,Bangalore,India,Clothing,Sweater,Sibling,3182,2,6364,2352.36,1659.28,26.07,Card,Online,5,4
+P0977,2025-12-13,C126,46-55,Male,Jaipur,India,Toys,Teddy Bear,Self,4101,1,4101,2973.73,1127.27,27.49,Card,Offline,15,3
+P0978,2025-12-17,C692,18-25,Male,Chennai,India,Electronics,Wireless Earbuds,Self,1521,1,1521,1133.73,387.27,25.46,Card,Offline,10,4
+P0979,2025-12-17,C214,46-55,Male,Delhi,India,Electronics,Smart Watch,Sibling,1243,2,2486,834.92,816.16,32.83,Card,Offline,0,4
+P0980,2025-12-21,C407,26-35,Male,Indore,India,Clothing,Winter Jacket,Sibling,1034,2,2068,767.12,533.76,25.81,Card,Online,10,5
+P0981,2025-12-06,C678,18-25,Male,Ahmedabad,India,Accessories,Handbag,Friend,871,1,871,633.31,237.69,27.29,UPI,Offline,0,3
+P0982,2025-12-06,C529,26-35,Male,Ahmedabad,India,Food & Sweets,Chocolate Hamper,Friend,2900,2,5800,2008.64,1782.72,30.74,Cash,Online,10,3
+P0983,2025-12-13,C740,36-45,Female,Surat,India,Books,Novel Set,Family,745,2,1490,469.81,550.38,36.94,UPI,Online,10,3
+P0984,2025-12-13,C880,26-35,Male,Mumbai,India,Home Decor,Christmas Lights,Self,1682,2,3364,1020.93,1322.14,39.3,Card,Online,0,4
+P0985,2025-12-18,C550,26-35,Male,Hyderabad,India,Toys,Teddy Bear,Sibling,4396,2,8792,3286.03,2219.94,25.25,Card,Offline,5,4
+P0986,2025-12-24,C951,26-35,Male,Chennai,India,Accessories,Wallet,Spouse,3494,1,3494,2346.81,1147.19,32.83,UPI,Online,5,5
+P0987,2025-12-20,C207,26-35,Male,Hyderabad,India,Toys,Puzzle Game,Friend,1276,2,2552,819.63,912.74,35.77,Cash,Offline,10,5
+P0988,2025-12-05,C435,46-55,Female,Indore,India,Home Decor,Decor Tree,Friend,4759,2,9518,3397.85,2722.3,28.6,Cash,Online,15,5
+P0989,2025-12-02,C955,26-35,Male,Jaipur,India,Toys,Teddy Bear,Family,1992,1,1992,1237.91,754.09,37.86,UPI,Offline,15,4
+P0990,2025-12-15,C736,36-45,Female,Mumbai,India,Electronics,Bluetooth Speaker,Family,3823,2,7646,2863.06,1919.88,25.11,Cash,Offline,10,3
+P0991,2025-12-22,C976,36-45,Female,Mumbai,India,Clothing,Winter Jacket,Family,4492,2,8984,3142.1,2699.8,30.05,Card,Online,20,3
+P0992,2025-12-23,C402,26-35,Female,Hyderabad,India,Toys,Teddy Bear,Sibling,4247,1,4247,2624.82,1622.18,38.2,Card,Online,20,3
+P0993,2025-12-08,C894,18-25,Male,Lucknow,India,Home Decor,Decor Tree,Family,2096,1,2096,1521.7,574.3,27.4,Cash,Online,20,5
+P0994,2025-12-23,C643,26-35,Female,Bangalore,India,Food & Sweets,Chocolate Hamper,Self,4867,2,9734,3314.03,3105.94,31.91,Cash,Online,20,3
+P0995,2025-12-09,C150,46-55,Female,Jaipur,India,Books,Inspirational Book,Spouse,1745,2,3490,1271.66,946.68,27.13,Card,Offline,15,4
+P0996,2025-12-23,C669,36-45,Male,Lucknow,India,Electronics,Bluetooth Speaker,Spouse,2957,1,2957,1807.41,1149.59,38.88,Cash,Online,0,4
+P0997,2025-12-08,C500,26-35,Female,Jaipur,India,Electronics,Smart Watch,Spouse,4439,1,4439,3172.5,1266.5,28.53,UPI,Online,10,3
+P0998,2025-12-24,C699,26-35,Male,Kolkata,India,Electronics,Wireless Earbuds,Friend,1650,2,3300,1020.56,1258.88,38.15,Cash,Offline,10,3
+P0999,2025-12-21,C712,46-55,Male,Indore,India,Accessories,Perfume,Sibling,4764,2,9528,3233.02,3061.96,32.14,Card,Online,20,5
+P1000,2025-12-24,C449,36-45,Male,Jaipur,India,Food & Sweets,Plum Cake,Family,1758,1,1758,1286.92,471.08,26.8,UPI,Offline,15,5
+P1001,2025-12-04,C190,36-45,Male,Indore,India,Electronics,Bluetooth Speaker,Sibling,4491,2,8982,2845.92,3290.16,36.63,Cash,Offline,15,3
+P1002,2025-12-21,C620,36-45,Female,Indore,India,Accessories,Perfume,Family,2795,2,5590,2056.31,1477.38,26.43,Card,Online,0,3
+P1003,2025-12-14,C781,36-45,Male,Lucknow,India,Accessories,Handbag,Sibling,2488,2,4976,1575.42,1825.16,36.68,Cash,Offline,20,5
+P1004,2025-12-19,C958,18-25,Male,Mumbai,India,Books,Inspirational Book,Friend,3634,1,3634,2508.37,1125.63,30.97,Card,Offline,15,5
+P1005,2025-12-19,C984,18-25,Female,Indore,India,Accessories,Perfume,Sibling,3345,2,6690,2434.61,1820.78,27.22,Cash,Online,5,5
+P1006,2025-12-14,C921,18-25,Female,Hyderabad,India,Electronics,Smart Watch,Family,3194,1,3194,2056.43,1137.57,35.62,Cash,Offline,10,3
+P1007,2025-12-21,C369,26-35,Male,Ahmedabad,India,Clothing,Winter Jacket,Spouse,891,2,1782,595.84,590.32,33.13,Cash,Offline,15,4
+P1008,2025-12-20,C651,26-35,Female,Hyderabad,India,Books,Novel Set,Self,4594,1,4594,2986.4,1607.6,34.99,Cash,Online,15,4
+P1009,2025-12-23,C597,36-45,Female,Kolkata,India,Food & Sweets,Plum Cake,Family,2025,2,4050,1276.4,1497.2,36.97,UPI,Online,10,3
+P1010,2025-12-18,C282,46-55,Male,Chennai,India,Toys,Teddy Bear,Self,3043,2,6086,2171.23,1743.54,28.65,UPI,Offline,10,3
+P1011,2025-12-13,C206,36-45,Male,Pune,India,Accessories,Handbag,Friend,4864,2,9728,3207.87,3312.26,34.05,Card,Online,5,5
+P1012,2025-12-23,C324,26-35,Male,Kolkata,India,Electronics,Bluetooth Speaker,Friend,2742,1,2742,1848.58,893.42,32.58,UPI,Online,10,3
+P1013,2025-12-18,C681,26-35,Female,Bangalore,India,Toys,Puzzle Game,Spouse,4458,2,8916,2951.99,3012.02,33.78,Cash,Offline,20,4
+P1014,2025-12-12,C340,36-45,Female,Mumbai,India,Accessories,Handbag,Friend,3481,2,6962,2313.81,2334.38,33.53,Card,Online,20,5
+P1015,2025-12-04,C926,26-35,Female,Lucknow,India,Electronics,Smart Watch,Spouse,4657,2,9314,3168.18,2977.64,31.97,UPI,Offline,10,5
+P1016,2025-12-14,C166,26-35,Male,Ahmedabad,India,Books,Novel Set,Sibling,4270,2,8540,2880.41,2779.18,32.54,Cash,Online,10,4
+P1017,2025-12-03,C836,36-45,Female,Lucknow,India,Books,Inspirational Book,Self,1711,1,1711,1201.64,509.36,29.77,Cash,Offline,15,5
+P1018,2025-12-10,C651,36-45,Female,Chennai,India,Books,Novel Set,Spouse,3746,1,3746,2619.47,1126.53,30.07,Cash,Offline,5,5
+P1019,2025-12-02,C829,36-45,Male,Mumbai,India,Accessories,Wallet,Spouse,3076,1,3076,2293.57,782.43,25.44,UPI,Offline,5,5
+P1020,2025-12-16,C846,18-25,Female,Mumbai,India,Electronics,Smart Watch,Self,1969,1,1969,1190.11,778.89,39.56,Card,Offline,15,4
+P1021,2025-12-10,C463,26-35,Female,Hyderabad,India,Accessories,Handbag,Sibling,1634,2,3268,1025.25,1217.5,37.26,UPI,Online,10,4
+P1022,2025-12-04,C636,36-45,Male,Surat,India,Electronics,Smart Watch,Self,3377,1,3377,2198.29,1178.71,34.9,Cash,Online,10,3
+P1023,2025-12-13,C413,18-25,Female,Mumbai,India,Electronics,Smart Watch,Friend,4834,1,4834,2903.78,1930.22,39.93,UPI,Offline,5,5
+P1024,2025-12-19,C281,46-55,Male,Ahmedabad,India,Electronics,Wireless Earbuds,Friend,1294,1,1294,892.81,401.19,31.0,Card,Online,20,3
+P1025,2025-12-22,C284,26-35,Male,Kolkata,India,Food & Sweets,Chocolate Hamper,Friend,3053,2,6106,1881.16,2343.68,38.38,Cash,Online,20,4
+P1026,2025-12-04,C784,18-25,Female,Chennai,India,Home Decor,Decor Tree,Family,4989,2,9978,3580.15,2817.7,28.24,UPI,Online,15,3
+P1027,2025-12-16,C930,18-25,Male,Indore,India,Books,Diary,Family,840,2,1680,511.39,657.22,39.12,Cash,Offline,20,5
+P1028,2025-12-07,C399,46-55,Female,Jaipur,India,Electronics,Wireless Earbuds,Sibling,3124,1,3124,2084.29,1039.71,33.28,UPI,Offline,0,4
+P1029,2025-12-10,C889,18-25,Male,Chennai,India,Toys,Remote Car,Self,4465,2,8930,2883.87,3162.26,35.41,Card,Online,10,5
+P1030,2025-12-13,C292,36-45,Male,Indore,India,Toys,Puzzle Game,Sibling,729,1,729,543.12,185.88,25.5,Cash,Online,20,4
+P1031,2025-12-06,C326,36-45,Male,Lucknow,India,Accessories,Wallet,Friend,866,1,866,532.41,333.59,38.52,Card,Online,20,5
+P1032,2025-12-23,C219,36-45,Male,Chennai,India,Food & Sweets,Chocolate Hamper,Family,870,2,1740,548.89,642.22,36.91,UPI,Offline,5,4
+P1033,2025-12-08,C736,36-45,Female,Indore,India,Books,Diary,Spouse,866,1,866,538.0,328.0,37.88,Cash,Offline,5,5
+P1034,2025-12-14,C486,36-45,Male,Kolkata,India,Accessories,Handbag,Family,3852,1,3852,2551.5,1300.5,33.76,Cash,Online,15,3
+P1035,2025-12-04,C218,26-35,Female,Mumbai,India,Accessories,Handbag,Friend,1555,1,1555,949.45,605.55,38.94,Cash,Offline,5,5
+P1036,2025-12-10,C976,36-45,Male,Mumbai,India,Clothing,Scarf,Sibling,3762,2,7524,2559.81,2404.38,31.96,UPI,Online,20,4
+P1037,2025-12-04,C214,26-35,Male,Jaipur,India,Electronics,Smart Watch,Friend,4745,1,4745,3180.78,1564.22,32.97,UPI,Online,5,4
+P1038,2025-12-02,C778,26-35,Male,Lucknow,India,Food & Sweets,Plum Cake,Family,4088,1,4088,2723.85,1364.15,33.37,UPI,Online,5,4
+P1039,2025-12-21,C157,46-55,Female,Bangalore,India,Books,Diary,Family,1937,2,3874,1296.44,1281.12,33.07,Cash,Online,5,3
+P1040,2025-12-15,C171,26-35,Female,Ahmedabad,India,Accessories,Perfume,Friend,3251,2,6502,1962.94,2576.12,39.62,UPI,Offline,0,3
+P1041,2025-12-06,C841,36-45,Female,Delhi,India,Accessories,Perfume,Friend,3858,1,3858,2672.78,1185.22,30.72,UPI,Online,0,4
+P1042,2025-12-04,C977,26-35,Male,Surat,India,Toys,Puzzle Game,Spouse,978,2,1956,699.57,556.86,28.47,UPI,Online,15,5
+P1043,2025-12-24,C343,46-55,Female,Pune,India,Accessories,Handbag,Sibling,2813,2,5626,1877.54,1870.92,33.25,Card,Online,15,5
+P1044,2025-12-06,C497,36-45,Male,Pune,India,Clothing,Sweater,Self,1682,2,3364,1169.94,1024.12,30.44,Card,Offline,5,3
+P1045,2025-12-05,C960,36-45,Male,Jaipur,India,Home Decor,Wall Candles,Sibling,4935,1,4935,3691.99,1243.01,25.19,Card,Offline,15,4
+P1046,2025-12-13,C236,26-35,Male,Chennai,India,Home Decor,Wall Candles,Friend,3478,2,6956,2256.88,2442.24,35.11,Cash,Online,20,4
+P1047,2025-12-07,C502,26-35,Female,Mumbai,India,Home Decor,Decor Tree,Spouse,3844,2,7688,2677.73,2332.54,30.34,Cash,Offline,10,5
+P1048,2025-12-06,C775,46-55,Female,Bangalore,India,Home Decor,Christmas Lights,Sibling,2133,1,2133,1387.84,745.16,34.93,UPI,Online,15,5
+P1049,2025-12-19,C900,26-35,Male,Jaipur,India,Accessories,Perfume,Family,2739,1,2739,1906.85,832.15,30.38,Card,Online,5,4
+P1050,2025-12-03,C187,18-25,Male,Delhi,India,Clothing,Scarf,Family,4846,1,4846,3399.12,1446.88,29.86,UPI,Offline,10,3
+P1051,2025-12-12,C738,36-45,Female,Kolkata,India,Accessories,Perfume,Family,2244,2,4488,1629.37,1229.26,27.39,Cash,Online,10,4
+P1052,2025-12-04,C645,46-55,Male,Ahmedabad,India,Toys,Puzzle Game,Spouse,1809,1,1809,1129.7,679.3,37.55,Cash,Offline,10,5
+P1053,2025-12-04,C873,18-25,Male,Jaipur,India,Books,Novel Set,Sibling,1428,1,1428,1051.55,376.45,26.36,Card,Offline,5,3
+P1054,2025-12-06,C558,18-25,Female,Indore,India,Food & Sweets,Dry Fruits Box,Spouse,3468,2,6936,2385.06,2165.88,31.23,Card,Offline,0,4
+P1055,2025-12-05,C213,26-35,Female,Hyderabad,India,Toys,Teddy Bear,Self,1605,2,3210,1126.08,957.84,29.84,Card,Offline,0,5
+P1056,2025-12-07,C625,36-45,Male,Kolkata,India,Food & Sweets,Plum Cake,Family,1884,2,3768,1370.96,1026.08,27.23,UPI,Online,5,5
+P1057,2025-12-09,C867,46-55,Male,Pune,India,Clothing,Winter Jacket,Spouse,4177,2,8354,2717.67,2918.66,34.94,UPI,Online,20,3
+P1058,2025-12-16,C489,46-55,Male,Lucknow,India,Accessories,Wallet,Family,657,2,1314,431.72,450.56,34.29,Cash,Offline,10,4
+P1059,2025-12-05,C454,36-45,Male,Kolkata,India,Books,Inspirational Book,Family,3977,2,7954,2808.13,2337.74,29.39,Card,Online,15,5
+P1060,2025-12-05,C925,18-25,Male,Mumbai,India,Toys,Puzzle Game,Friend,3110,1,3110,1876.73,1233.27,39.65,Card,Online,5,5
+P1061,2025-12-01,C854,36-45,Male,Bangalore,India,Books,Novel Set,Spouse,1215,1,1215,730.76,484.24,39.86,Cash,Offline,10,5
+P1062,2025-12-07,C863,18-25,Male,Mumbai,India,Toys,Puzzle Game,Self,1499,1,1499,1057.73,441.27,29.44,UPI,Offline,5,3
+P1063,2025-12-17,C297,46-55,Male,Lucknow,India,Toys,Puzzle Game,Sibling,1150,2,2300,745.27,809.46,35.19,Cash,Online,15,4
+P1064,2025-12-01,C181,26-35,Male,Hyderabad,India,Accessories,Wallet,Friend,1001,2,2002,628.37,745.26,37.23,Cash,Online,0,5
+P1065,2025-12-08,C266,46-55,Female,Surat,India,Books,Novel Set,Sibling,2041,1,2041,1484.4,556.6,27.27,Cash,Offline,5,4
+P1066,2025-12-22,C357,36-45,Male,Mumbai,India,Clothing,Winter Jacket,Self,2472,1,2472,1726.02,745.98,30.18,UPI,Offline,10,5
+P1067,2025-12-23,C556,18-25,Male,Pune,India,Toys,Puzzle Game,Spouse,4023,1,4023,2820.55,1202.45,29.89,Card,Online,20,4
+P1068,2025-12-16,C479,46-55,Female,Kolkata,India,Accessories,Handbag,Family,4192,2,8384,2981.89,2420.22,28.87,Cash,Online,5,5
+P1069,2025-12-15,C432,46-55,Female,Kolkata,India,Electronics,Smart Watch,Sibling,3390,2,6780,2270.42,2239.16,33.03,UPI,Online,15,4
+P1070,2025-12-21,C252,46-55,Female,Delhi,India,Toys,Teddy Bear,Sibling,3094,2,6188,2315.75,1556.5,25.15,Cash,Online,5,5
+P1071,2025-12-05,C377,36-45,Male,Delhi,India,Electronics,Smart Watch,Sibling,1276,1,1276,840.49,435.51,34.13,Card,Online,10,5
+P1072,2025-12-16,C543,46-55,Male,Kolkata,India,Clothing,Sweater,Self,2056,2,4112,1420.74,1270.52,30.9,Card,Online,0,4
+P1073,2025-12-16,C922,26-35,Female,Kolkata,India,Accessories,Handbag,Self,2870,1,2870,1823.23,1046.77,36.47,Card,Online,10,5
+P1074,2025-12-17,C388,36-45,Female,Lucknow,India,Clothing,Scarf,Friend,4014,1,4014,2769.13,1244.87,31.01,Card,Offline,0,3
+P1075,2025-12-11,C804,26-35,Female,Indore,India,Home Decor,Wall Candles,Sibling,3916,1,3916,2472.63,1443.37,36.86,Card,Offline,20,4
+P1076,2025-12-19,C334,26-35,Male,Kolkata,India,Accessories,Perfume,Spouse,1541,2,3082,1105.27,871.46,28.28,Card,Online,10,5
+P1077,2025-12-16,C573,36-45,Male,Kolkata,India,Toys,Remote Car,Sibling,1715,2,3430,1049.92,1330.16,38.78,UPI,Offline,5,4
+P1078,2025-12-01,C435,36-45,Female,Ahmedabad,India,Books,Novel Set,Friend,4380,1,4380,2774.73,1605.27,36.65,Card,Offline,15,4
+P1079,2025-12-20,C719,18-25,Female,Lucknow,India,Food & Sweets,Dry Fruits Box,Self,2138,1,2138,1589.94,548.06,25.63,Cash,Online,20,5
+P1080,2025-12-01,C405,36-45,Male,Bangalore,India,Clothing,Sweater,Family,3580,2,7160,2524.25,2111.5,29.49,UPI,Online,15,3
+P1081,2025-12-18,C260,46-55,Female,Mumbai,India,Clothing,Winter Jacket,Family,1709,2,3418,1185.85,1046.3,30.61,Card,Offline,5,5
+P1082,2025-12-11,C117,18-25,Male,Pune,India,Food & Sweets,Plum Cake,Spouse,2832,1,2832,1948.34,883.66,31.2,Card,Offline,5,4
+P1083,2025-12-21,C431,46-55,Male,Pune,India,Books,Inspirational Book,Spouse,3572,1,3572,2480.16,1091.84,30.57,UPI,Offline,10,5
+P1084,2025-12-23,C235,46-55,Male,Mumbai,India,Books,Inspirational Book,Friend,822,1,822,582.32,239.68,29.16,UPI,Online,20,3
+P1085,2025-12-11,C183,46-55,Female,Mumbai,India,Accessories,Perfume,Sibling,1252,2,2504,933.8,636.4,25.42,Card,Online,20,4
+P1086,2025-12-15,C262,18-25,Female,Chennai,India,Accessories,Handbag,Friend,1769,1,1769,1277.49,491.51,27.78,UPI,Online,0,5
+P1087,2025-12-08,C876,26-35,Male,Bangalore,India,Books,Inspirational Book,Spouse,2347,2,4694,1423.13,1847.74,39.36,Card,Offline,15,5
+P1088,2025-12-22,C831,46-55,Male,Delhi,India,Accessories,Handbag,Friend,657,2,1314,442.71,428.58,32.62,Cash,Online,5,3
+P1089,2025-12-19,C476,26-35,Female,Chennai,India,Food & Sweets,Plum Cake,Friend,558,2,1116,393.54,328.92,29.47,Cash,Online,20,4
+P1090,2025-12-07,C872,36-45,Female,Chennai,India,Clothing,Scarf,Family,3566,2,7132,2225.11,2681.78,37.6,Card,Offline,0,5
+P1091,2025-12-21,C787,46-55,Male,Bangalore,India,Clothing,Winter Jacket,Self,736,2,1472,508.21,455.58,30.95,UPI,Offline,0,5
+P1092,2025-12-22,C319,36-45,Female,Kolkata,India,Books,Novel Set,Self,2139,2,4278,1550.65,1176.7,27.51,Cash,Online,20,4
+P1093,2025-12-06,C981,36-45,Male,Kolkata,India,Electronics,Bluetooth Speaker,Sibling,695,2,1390,418.29,553.42,39.81,Cash,Offline,15,4
+P1094,2025-12-10,C914,26-35,Male,Surat,India,Food & Sweets,Chocolate Hamper,Self,4527,2,9054,3097.03,2859.94,31.59,UPI,Online,20,3
+P1095,2025-12-13,C846,26-35,Male,Delhi,India,Books,Novel Set,Family,2746,1,2746,1772.59,973.41,35.45,UPI,Online,15,5
+P1096,2025-12-10,C888,18-25,Male,Hyderabad,India,Clothing,Sweater,Friend,2793,2,5586,1949.64,1686.72,30.2,Card,Offline,5,3
+P1097,2025-12-04,C188,26-35,Female,Surat,India,Accessories,Wallet,Spouse,748,2,1496,468.39,559.22,37.38,Card,Offline,0,5
+P1098,2025-12-13,C794,46-55,Male,Delhi,India,Food & Sweets,Plum Cake,Sibling,1018,1,1018,643.7,374.3,36.77,Card,Offline,15,3
+P1099,2025-12-09,C826,36-45,Female,Chennai,India,Toys,Puzzle Game,Family,860,1,860,639.77,220.23,25.61,UPI,Offline,5,3
+P1100,2025-12-14,C672,46-55,Male,Lucknow,India,Accessories,Handbag,Self,515,1,515,376.48,138.52,26.9,Card,Offline,0,5
+P1101,2025-12-12,C843,26-35,Female,Lucknow,India,Clothing,Winter Jacket,Family,4370,1,4370,2866.68,1503.32,34.4,Card,Online,20,4
+P1102,2025-12-22,C869,46-55,Female,Pune,India,Clothing,Winter Jacket,Sibling,3346,2,6692,2081.7,2528.6,37.79,UPI,Offline,5,4
+P1103,2025-12-22,C268,18-25,Female,Ahmedabad,India,Clothing,Scarf,Friend,4322,2,8644,3081.83,2480.34,28.69,Cash,Offline,20,5
+P1104,2025-12-07,C944,46-55,Male,Jaipur,India,Books,Inspirational Book,Self,1806,1,1806,1348.33,457.67,25.34,Cash,Online,20,3
+P1105,2025-12-22,C826,36-45,Female,Mumbai,India,Food & Sweets,Chocolate Hamper,Family,2586,1,2586,1838.53,747.47,28.9,Cash,Offline,20,4
+P1106,2025-12-24,C517,18-25,Male,Indore,India,Food & Sweets,Dry Fruits Box,Sibling,3717,1,3717,2551.92,1165.08,31.34,UPI,Online,0,5
+P1107,2025-12-23,C413,26-35,Female,Hyderabad,India,Books,Novel Set,Friend,4556,1,4556,3359.49,1196.51,26.26,Cash,Online,5,3
+P1108,2025-12-22,C173,18-25,Female,Kolkata,India,Toys,Teddy Bear,Self,2923,1,2923,1844.6,1078.4,36.89,Card,Offline,15,3
+P1109,2025-12-07,C411,46-55,Female,Indore,India,Accessories,Wallet,Spouse,2959,2,5918,1947.5,2023.0,34.18,Cash,Online,15,3
+P1110,2025-12-16,C981,46-55,Male,Jaipur,India,Home Decor,Wall Candles,Spouse,3379,1,3379,2157.04,1221.96,36.16,Cash,Offline,15,3
+P1111,2025-12-18,C194,18-25,Male,Lucknow,India,Home Decor,Christmas Lights,Self,4493,1,4493,3015.84,1477.16,32.88,Card,Offline,10,3
+P1112,2025-12-23,C975,46-55,Male,Surat,India,Food & Sweets,Plum Cake,Sibling,781,2,1562,504.89,552.22,35.35,UPI,Online,5,5
+P1113,2025-12-06,C574,36-45,Female,Ahmedabad,India,Books,Inspirational Book,Self,731,2,1462,446.18,569.64,38.96,Card,Online,20,4
+P1114,2025-12-20,C439,46-55,Male,Indore,India,Electronics,Wireless Earbuds,Friend,2903,1,2903,1759.14,1143.86,39.4,UPI,Online,15,4
+P1115,2025-12-02,C409,26-35,Male,Pune,India,Electronics,Smart Watch,Spouse,3672,1,3672,2628.67,1043.33,28.41,Card,Online,15,5
+P1116,2025-12-20,C676,18-25,Female,Kolkata,India,Toys,Teddy Bear,Family,1847,1,1847,1144.77,702.23,38.02,Cash,Offline,0,5
+P1117,2025-12-02,C385,46-55,Female,Mumbai,India,Food & Sweets,Dry Fruits Box,Self,3517,1,3517,2331.05,1185.95,33.72,UPI,Offline,10,4
+P1118,2025-12-06,C188,26-35,Male,Kolkata,India,Home Decor,Decor Tree,Spouse,2492,1,2492,1540.43,951.57,38.18,Card,Offline,15,3
+P1119,2025-12-02,C337,26-35,Male,Hyderabad,India,Books,Inspirational Book,Friend,2019,2,4038,1246.49,1545.02,38.26,Cash,Offline,0,4
+P1120,2025-12-09,C699,18-25,Female,Bangalore,India,Toys,Puzzle Game,Family,599,1,599,406.53,192.47,32.13,UPI,Offline,5,3
+P1121,2025-12-06,C497,18-25,Male,Indore,India,Accessories,Handbag,Friend,4418,2,8836,2792.7,3250.6,36.79,Cash,Online,0,4
+P1122,2025-12-14,C959,36-45,Male,Hyderabad,India,Food & Sweets,Chocolate Hamper,Sibling,1849,1,1849,1283.28,565.72,30.6,UPI,Offline,0,4
+P1123,2025-12-12,C500,46-55,Male,Lucknow,India,Books,Diary,Friend,726,1,726,508.74,217.26,29.93,Card,Offline,5,3
+P1124,2025-12-14,C714,18-25,Female,Mumbai,India,Food & Sweets,Dry Fruits Box,Spouse,2856,2,5712,2044.8,1622.4,28.4,UPI,Online,0,4
+P1125,2025-12-11,C410,36-45,Female,Kolkata,India,Clothing,Winter Jacket,Spouse,2800,2,5600,1953.07,1693.86,30.25,Card,Offline,20,5
+P1126,2025-12-23,C601,36-45,Male,Hyderabad,India,Food & Sweets,Dry Fruits Box,Family,1624,2,3248,1056.51,1134.98,34.94,Card,Offline,20,5
+P1127,2025-12-12,C413,26-35,Female,Ahmedabad,India,Electronics,Wireless Earbuds,Sibling,3155,1,3155,2160.87,994.13,31.51,Card,Offline,20,4
+P1128,2025-12-23,C402,26-35,Female,Lucknow,India,Accessories,Wallet,Spouse,2042,1,2042,1470.93,571.07,27.97,Cash,Offline,5,4
+P1129,2025-12-10,C753,26-35,Male,Surat,India,Food & Sweets,Dry Fruits Box,Family,1920,1,1920,1360.68,559.32,29.13,UPI,Offline,10,3
+P1130,2025-12-05,C360,18-25,Female,Mumbai,India,Home Decor,Wall Candles,Sibling,2717,2,5434,1849.22,1735.56,31.94,Cash,Offline,0,3
+P1131,2025-12-18,C697,36-45,Female,Chennai,India,Electronics,Wireless Earbuds,Family,4555,2,9110,3371.67,2366.66,25.98,UPI,Offline,15,5
+P1132,2025-12-05,C285,18-25,Female,Delhi,India,Toys,Remote Car,Self,4081,2,8162,2640.29,2881.42,35.3,UPI,Offline,0,5
+P1133,2025-12-22,C533,26-35,Male,Indore,India,Food & Sweets,Plum Cake,Spouse,1543,1,1543,1140.06,402.94,26.11,UPI,Online,0,4
+P1134,2025-12-08,C325,36-45,Female,Chennai,India,Food & Sweets,Dry Fruits Box,Friend,2770,2,5540,1840.58,1858.84,33.55,UPI,Offline,5,3
+P1135,2025-12-03,C684,36-45,Female,Mumbai,India,Books,Diary,Self,2164,1,2164,1608.22,555.78,25.68,UPI,Offline,5,3
+P1136,2025-12-09,C209,18-25,Male,Indore,India,Home Decor,Decor Tree,Family,1856,1,1856,1369.07,486.93,26.24,Card,Offline,15,3
+P1137,2025-12-15,C253,46-55,Female,Delhi,India,Electronics,Smart Watch,Spouse,1171,2,2342,827.74,686.52,29.31,Card,Online,15,4
+P1138,2025-12-17,C730,46-55,Female,Surat,India,Books,Inspirational Book,Friend,3304,2,6608,1992.67,2622.66,39.69,Card,Online,0,5
+P1139,2025-12-07,C323,36-45,Female,Jaipur,India,Books,Inspirational Book,Family,3593,1,3593,2580.53,1012.47,28.18,UPI,Offline,5,4
+P1140,2025-12-03,C563,18-25,Female,Surat,India,Food & Sweets,Plum Cake,Family,698,1,698,486.38,211.62,30.32,Card,Offline,0,4
+P1141,2025-12-09,C456,26-35,Female,Pune,India,Home Decor,Decor Tree,Family,4148,2,8296,2544.46,3207.08,38.66,Card,Online,5,3
+P1142,2025-12-13,C473,18-25,Male,Mumbai,India,Books,Inspirational Book,Friend,4736,1,4736,3442.53,1293.47,27.31,UPI,Online,10,3
+P1143,2025-12-14,C385,26-35,Male,Jaipur,India,Food & Sweets,Plum Cake,Family,4211,1,4211,2711.77,1499.23,35.6,UPI,Online,5,3
+P1144,2025-12-14,C271,26-35,Male,Chennai,India,Food & Sweets,Chocolate Hamper,Spouse,1941,2,3882,1324.13,1233.74,31.78,Cash,Online,0,3
+P1145,2025-12-18,C879,36-45,Male,Bangalore,India,Clothing,Sweater,Spouse,4874,1,4874,3493.97,1380.03,28.31,UPI,Online,0,4
+P1146,2025-12-02,C503,26-35,Male,Delhi,India,Books,Novel Set,Sibling,2730,1,2730,1843.12,886.88,32.49,UPI,Online,5,5
+P1147,2025-12-06,C827,18-25,Male,Bangalore,India,Books,Diary,Spouse,2787,2,5574,1774.95,2024.1,36.31,UPI,Online,15,3
+P1148,2025-12-13,C663,46-55,Female,Indore,India,Toys,Remote Car,Spouse,4274,2,8548,2998.76,2550.48,29.84,Card,Offline,10,5
+P1149,2025-12-02,C311,18-25,Female,Hyderabad,India,Home Decor,Christmas Lights,Self,4621,2,9242,2860.1,3521.8,38.11,Cash,Offline,15,4
+P1150,2025-12-01,C320,46-55,Male,Kolkata,India,Clothing,Winter Jacket,Spouse,695,2,1390,467.79,454.42,32.69,Cash,Online,10,4
+P1151,2025-12-09,C598,46-55,Female,Lucknow,India,Electronics,Smart Watch,Sibling,634,1,634,466.34,167.66,26.44,Card,Online,15,3
+P1152,2025-12-04,C402,36-45,Male,Pune,India,Home Decor,Christmas Lights,Sibling,2510,1,2510,1843.74,666.26,26.54,Card,Offline,0,5
+P1153,2025-12-16,C169,36-45,Female,Chennai,India,Clothing,Winter Jacket,Family,4698,2,9396,2847.36,3701.28,39.39,Cash,Online,0,3
+P1154,2025-12-07,C745,36-45,Male,Kolkata,India,Electronics,Bluetooth Speaker,Sibling,2708,1,2708,1634.83,1073.17,39.63,Card,Offline,10,5
+P1155,2025-12-19,C226,46-55,Female,Jaipur,India,Clothing,Winter Jacket,Spouse,3514,1,3514,2530.73,983.27,27.98,UPI,Online,5,4
+P1156,2025-12-07,C195,46-55,Female,Jaipur,India,Clothing,Scarf,Friend,4103,2,8206,2550.39,3105.22,37.84,UPI,Online,10,3
+P1157,2025-12-05,C537,36-45,Male,Delhi,India,Electronics,Smart Watch,Self,3927,1,3927,2602.18,1324.82,33.74,UPI,Online,10,5
+P1158,2025-12-06,C788,46-55,Male,Mumbai,India,Home Decor,Christmas Lights,Sibling,2294,2,4588,1691.3,1205.4,26.27,Card,Offline,15,4
+P1159,2025-12-11,C639,26-35,Female,Surat,India,Food & Sweets,Dry Fruits Box,Friend,4988,2,9976,3465.31,3045.38,30.53,UPI,Online,15,4
+P1160,2025-12-24,C514,18-25,Female,Hyderabad,India,Clothing,Winter Jacket,Self,4668,2,9336,3150.11,3035.78,32.52,UPI,Online,5,3
+P1161,2025-12-13,C529,36-45,Female,Mumbai,India,Home Decor,Christmas Lights,Friend,1307,2,2614,865.1,883.8,33.81,UPI,Offline,0,4
+P1162,2025-12-16,C131,36-45,Female,Mumbai,India,Toys,Remote Car,Family,3825,2,7650,2383.38,2883.24,37.69,UPI,Offline,15,4
+P1163,2025-12-10,C349,26-35,Female,Bangalore,India,Food & Sweets,Chocolate Hamper,Spouse,3820,2,7640,2778.73,2082.54,27.26,Card,Offline,0,3
+P1164,2025-12-16,C194,26-35,Male,Delhi,India,Toys,Teddy Bear,Sibling,569,1,569,387.52,181.48,31.89,UPI,Online,5,4
+P1165,2025-12-10,C438,18-25,Male,Surat,India,Books,Diary,Self,3426,1,3426,2076.38,1349.62,39.39,UPI,Online,5,3
+P1166,2025-12-20,C956,18-25,Female,Bangalore,India,Home Decor,Wall Candles,Self,1380,2,2760,950.83,858.34,31.1,Card,Offline,5,5
+P1167,2025-12-08,C805,36-45,Male,Jaipur,India,Books,Inspirational Book,Family,4717,1,4717,3181.44,1535.56,32.55,Cash,Online,15,4
+P1168,2025-12-13,C528,26-35,Female,Indore,India,Clothing,Scarf,Family,3010,2,6020,2101.05,1817.9,30.2,UPI,Online,15,3
+P1169,2025-12-04,C251,18-25,Female,Bangalore,India,Accessories,Perfume,Friend,801,1,801,487.66,313.34,39.12,Cash,Online,10,4
+P1170,2025-12-04,C759,36-45,Male,Kolkata,India,Accessories,Handbag,Self,2459,2,4918,1635.97,1646.06,33.47,Card,Online,15,3
+P1171,2025-12-09,C498,26-35,Female,Kolkata,India,Clothing,Sweater,Sibling,900,1,900,653.55,246.45,27.38,Cash,Offline,15,3
+P1172,2025-12-19,C988,26-35,Male,Bangalore,India,Books,Diary,Family,3959,2,7918,2944.35,2029.3,25.63,Card,Online,15,4
+P1173,2025-12-16,C384,26-35,Male,Jaipur,India,Electronics,Smart Watch,Self,1649,1,1649,1116.24,532.76,32.31,UPI,Offline,10,5
+P1174,2025-12-17,C306,26-35,Male,Pune,India,Clothing,Winter Jacket,Spouse,522,1,522,351.0,171.0,32.76,Card,Offline,20,5
+P1175,2025-12-24,C919,18-25,Female,Lucknow,India,Food & Sweets,Dry Fruits Box,Spouse,2111,2,4222,1510.33,1201.34,28.45,Cash,Offline,20,4
+P1176,2025-12-21,C910,18-25,Female,Jaipur,India,Toys,Remote Car,Sibling,3224,1,3224,2131.39,1092.61,33.89,Cash,Online,10,5
+P1177,2025-12-02,C936,26-35,Female,Jaipur,India,Electronics,Wireless Earbuds,Family,2668,2,5336,1957.58,1420.84,26.63,UPI,Online,0,3
+P1178,2025-12-02,C177,36-45,Female,Delhi,India,Books,Diary,Spouse,2457,2,4914,1475.03,1963.94,39.97,Cash,Offline,20,5
+P1179,2025-12-08,C498,36-45,Male,Ahmedabad,India,Toys,Remote Car,Friend,2248,2,4496,1611.71,1272.58,28.3,UPI,Offline,0,4
+P1180,2025-12-24,C848,36-45,Male,Indore,India,Accessories,Perfume,Family,4431,1,4431,2724.71,1706.29,38.51,Cash,Offline,15,3
+P1181,2025-12-10,C416,18-25,Male,Bangalore,India,Home Decor,Christmas Lights,Self,1842,2,3684,1132.17,1419.66,38.54,UPI,Online,0,4
+P1182,2025-12-18,C576,18-25,Female,Indore,India,Electronics,Smart Watch,Spouse,4196,2,8392,2594.03,3203.94,38.18,Card,Online,10,3
+P1183,2025-12-09,C842,18-25,Male,Mumbai,India,Clothing,Sweater,Friend,3677,1,3677,2506.96,1170.04,31.82,UPI,Offline,5,5
+P1184,2025-12-21,C459,18-25,Female,Jaipur,India,Books,Inspirational Book,Sibling,4881,1,4881,3279.07,1601.93,32.82,UPI,Offline,5,3
+P1185,2025-12-24,C332,46-55,Female,Jaipur,India,Electronics,Bluetooth Speaker,Family,4460,1,4460,3329.04,1130.96,25.36,Cash,Offline,5,3
+P1186,2025-12-01,C780,36-45,Female,Jaipur,India,Toys,Remote Car,Self,2040,1,2040,1398.71,641.29,31.44,Card,Offline,0,3
+P1187,2025-12-16,C606,36-45,Male,Surat,India,Books,Novel Set,Self,4764,1,4764,3282.08,1481.92,31.11,Cash,Offline,5,4
+P1188,2025-12-02,C407,26-35,Female,Jaipur,India,Food & Sweets,Plum Cake,Friend,2903,1,2903,2115.7,787.3,27.12,Card,Offline,15,3
+P1189,2025-12-10,C516,18-25,Male,Hyderabad,India,Food & Sweets,Plum Cake,Family,1115,2,2230,720.58,788.84,35.37,UPI,Online,5,5
+P1190,2025-12-09,C886,36-45,Female,Mumbai,India,Food & Sweets,Dry Fruits Box,Friend,1320,2,2640,814.45,1011.1,38.3,Cash,Online,20,3
+P1191,2025-12-18,C872,18-25,Female,Ahmedabad,India,Electronics,Smart Watch,Family,2765,2,5530,2008.0,1514.0,27.38,UPI,Offline,0,4
+P1192,2025-12-05,C170,18-25,Male,Mumbai,India,Home Decor,Christmas Lights,Sibling,3230,2,6460,2297.06,1865.88,28.88,UPI,Offline,10,4
+P1193,2025-12-18,C913,26-35,Male,Pune,India,Food & Sweets,Chocolate Hamper,Friend,2665,1,2665,1835.19,829.81,31.14,UPI,Online,0,4
+P1194,2025-12-22,C621,26-35,Female,Delhi,India,Electronics,Bluetooth Speaker,Spouse,1537,1,1537,1092.31,444.69,28.93,Card,Online,15,5
+P1195,2025-12-13,C297,36-45,Female,Bangalore,India,Electronics,Smart Watch,Sibling,4020,1,4020,2781.79,1238.21,30.8,Cash,Offline,20,4
+P1196,2025-12-20,C609,18-25,Male,Jaipur,India,Clothing,Sweater,Spouse,1521,2,3042,970.78,1100.44,36.17,UPI,Offline,5,5
+P1197,2025-12-02,C336,26-35,Male,Lucknow,India,Electronics,Bluetooth Speaker,Self,1482,1,1482,918.64,563.36,38.01,Cash,Offline,5,3
+P1198,2025-12-23,C114,46-55,Male,Pune,India,Clothing,Sweater,Friend,523,1,523,370.07,152.93,29.24,Card,Online,5,5
+P1199,2025-12-13,C775,36-45,Female,Indore,India,Accessories,Perfume,Friend,3520,2,7040,2627.99,1784.02,25.34,Cash,Online,5,4
+P1200,2025-12-09,C547,18-25,Female,Delhi,India,Clothing,Sweater,Sibling,2488,2,4976,1675.26,1625.48,32.67,Card,Online,0,3
